@@ -1,0 +1,7226 @@
+.col-sm-2.switchbtn.prospect {
+  padding: 0px !important;
+  margin-top: 0px !important;
+}
+.addTagsSaveBtn {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end !important;
+}
+.swiper.swiper-initialized.swiper-horizontal.mySwiper.waterBodySwiper.prsopectWateerbody .swiper-slide{
+  padding: 0 45px;
+}
+.swiper.swiper-initialized.swiper-horizontal.mySwiper.waterBodySwiper.prsopectWateerbody .swiper-button-prev{
+  left: 0% !important;
+}
+.swiper.swiper-initialized.swiper-horizontal.mySwiper.waterBodySwiper.prsopectWateerbody .swiper-button-next{
+  right: 0 !important;
+}
+.col-sm-12.editShoppingFormSaveBtn button {
+  width: 100px !important;
+}
+.col-sm-5.editShoppingFormSubHeader {
+  min-width: 100% !important;
+}
+.row.serviceLogDetailPageCols {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start !important;
+  margin-left: -15px !important;
+}
+.row.customers.labourInvoice.ChemicalInvoice{
+  padding-top: 20px;
+}
+.addTechnicianFormmmss {
+  padding: 25px !important;
+}
+
+.addTechnicianFormmmss .col-sm-12.submitbtn button {
+  width: 100px !important;
+  padding: 10px 0px !important;
+}
+
+.addTechnicianFormmmss .col-sm-12 {
+  padding-bottom: 15px !important;
+}
+
+.modal-body .addEquipments {
+  padding: 0px !important;
+}
+
+.addEquipments button {
+  padding: 10px 0px !important;
+  width: 100px !important;
+}
+
+.row .addEquipments {
+  padding: auto !important;
+}
+
+.editEquipments {
+  background-color: #fff !important;
+  padding: 0px !important;
+  border-radius: 12px;
+  padding-top: 0px !important;
+  width: 95%;
+  margin: auto;
+}
+
+form.workOrderType input {
+  width: 90% !important ;
+}
+form.dosaaaggeesss {
+  min-width: 100% !important;
+  background: #dbdbdb;
+}
+form.dosaaaggeesss input {
+  width: 100% !important;
+}
+form.dosaaaggeesss .col-sm-5 {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+  width: 45% !important;
+}
+.row.padding-row.registerForm.paymentForm h2 {
+  font-size: 16px !important;
+}
+.col-sm-2.valueForm1 .ant-form-item {
+  margin-bottom: 0px !important;
+}
+.col-sm-12.addWorkOrderTypw h2 {
+  margin-left: 20px !important;
+  margin-bottom: 20px !important;
+}
+.row.cslocation.taxGroupMainPage .customers h2 {
+  margin: 15px 0 !important;
+}
+.mainHeadChemical h1{
+  padding: 0 20px;
+  margin: 20px 0 10px;
+  font-weight: 500;
+  font-size: 28px; 
+}
+.mainHeadChemical h3{
+  padding: 0 20px;
+  margin: 20px 0 10px;
+  font-weight: 500;
+  font-size: 22px; 
+}
+.mainHeadChemical p{
+  padding: 0 20px;
+  margin: 10px 0;
+  font-size: 14px; 
+}
+.col-sm-12.workOrderSettingggss .ant-checkbox + span {
+  text-transform: capitalize !important;
+  color: #000 !important;
+}
+.col-sm-12.workOrderSettingggss .ant-form-item {
+  margin-bottom: 0;
+}
+form.dosaaaggeesss .col-sm-2 {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+form.dosaaaggeesss .col-sm-2 button {
+  min-width: 100% !important;
+}
+.accccc {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start !important;
+}
+span.row.display-flex-1 .col-sm-1 {
+  margin-top: 0% !important;
+}
+
+span.row.display-flex-1 .col-sm-1 .anticon[tabindex] {
+  margin-top: 0% !important;
+}
+.addDosageBtn button {
+  width: 150px !important;
+}
+
+.wordkorder .row.fomik.addWorkOrderTypeForm {
+  margin-left: 0px !important;
+}
+
+.ant-modal-footer .ant-btn-primary {
+  height: 33px !important;
+}
+
+.ant-modal-footer .ant-btn-default {
+  height: 33px !important;
+  border-radius: 15px !important;
+  /*   
+  font-weight: 700;
+  text-transform: uppercase; */
+}
+
+.generalFilters .ant-radio-group.ant-radio-group-outline {
+  width: 100%;
+  margin: 0 auto;
+}
+.generalFilters .col-sm-6 p,
+.col-sm-12 p {
+  text-align: start;
+}
+h4.sortCustHead {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 0;
+}
+form#General
+  .ant-select-outlined:not(.ant-select-customize-input)
+  .ant-select-selector {
+  color: black !important;
+}
+.row.fomik.customer.cslocation.generalFilters.customerInfo
+  label.ant-radio-wrapper
+  span {
+  color: black;
+  text-align: left;
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+.generalFilters .ant-form-item .ant-form-item-control-input {
+  margin: 0 auto;
+  width: 100%;
+}
+.generalFilters p {
+  color: #000;
+  font-size: 14px;
+}
+.col-sm-12.generalFilterSelect {
+  width: 100% !important;
+  display: flex;
+  flex-direction: column !important;
+  /* gap: 10px !important; */
+}
+.col-sm-5.checcKlisssst .row.cslocation {
+  margin-right: 0px !important;
+}
+.fomik .generalFilters input {
+  border: 1px solid #c9c8c8 !important;
+}
+
+.generalFiltersResult {
+  width: 100% !important;
+  background: #ffffff !important;
+  border-radius: 20px !important;
+  padding-top: 20px !important;
+}
+
+.col-sm-6.monthFilter .ant-form-item {
+  margin-bottom: 0px !important;
+}
+.col-sm-6.monthDatePicker {
+  display: flex;
+  justify-content: flex-end;
+}
+.col-sm-6.generalFiltersResultBtn {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem !important;
+}
+/* .row.grayshade.cslocation.generalSettingForms {
+    margin-top: 0;
+  } */
+.col-sm-6.generalFiltersResultBtn button {
+  height: 41px !important;
+  width: auto;
+  padding: 0px 30px !important;
+}
+.col-sm-2.switchbtn.prospect .inside {
+  height: 32px;
+  display: flex;
+  align-items: center;
+}
+.row.generalSububHeader {
+  display: flex;
+  flex-direction: row !important;
+}
+.col-sm-12.npGap .ant-form-item {
+  margin-bottom: 12px;
+}
+.col-sm-6.generalSububHeaderBtn {
+  display: flex;
+  justify-content: flex-end !important;
+}
+.row.grayshade.cslocation.generalSettingForms {
+  padding: 20px 0;
+}
+.row.generalSettingHeader {
+  display: flex;
+  padding-left: 40px !important;
+}
+form#General .ant-checkbox + span {
+  text-transform: capitalize !important;
+}
+.row.generalSettingHeader p {
+  font-weight: 800;
+  color: #1a4a5b;
+  text-transform: capitalize;
+  font-size: 28px;
+}
+.col-sm-4.totalProfits {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: -50px;
+}
+.col-sm-4.totalProfitsssss {
+  display: flex;
+  justify-content: flex-end;
+}
+.col-sm-8.serviceProfit {
+  display: flex;
+  justify-content: flex-end;
+}
+.col-sm-3.serviceProfit {
+  display: flex;
+  justify-content: flex-end;
+}
+.row.serviceProfit {
+  margin-top: 20px;
+}
+.row.profileReportDescription {
+  margin-top: 25px;
+  padding: 20px;
+}
+.col-sm-6.profitReportt .filteraccordian .main{
+  margin-bottom: 45px;
+}
+.main.profitTablelee {
+  margin-top: 15px;
+}
+.col-sm-12.profitListingg .accordion-item {
+  margin-top: 0;
+  padding: 15px 20px;
+}
+.col-sm-12.profitListingg .accordion-item p {
+  font-size: 14px !important;
+  font-weight: 700 !important;
+}
+form.myfilters.tableFilters.labourReportInvoice {
+  margin-top: 20px;
+}
+.ct-chart.finishedOrder td img {
+  margin-left: 5px;
+}
+.valuesBtnnnn .valuesBtnnnnYellow {
+  min-height: 49px !important;
+}
+button.bluebtn.taxBTNN {
+  margin-right: 0 !important;
+}
+.col-sm-12.aaddViieeww {
+  display: flex;
+  gap: 10px;
+}
+.addnew-workorder-type {
+  margin-top: 30px;
+}
+.notidrop a:hover {
+  border-radius: 15px;
+}
+.col-sm-12.chemicalRight .col-sm-3 h6 {
+  font-size: 18px;
+  text-transform: capitalize;
+}
+.row.customers.labourInvoice .col-sm-3 h2 {
+  font-size: 24px !important;
+}
+.row.labourInvoice h6 {
+  text-transform: capitalize !important;
+}
+.col-sm-5.serviceLocation {
+  padding-left: 0px !important;
+  word-break: break-word;
+}
+
+.col-sm-4.poolWaterBody {
+  /* padding-left: 0px !important; */
+  word-break: break-word;
+}
+
+.col-sm-3.totalProfitsDetails {
+  padding-left: 0px !important;
+}
+.col-sm-12.profitListingTable {
+  overflow-x: scroll !important;
+}
+.col-sm-6.monthDatePicker .ant-picker {
+  width: 100% !important;
+  height: 50px !important;
+  border-radius: 10px !important;
+}
+.invoiceFilter .ant-picker-input > input {
+  background-color: #ffffff !important;
+}
+.gstTable table {
+  overflow-x: scroll !important;
+}
+.col-sm-6.generalFiltersResultText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.row.profitreportTableesssss .col-sm-12.tableee {
+  /* width: 95% !important;
+  */
+  overflow-x: scroll; 
+  padding-left: 0px !important;
+}
+.row.profileReportDescription.cslocation {
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+.row.profileReportDescription.cslocation .col-sm-8,.row.profileReportDescription.cslocation .col-sm-4{
+  max-width: 50%;
+  width: 50%;
+  flex: 0 0 50%;
+}
+.row.cslocation.pprofitRepoort .accordion-item{
+  padding: 0 0 20px !important;
+}
+.row.cslocation.pprofitRepoort button.accordion-button{
+  margin-left: 0 !important;
+}
+.row.profitreportTableesssss .col-sm-12 table {
+  width: 100% !important;
+  overflow-x: scroll;
+}
+.col-sm-12.profitListingTable table {
+  width: 100% !important;
+}
+.modals .pooltypeModaaallllll {
+  width: 100% !important;
+  display: flex;
+  justify-content: flex-end;
+}
+.col-sm-2.radioBtnAddPoolCustomer span {
+  color: black !important;
+  text-align: left !important;
+}
+.col-sm-2.radioBtnAddPoolCustomer {
+  padding: 12px 0px !important;
+}
+.row.routefilterssomebody .col-sm-3 {
+  min-width: 25% !important;
+  max-width: 25% !important;
+}
+.row.row.routefilterssomebody {
+  margin-right: 15px !important;
+}
+.col-sm-1.dltIconnnnnnnn .ant-form-item {
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
+}
+.row.equipmentModaalllll {
+  width: 95% !important;
+}
+.row.uploadImagePoOOLll input {
+  background-color: #fff;
+  padding: 12px 10px;
+  border-radius: 8px;
+  height: 50px;
+  border: 1px solid #efefef !important;
+  margin-bottom: 0 !important;
+  width: 100% !important;
+  background: #f3f1f1;
+  border-radius: 10px !important;
+}
+.col-sm-6.uploadImageeePoolAccordion {
+  display: flex;
+  flex-direction: row;
+}
+.col-sm-12.uploadImageeePoolAccordionBtn {
+  display: flex;
+  justify-content: flex-end;
+}
+.ant-select-multiple .ant-select-selection-overflow {
+  position: relative;
+  display: flex;
+  flex: auto;
+  flex-wrap: nowrap;
+  max-width: 100%;
+  overflow: hidden;
+}
+.row.additionalDetailsss {
+  width: 100% !important;
+  position: relative;
+}
+
+.additionalDetailsss .col-sm-5 {
+  min-width: 48.5% !important;
+  max-width: 97% !important;
+}
+.addcustomersdetails.editCustomeDetails {
+  padding: 10px 22px 15px 10px;
+}
+.row.additionalDetailsss .formIcon {
+  position: absolute;
+  top: 40%;
+  right: 1%;
+}
+.row.cslocation {
+  margin-right: 0px !important;
+}
+.onTabletDisplay {
+  display: none !important;
+}
+.row.editedit .anticon[tabindex] {
+  align-items: center !important;
+}
+.modal .modal-content .modal-body {
+  align-items: center;
+}
+.workdetail h3 {
+  text-transform: capitalize;
+}
+.ant-card-body {
+  text-transform: capitalize !important;
+}
+.col-sm-12.switchBtn .ant-form-item .ant-form-item-label >label {
+    height: auto !important;
+    margin: 0 !important;
+}
+.col-sm-12.switchBtn .ant-form-item .ant-form-item-control-input {
+    min-height: auto !important;
+    margin: 0 !important;
+}
+.Retrive_btn_css {
+  gap: 10px;
+}
+.row.fomik.fomik1.cslocation {
+  margin-right: 0px !important;
+}
+.row.additionalDetailsssOne {
+  width: 100% !important;
+  position: relative;
+}
+.row.slignc .col-sm-3.forFifty input {
+  text-align: left !important;
+  background-color: #f3f1f1 !important;
+}
+.row.new-head-invoice.cslocation {
+  margin-right: 25px !important;
+}
+.row.invoice-css-data.cslocation {
+  margin-left: 6px !important;
+}
+.additionalDetailsssOne .col-sm-5 {
+  min-width: 48.5% !important;
+  max-width: 97% !important;
+}
+.anticon[tabindex] {
+  align-items: flex-start;
+}
+.ant-btn-dashed {
+  border-style: outset;
+}
+.row.additionalDetailsssOne .formIconOne {
+  position: absolute;
+  top: 40%;
+  right: 1%;
+}
+.row.additionalDetailsssService {
+  width: 100% !important;
+  position: relative;
+}
+.additionalDetailsssService .col-sm-5 {
+  min-width: 48% !important;
+  max-width: 96% !important;
+}
+.col-sm-6.installedItemHeader .ant-select, .col-sm-3.installedItemHeader .ant-select {
+  width: 100% !important;
+}
+.additionalDetailsssService .col-sm-12 {
+  min-width: 96% !important;
+  max-width: 96% !important;
+}
+.row.additionalDetailsssService .formIcon {
+  position: absolute;
+  top: 40%;
+  right: 2%;
+}
+.col-sm-6.addPoolTypeBtn {
+  display: flex;
+  justify-content: flex-end;
+}
+.profServiceLocationBlue.inner1 span{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.col-sm-12.buttonsservice .profServiceLocationBlue {
+  padding: 0px 30px !important;
+  height: 40px;
+  border-radius: 0 !important;
+  text-align: center;
+  font-weight: 600;
+  border-radius: 15px !important;
+  height: 50px !important;
+  margin: 0px 5px !important;
+}
+.taxratemodal.taxGrpModal.modal.show .container-fluid.modals {
+  width: 95% !important;
+  margin-bottom: 40px;
+}
+.navbar .navbar-nav .dropdown-toggle:after {
+  margin-top: 0px !important;
+}
+.col-sm-6.addbuttons .profServiceLocationBlue {
+  width: auto !important;
+  padding: 0px 30px !important;
+  border-radius: 0 !important;
+  text-align: center;
+  border-radius: 10px !important;
+  height: 40px !important;
+  margin: 0px 5px !important;
+}
+.row.fomik .profServiceLocationAccordion {
+  margin-right: 15px !important;
+}
+.col-sm-12.submitbtn.workBtn.techlnglat {
+  padding: 0px;
+}
+.col-sm-12.buttonsservice .yellowbtn.profServiceLocationyellow, .yellowbtn.updateCustomer{
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  margin-right: 0 !important;
+}
+.bluebtn.addSubscribrrr {
+  background: #fab51c !important;
+  border-radius: 15px;
+  color: #ffffff;
+}
+.row.waterbody-sm {
+  padding: 14px;
+}
+.custFiltwer .fa {
+  color: #ffffff;
+}
+.row.waterbody-sm.activebody-21.newdata-css-12 {
+  padding: 14px;
+}
+.custFiltwer button {
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+.custFiltwer input {
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+.graphfilter .legend {
+  color: #676767;
+}
+.row.newrow h4 {
+  margin-top: 20px;
+}
+form.myfilters.tableFilters.labourReportInvoice .row .col-sm-6 select {
+  width: 100% !important;
+}
+form.myfilters1.custFiltwer {
+  margin-top: 15px;
+}
+.content.dasssssshhhBoarrddd .container-fluid {
+  padding-left: 0px !important;
+}
+form.myfilters.tableFilters.labourReportInvoice select, form.myfilters.tableFilters.labourReportInvoice button {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  height: 50px !important;
+}
+.theme-class-data {
+  border-radius: 10px;
+}
+.container.rounded.bg-white.mt-5.mb-5 .row {
+  align-items: flex-start;
+}
+form.myfilters.tableFilters.labourReportInvoice .ant-picker {
+  height: 50px !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+.row.fomik.custServLocagtion {
+  padding: 40px 0px 0px;
+}
+.col-sm-12.checkBoxxx label {
+  margin: 0 24px 24px 0 !important;
+}
+.taxGrpModal.modal.show .modal-dialog .modal-content {
+  margin: auto !important;
+  width: 100% !important;
+}
+.col-sm-12.textAREAAA .ant-input-textarea-affix-wrapper.ant-input-affix-wrapper {
+  border-radius: 10px;
+  border: 1px solid #efefef !important;
+}
+.row.waterbody-sm.activebody-21 .col-sm-5 {
+  word-break: break-word;
+}
+.row.waterbody-sm .col-sm-5 {
+  word-break: break-word;
+}
+.row.class-login-new {
+  margin-top: 50px;
+  align-items: flex-start;
+}
+.container-fluid.stepsform.stepsform1.registerrationFOrm .row.class-login-new {
+  margin-top: 0px;
+}
+.loginBtn button {
+  width: auto !important;
+  padding: 0 50px !important;
+}
+.col-sm-12.loginBtn {
+  justify-content: flex-end;
+  display: flex;
+}
+.legend.col-sm-4 {
+  display: flex !important;
+  padding: 0 15px !important;
+  flex-wrap: wrap;
+}
+.legend.col-sm-4 div{
+  margin-right: 10px !important;
+}
+.row.fomik.addRoute.registerForm input {
+  border-color: #d9d9d9 !important;
+}
+.graphfilter .filters .ant-select-selector {
+  display: flex !important;
+}
+.graaphh.card {
+  height: 600px !important;
+}
+.graphfilter.row.cslocation.card-footer {
+  margin-bottom: 10px !important;
+}
+.sameheight.row {
+  align-items: flex-start;
+}
+.graphfilter .filters .ant-select{
+  width: 100% !important;
+}
+.routedashboard.card .card-body {
+  padding: 0 !important;
+}
+.row.performance_row .col-sm-2 {
+  max-width: 22% !important;
+  padding: 0 15px !important;
+  flex: 0 0 22% !important;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+}
+.row.performance_row .col-sm-2 h6{
+  text-transform: capitalize !important;
+}
+.graphh.card-body .ct-chart {
+  height: auto !important;
+}
+.week_performance h4 {
+  margin: 0 0 15px;
+  font-weight: 500;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+input#basic_password, input#Customer_password, input#basic_firstpassword, input#basic_confirmPassword {
+  padding-left: 12px;
+  border: 0 solid #d9d9d9 !important;
+}
+.row.grayshade .flex-column {
+  border-radius: 6px !important;
+}
+.serviceRedings .row .col-sm-11 {
+  word-break: break-word;
+}
+.col-sm-6.froImageBaner {
+  padding: 0;
+}
+.row.adrrLocation {
+  margin-right: 0px !important;
+}
+.row.adrrLocation .yellowbtn {
+  margin-right: 0px !important;
+}
+select.form-select.form-select-sm.select2.selectNext {
+  width: 18% !important;
+}
+.ant-modal-root .ant-modal-mask {
+  background-color: rgba(0, 0, 0, 0);
+  pointer-events: none;
+}
+input.emailInput {
+  width: 30% !important;
+}
+form.tableFilters.invoiceFilter {
+  margin-top: 30px !important;
+}
+.select2.selectNext {
+  width: 20% !important;
+}
+.select2.selectNext .ant-select-selector {
+  background-color: transparent !important;
+  border: none !important;
+}
+.col-sm-12.savebtn.addProductType.taxRate button {
+  width: 50% !important;
+}
+.col-sm-12.savebtn.addProductType.taxRate {
+  text-align: center !important;
+}
+form.myfilters.productFiltersss {
+  background: #bfbfbf;
+}
+.ant-select.ant-select-outlined.form-select.form-select-sm.select2.selectNext
+  .ant-select-selector {
+  height: 40px !important;
+}
+.select2.selectNext .ant-select-selection-item, .select2.selectNext .ant-select-selection-placeholder {
+  color: white !important;
+  font-weight: 500;
+  font-size: 16px;
+}
+.select2.selectNext {
+  border: unset !important;
+  color: #fff !important;
+}
+.col-sm-12 form.userFilter input.simpleInput {
+  width: 20%;
+}
+form.myfilters.tableFilters.grayFilters.equipment {
+  background: #bfbfbf !important;
+}
+.col-sm-7.right.equipmentssss {
+  padding-right: 15px !important;
+  margin-left: 0px !important;
+}
+form.myfilters input {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.googlemap_frame {
+  position: relative;
+}
+.row.grayshade.emailBroadcast .col-sm-6.email .col-sm-8 {
+  width: 70% !important;
+}
+.row.grayshade.emailBroadcast .col-sm-6.email .col-sm-2 {
+  width: 30% !important;
+  flex: 0 0 30%;
+}
+.filteraccordian.workTabsss {
+  margin: 0 0 20px 0;
+}
+.mapRadius {
+  height: 100% !important;
+  position: relative !important;
+  border-radius: 15px !important;
+}
+span.ant-tag {
+  margin: 5px;
+}
+.routefilters select {
+  border-radius: 7px !important;
+  font-size: 16px;
+}
+.yellowbtn.addReadingsssSaveBtn.adProfduct {
+  margin-right: 0px !important;
+}
+form.myfilters.workOrderType {
+  background: #d9d9d9;
+}
+.row.fomik.addRoute.taxratee {
+  width: 90% !important;
+}
+.col-sm-6.uploadImageeePoolAccordion span.ant-upload button {
+  margin-left: 0px !important;
+  height: 50px;
+  margin-top: 10px;
+}
+.row.CustomerInfo.activebody-21 {
+  background: #e7e6e6;
+  align-items: flex-start;
+}
+.maptime-distance {
+  border-radius: 6px;
+}
+.col-sm-2.editbtn {
+  padding: 12px;
+}
+.col-sm-2.switchbtn.radioBtnAddPoolCustomer label {
+  display: flex;
+  margin-bottom: 0rem !important;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}
+.ant-input-affix-wrapper, .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+  border-radius: 10px;
+}
+.row.fomik.addRoute.registerForm form#Customer {
+  margin: 15px 0px !important;
+}
+input#Customer_Range ::placeholder {
+  color: #00000075 !important;
+}
+.fomik .ant-select-selection-search-input ::placeholder {
+  color: #00000075 !important;
+  font-size: 16px;
+  font-weight: 600;
+}
+.ant-upload-list-item-action .anticon[tabindex] {
+  margin: 0 !important;
+}
+.col-sm-2.switchbtn.radioBtnAddPoolCustomer input[type="radio"], input[type="checkbox"] {
+  margin: 0px 0 0 !important;
+}
+.row.padding-row.registerForm.paymentForm {
+  align-items: flex-start;
+  background: none !important;
+}
+.top-account-css {
+  width: 100%;
+}
+.row.padding-row.registerForm.paymentForm .bnrimgone {
+  margin-top: 0px !important;
+  width: 85%;
+}
+.row.padding-row1.cslocation.forgetFPage .col-sm-6.froImageBaner .bnrimgone {
+  margin-top: 0;
+  width: 85%;
+}
+.row.padding-row1.cslocation.forgetFPage .col-sm-6.froImageBaner {
+  display: flex;
+  justify-content: flex-end;
+}
+.col-sm-6.forgetForm {
+  margin-top: 30px;
+}
+.row.padding-row1.cslocation.forgetFPage {
+  align-items: flex-start;
+}
+.row.row.padding-row.registerForm.paymentForm .col-sm-6.froImageBaner {
+  justify-content: flex-end;
+  display: flex;
+}
+.row.padding-row.registerForm.paymentForm .col-sm-6.stepforms.step.steps {
+  margin-top: 25px;
+}
+.registerForm h3 {
+  text-align: center;
+}
+.col-sm-12.paymentBtn.inDash {
+  padding: 25px 15px;
+}
+.col-sm-12.paymentBtn.inDash button {
+  padding: 0 30px !important;
+}
+.imagesform {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  padding: 25px 20px;
+}
+.imagesform img {
+  width: 50px;
+}
+.addcustomers .paymentForm h4 {
+  font-size: 24px !important;
+  font-weight: 600;
+}
+.paymentPage .col-sm-6.height-adjust {
+  height: auto;
+  padding: 0;
+}
+.row.cslocation.paymentPage {
+  align-items: flex-start;
+}
+.cancelSubTitle {
+  font-weight: 600;
+  font-size: 16px;
+  margin: 20px 0 10px;
+}
+.row.serviceLogDetailPageCols.cslocation {
+  margin-left: 0 !important;
+}
+.row.customers.servicedata_header {
+  align-items: flex-start;
+}
+div#Pool_waterbody_type_id .col-sm-2.radioBtnAddPoolCustomer {
+  padding: 0px 0px !important;
+}
+.container-fluid.wordkorder.seruvceInfooo {
+  width: 97%;
+}
+.col-sm-2.check {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+.row.fomik.dynamic_form_nest_item.dateees {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.row.fomik.dynamic_form_nest_item.dateees .col-sm-11 {
+  padding: 0 !important;
+}
+.row.fomik.dynamic_form_nest_item.dateees .col-sm-11 p {
+  margin: 10px 0 !important;
+  text-align: center;
+}
+.col-sm-10.checkc p {
+  word-break: break-word;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+.row.routefilters.routeMap {
+  margin: 0;
+}
+button.OptimizeRouteBtn {
+  padding: 0px;
+  height: 50px;
+  border-radius: 10px !important;
+}
+.col-sm-12.prospectButton {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+.workCustomer h4,
+.workPool p {
+  margin: 0;
+}
+form input {
+  border: 1px solid #d9d9d9 !important;
+}
+input#nest-messages_password {
+  border: none !important;
+  border-radius: 15px;
+}
+button.historybtn {
+  width: 100%;
+}
+.maptime-distance p {
+  margin-bottom: 4px;
+}
+.date-day {
+  font-size: 18px;
+  font-weight: 600;
+}
+.col-sm-10.roueTabsMax h2, .col-sm-12.roueTabsMax .row h2, .col-sm-6.roueTabsMax h2 {
+  font-size: 18px !important;
+}
+.col-sm-3.right.slog {
+  display: flex;
+  justify-content: flex-end;
+}
+.toTab {
+  display: none;
+}
+.col-sm-12.loginBtn.regNextButton {
+  justify-content: flex-end;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.ant-form-item-explain-error {
+  font-size: 12px;
+}
+.row.cslocation.registerFOrrmmm .ant-form-item, .col-sm-6.loginInputs.forgetForm .ant-form-item {
+  margin-bottom: 8px !important;
+}
+h2.carddetails.paymentScreen {
+  font-weight: 700;
+  text-decoration: none;
+  text-align: left;
+  padding-left: 15px;
+  color: #000;
+}
+.df div:hover {
+  background: #000;
+  transition: all ease-in-out 300ms;
+  .fbb,
+  .inssta,
+  .linkkedINN {
+    color: #fab51c;
+    transition: all ease-in-out 300ms;
+  }
+}
+.row.customers.addTechnicianFormmmss {
+  padding: 0 10px 10px !important;
+}
+.workCustomer h4 {
+  font-size: 18px !important;
+}
+h3.datefilter-h3 {
+  font-size: 18px !important;
+  font-weight: 600;
+}
+.customers h2 {
+  font-size: 28px !important;
+  text-transform: capitalize !important;
+  color: var(--primary-color) !important;
+  margin: 0 !important;
+}
+.row.shoppingTab {
+  margin-top: 20px;
+}
+.sideBarComp li button.accordion-button {
+  width: 280px !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  border-radius: 0 !important;
+}
+.row.fomik.addRoute.registerForm {
+  padding-top: 0;
+}
+.sidebar .sidebar-wrapper, body > .navbar-collapse .sidebar-wrapper {
+  width: 100% !important;
+}
+.sidebar .nav li .nav-link, body > .navbar-collapse .nav li .nav-link {
+  margin: 5px 0 !important;
+  border-radius: 0 !important;
+}
+.col-sm-12.loginBtn.regNextButton .top-account-css {
+  padding: 0 0;
+}
+.col-sm-12.loginBtn.regNextButton .ant-form-item {
+  margin-bottom: 0;
+}
+.routeH3 {
+  font-size: 18px;
+  margin: 20px 0 20px 25px;
+  font-weight: 600;
+}
+.miles div {
+  margin-top: 15px !important;
+  padding: 0 15px !important;
+}
+.row.grayshade.emailBroadcast.smsSetting .ant-btn-primary.yellowbtn {
+  text-transform: capitalize !important;
+  font-weight: 600;
+}
+.addcustomers h2 {
+  text-transform: capitalize;
+}
+.col-sm-6.abc.notDisplay .mapRadius {
+  margin-top: 22px;
+}
+.col-sm-6.abc.notDisplay .mapRadius div {
+  border-radius: 15px;
+}
+.col-sm-12.prospectButton button {
+  margin-right: 0;
+  height: 41px;
+  background: #1a4a5b !important;
+  padding: 0 30px;
+  font-weight: 600;
+}
+.row.grayshade.emailBroadcast.smsSetting .row.fomik.customer.customerInfo.emailFilters span.ant-upload button {
+  margin-left: 0%;
+  margin-top: 0;
+}
+.prospectlist td {
+  cursor: pointer;
+}
+.aaa.nav-item{
+  border-radius: 8px !important;
+}
+.workOrderMap .mapRadius {
+  margin-top: 0px;
+}
+.workOrderMap .mapRadius div {
+  border-radius: 15px;
+}
+.container-fluid.modals.fomik.addRoute.editWorkOrder form#Customer {
+  margin-left: 0px;
+}
+.row.fomik.addRoute.taxratee.reason form#Customer {
+  margin-left: 0 !important;
+}
+.col-sm-12.prospectButton button:hover {
+  color: white !important;
+}
+.col-sm-12.forTopMArgin {
+  margin-top: 18px;
+}
+.col-sm-12.fornoMargin .ant-form-item {
+  margin-bottom: 6px;
+}
+.col-sm-12.fornoMargin .ant-form-item label span {
+  text-transform: capitalize !important;
+}
+.col-sm-2.addPoolTypeBtn.prospectt button {
+  height: 41px !important;
+  padding: 0 30px;
+}
+textarea#dynamic_form_nest_item_workNeeded {
+  border-radius: 10px;
+}
+.subHeadingAddProspect {
+  font-size: 18px;
+  font-weight: 600 !important;
+  padding-left: 15px;
+  margin-bottom: 1rem;
+}
+.col-sm-10.freqnuency {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.wheret {
+  color: white;
+}
+button.addviewbtn.linkbn a {
+  color: white;
+  text-decoration: none;
+}
+.row.CustomerInfo.prrrosepect .col-sm-12 {
+  display: flex;
+  flex-direction: column;
+}
+.propsecth3 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-left: 12px;
+}
+.row.customerdetail.prospect {
+  align-items: flex-start;
+}
+.checkboXFreq .ant-checkbox-group {
+  column-gap: 20px;
+}
+.col-sm-12.buttonsservice.prospect button {
+  margin-left: 20px !important;
+}
+.col-sm-12.frwquencyss {
+  background: #f0f0f0;
+  padding: 20px 35px !important;
+  border-radius: 15px;
+  margin: 10px auto;
+}
+.notidrop.prospecttt.dropdown.nav-item {
+  background: var(--primary-color);
+  border: 0 !important;
+  border-radius: 12px;
+}
+.notidrop.prospecttt.dropdown.nav-item button {
+  border: unset;
+  color: #fff !important;
+  opacity: 1;
+  font-size: 14px;
+  border-radius: 10px;
+}
+.cancelSubtetx {
+  margin-bottom: 18px;
+  font-size: 15px;
+}
+.taxratemodal.cancelSubscription.modal.show .modal-dialog .modal-content {
+  width: 100% !important;
+}
+.col-sm-12.radipoCancel label.ant-radio-wrapper span {
+  color: #000;
+  text-align: left;
+  font-size: 13px;
+  font-weight: 500;
+}
+.col-sm-12.radioValue {
+  margin: 12px auto 0;
+}
+.paymentHistoryButtons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.paymentHistoryButtons button {
+  padding: 0 !important;
+}
+
+.paymentHistoryButtons svg {
+  width: 29px;
+  height: 29px;
+  color: #878383;
+}
+.widrhSix {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+.fullW {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--primary-color);
+  color: white;
+  gap: 20px;
+}
+.fullW .cardddetail {
+  font-size: 16px !important;
+}
+.fuwl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.fuwl p {
+  margin-top: 10px;
+}
+.fullW .privce {
+  font-size: 20px !important;
+  font-weight: 500;
+  margin-top: 30px;
+}
+.col-sm-12.checkBoxxx span.ant-switch-inner span {
+  font-weight: 600 !important;
+  font-size: 12px !important;
+}
+.col-sm-12.checkBoxxx .ant-checkbox + span {
+  text-transform: capitalize !important;
+}
+.col-sm-12.invoiceHistoryDet {
+  padding: 30px 0;
+}
+.widrhSix.fot p {
+  color: #878383;
+}
+.fuwl.fot {
+  width: 100%;
+  background-color: #efefef;
+}
+.widrhSix.fot span {
+  color: #000;
+  cursor: pointer;
+}
+.buttonForHead {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+}
+.buttonForHead p {
+  margin-bottom: 0;
+  margin-left: 5px;
+  font-weight: 500;
+}
+.col-sm-12.swicthbtn.addpollCustmore .ant-radio-group.ant-radio-group-outline {
+  width: 100% !important;
+}
+.col-sm-2.switchbtn.radioBtnAddPoolCustomer {
+  max-width: 16.666667% !important;
+}
+.col-sm-2.addPoolTypeBtn .bluebtn {
+  padding: 0 20px;
+  height: 40px;
+}
+.buttonForHead button {
+  padding: 10px 30px;
+  align-items: center;
+  display: flex;
+}
+.buttonForHead :hover {
+  border-color: black !important;
+  color: black !important;
+}
+.buttonForHead svg {
+  width: 25px;
+  height: 25px;
+}
+.col-sm-6.dateALign p {
+  text-align: right;
+}
+.d-flex.align-items-center.ml-2.ml-lg-0 {
+  display: none;
+  height: 0;
+}
+span.no-icon.profile-name img {
+  margin-right: 10px;
+  object-fit: contain;
+}
+.col-sm-8 .login-form input {
+  border: none !important;
+  padding-left: 10px !important;
+}
+button#navbarDropdownMenuLink {
+  border: none;
+  align-items: center !important;
+}
+.row .item-needed-css .col-sm-3 {
+  font-weight: 600 !important;
+  padding: 10px 15px !important;
+}
+.container-fluid.navabrfr {
+  display: flex;
+  justify-content: flex-end !important;
+}
+.addcustomers.smsHeader.restePasswod {
+  width: 100%;
+}
+.container-fluid.modals .col-sm-12.uploadImageeePoolAccordionBtn.submitbtn {
+  padding-right: 0;
+}
+.dynamic_form_nest_item
+  .ant-input-textarea-affix-wrapper.ant-input-affix-wrapper
+  > textarea.ant-input {
+  border-radius: 15px;
+}
+.container-fluid.wordkorder h3 {
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 0 !important;
+  text-transform: capitalize !important;
+}
+h4.custInfoh4 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+.col-sm-12.submitbtn button {
+  padding: 0px 30px !important;
+  text-transform: capitalize !important;
+  width: auto !important;
+  height: 50px !important;
+}
+.shopHeader.aboveHEade h2 {
+  margin: 0 40px 25px !important;
+}
+.row.fomik.customer.cslocation.shoppinfgForm form#Customer {
+  margin-left: 0;
+}
+.row.customers.shoppingHeader.insideAdd h2 {
+  font-size: 24px !important;
+  margin: 0 15px !important;
+}
+.row.customers.shoppingHeader.insideAdd h2.eidtShopping {
+  margin-top: 20px !important;
+}
+.col-sm-8.headerLinks ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  justify-content: flex-end;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+.container-fluid.footers {
+  background: var(--primary-color);
+  padding: 0;
+}
+.row.fomik.addRoute.taxratee.checmicalCustDet {
+  align-items: flex-start;
+}
+.row.fomik.addRoute.taxratee.checmicalCustDet p{
+  word-break: break-word;
+}
+.row.fomik.addRoute.taxratee.checmicalCustDet .col-sm-6 .col-sm-6{
+  padding-left: 0;
+}
+.checmicalCustDet h2{
+  font-size: 24px;
+  font-weight: 600;
+}
+.row.lgoinHead {
+  padding: 10px;
+}
+.df div {
+  background: #69727d;
+  border-radius: 50%;
+  height: 36px;
+  cursor: pointer;
+  width: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.df {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.fotText {
+  color: #f0f0f0;
+  font-size: 16px;
+  font-weight: 400;
+}
+.fbb,
+.inssta,
+.linkkedINN {
+  font-size: 18px;
+  color: var(--primary-color);
+}
+
+.row.footers.cslocation {
+  padding: 50px 100px 60px;
+  align-items: flex-start;
+}
+.col-sm-12.noPadd {
+  padding: 0;
+}
+.yellowbtn.getStartedHeader {
+  padding: 10px 60px 10px 60px;
+  border-radius: 15px !important;
+  margin-right: 50px;
+  margin-left: 20px;
+  height: 50px;
+  font-size: 14px;
+  font-weight: 400;
+}
+.row.footerlinkss {
+  align-items: flex-start;
+}
+.row.footerlinkss ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.row.footerlinkss a,
+.row.footerlinkss li {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+}
+.row.footerlinkss li {
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.colorGold {
+  color: #fab51c;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 35px;
+}
+.col-sm-12.footerLoogog {
+  position: relative;
+}
+.col-sm-12.footerLoogog img {
+  position: absolute;
+  right: 0px;
+  bottom: 20%;
+}
+.col-sm-12.copyrightzCOntent p {
+  color: #4a4a4a;
+  text-align: center;
+  margin-bottom: 0;
+}
+.col-sm-7.right.prospectHeader {
+  flex: 0 0 20%;
+  max-width: 20%;
+}
+.col-sm-5.prospectHeader.widthEight {
+  flex: 0 0 80%;
+  max-width: 80%;
+}
+.ant-btn-primary {
+  border-radius: 15px !important;
+}
+.monthly h3 {
+  margin: 30px 0;
+}
+.row.checklistdata .row.slignc {
+  align-items: flex-end !important;
+}
+.savebtn button {
+  width: auto !important;
+  padding: 0 30px !important;
+  height: 50px !important;
+  text-transform: capitalize;
+  border-radius: 15px !important;
+}
+.bluebtn {
+  text-transform: capitalize;
+}
+.bluebtn.sendProspect:hover {
+  background: #fab51c;
+  color: white !important;
+}
+.bluebtn.sendProspect {
+  border-radius: 15px;
+}
+.row.fomik.addRoute.taxratee.editCHecklist {
+  display: flex;
+  flex-direction: column;
+  width: 90% !important;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+  padding: 8px 20px !important;
+}
+.modal-body button.btn.btn-secondary {
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  color: rgba(0, 0, 0, 0.88);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.02);
+  font-size: 14px;
+  line-height: 1.5714285714285714;
+  height: 32px;
+  padding: 4px 15px;
+  border-radius: 6px;
+}
+.valueForm2 {
+  margin-top: 39px !important;
+  /* margin-left: 94% !important; */
+}
+.row.fomik.dynamic_form_nest_item.addWorkOrderTypeForm {
+  padding: 0 !important;
+}
+.row.headwork.cslocation {
+  margin: 0 !important;
+}
+.ant-form-item.forPAd label {
+  margin-left: 1% !important;
+}
+.ant-form-item.forPAd .col-sm-4 label {
+  margin-left: 0 !important;
+}
+.col-sm-12.forBorderrr .col-sm-6 input {
+  border: 0 !important;
+}
+/* .col-sm-12.forBorderrr{
+    border: 1px solid #d9d9d9 !important;
+    border-radius: 10px !important;
+  } */
+.col-sm-12.forBorderrr .col-sm-6.pd {
+  margin-top: 32px;
+}
+.col-sm-12.equipmentssss.prospect input {
+  background: transparent !important;
+}
+.workRadio .ant-radio-group.ant-radio-group-outline {
+  border: 1px solid #d9d9d9 !important;
+  border-radius: 10px !important;
+}
+.container-fluid.wordkorder.valuesListing .row .col-sm-2 p .anticon[tabindex] {
+  margin: 0 !important;
+}
+label.ant-radio-wrapper input {
+  font-weight: 400 !important;
+}
+div#chartActivity input {
+  border-radius: 0 !important;
+}
+div#nest-messages_color_code {
+  border-radius: 10px !important;
+}
+form.myfilters.productFiltersss input {
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+input {
+  border-radius: 10px !important;
+}
+div#User_color_code {
+  border-radius: 10px !important;
+}
+.row.fomik.addRoute.taxratee.editCHecklist form#nest-messages {
+  width: 100% !important;
+}
+/* p.notoverflow{
+    height: 48px;
+    overflow: hidden; 
+    width: 100%;
+  } */
+.dragroute {
+  margin: 0 !important;
+  font-size: 13px !important;
+  padding-top: 6px !important;
+  font-weight: 500 !important;
+  color: #aeaeae !important;
+}
+.repairSection {
+  flex-wrap: wrap;
+}
+.dragroute:hover {
+  color: #aeaeae !important;
+}
+.serviceLoggg:hover {
+  color: #aeaeae !important;
+}
+.workORdertootltyp {
+  padding: 0 !important;
+  color: #b3b3b3 !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+}
+.workORdertootltyp:hover {
+  color: #b3b3b3 !important;
+}
+.serviceLoggg {
+  margin: 0;
+  font-size: 13px !important;
+  padding-top: 6px !important;
+  font-weight: 500 !important;
+  color: #aeaeae !important;
+}
+.col-sm-12.savebtn.addDosageBtn {
+  margin-top: 20px;
+}
+p.notoverflow {
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+input#General_TimeZoneName {
+  border: none !important;
+}
+.imagePreview-css p {
+  text-align: center;
+  /* height: 48px; */
+  margin-top: 1rem;
+  width: 100%;
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.col-sm-12 form.myfilters.userFilter.usssser {
+  margin-left: 0 !important;
+}
+.col-sm-12.userfiltersuser {
+  padding: 0;
+}
+button.notoverflow {
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  border: none;
+  height: auto !important;
+  padding: 0;
+  margin: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  box-shadow: none !important;
+}
+.col-sm-6.loginInputs.forgetForm h3 svg {
+  color: #fab51c;
+  margin-left: 5px;
+}
+.card .card-header a {
+  font-size: 14px !important;
+}
+.graphfilter.card-footer .dropdown-menu .dropdown-item {
+  padding: 0px 16px !important;
+}
+input#basic_firstpassword,
+input#basic_confirmPassword {
+  background: transparent !important;
+}
+.col-sm-12.inLinnenee.forgetPassWOrd .tetxright {
+  display: flex;
+  align-items: center;
+}
+.col-sm-12.inLinnenee.forgetPassWOrd .tetxright p {
+  margin-bottom: 0;
+}
+.col-sm-12.loginBtn.regNextButton {
+  margin-top: 16px;
+}
+.col-sm-12.inLinnenee {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+.tetxright {
+  text-align: right;
+}
+.tetxright p {
+  font-size: 14px !important;
+}
+.tetxright a {
+  text-decoration: underline;
+  font-weight: 600;
+}
+.tetxright span {
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.col-sm-12.copyrightzCOntent a {
+  color: #000;
+}
+.row.footerr.copyright {
+  background: white;
+  padding: 20px 0;
+}
+.row.footers.cslocation .col-sm-5 .mainCOl {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.mainCOl img {
+  width: 202px;
+}
+.mainCOl p {
+  margin-bottom: 0;
+}
+.col-sm-8.headerLinks a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0 12.5px;
+  padding: 13px 20px;
+}
+.whiteButton.login {
+  background: #f0f0f0;
+  color: #000;
+  padding: 10px 60px 10px 60px;
+  border-radius: 15px !important;
+  height: 50px;
+}
+.invoice-title h2, .invoice-title h3 {
+  font-size: 24px;
+  font-weight: 600;
+}
+.col-sm-12.loginlogo img {
+  width: 202px !important;
+}
+.col-sm-12.inVoicingTabsss {
+  margin-top: 30px;
+}
+form#dynamic_form_nest_item .col-sm-12.margin-top-css {
+  padding: 0;
+}
+.row.addDosagessForm form#Customer {
+  margin-left: 0 !important;
+}
+.row.customers.srvieLOgHEader .col-sm-5.slog {
+  padding-left: 0;
+}
+.row.padding-row.registerForm.paymentForm.loginnx .row.fomik.addRoute {
+  background: transparent !important;
+  padding: 0 20px;
+  margin: 20px auto !important;
+}
+.row.lgoinHead.mobile {
+  display: none;
+}
+.row.lgoinHead.mobile .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+.ant-drawer-header img {
+  width: 160px !important;
+}
+.ant-drawer-header svg {
+  fill: white !important;
+  cursor: pointer;
+}
+.ant-drawer-body .yellowbtn.getStartedHeader {
+  margin-left: 0;
+}
+.btn-close, .btn-close:hover {
+  color: white !important;
+}
+.ant-drawer-body ul {
+  list-style-type: none;
+  padding-left: 15px;
+}
+.ant-drawer-body ul a {
+  color: #fff;
+  font-size: 14px !important;
+}
+.ant-drawer-body ul li {
+  margin-bottom: 20px;
+}
+.ant-drawer .ant-drawer-header-title {
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+.row.cslocation.registerFOrrmmm {
+  align-items: flex-start;
+}
+.imagePreview-css img {
+  border-radius: 15px;
+}
+.imagePreview-css {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+}
+.imagePreview-css svg {
+  margin-left: 0 !important;
+}
+.ant-drawer-content {
+  background: var(--primary-color) !important;
+}
+.col-sm-12.befoer {
+  padding: 0;
+}
+.gm-style-iw-d {
+  border-radius: 0 !important;
+  padding: 10px 10px 0 !important;
+}
+.gm-style-iw.gm-style-iw-c {
+  padding: 10px !important;
+}
+input#User_password {
+  border: none !important;
+  border-radius: 15px !important;
+}
+.col-sm-6.abc.notDisplay.workorderr .mapRadius {
+  margin-top: 0 !important;
+}
+table.ant-picker-content th, table.ant-picker-content td {
+  padding: 6px 2px !important;
+}
+.addReadingsssBtn {
+  min-height: 50px !important;
+}
+.ant-picker-dropdown .ant-picker-panel-container .ant-picker-panel table {
+  width: 100%;
+}
+.mySwiper.dateSwiperr .swiper-button-prev {
+  position: absolute !important;
+  /* right: 10% !important; */
+  left: 0 !important;
+  top: 55% !important;
+  background-color: var(--primary-color) !important;
+  color: #fff !important;
+  padding: 15px !important;
+  border-radius: 50% !important;
+  width: 30px !important;
+  height: 30px !important;
+}
+.col-sm-12.workRadio .col-sm-4 input {
+  border: 1px solid #d9d9d9 !important;
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+}
+.col-sm-12.workRadio .col-sm-4 input::placeholder {
+  color: #00000075 !important;
+  font-size: 16px;
+  font-weight: 600;
+}
+.col-sm-12.workRadio label.ant-radio-wrapper span {
+  color: #000 !important;
+}
+.deleteModal .ant-modal-footer {
+  text-align: center !important;
+  margin-top: 35px;
+  gap: 30px !important;
+  display: flex;
+  justify-content: center;
+}
+.deleteModal .ant-modal-title {
+  text-align: center !important;
+}
+.deleteModal .ant-modal-content {
+  border-radius: 15px !important;
+}
+.sidebar .logo,
+body > .navbar-collapse .logo {
+  padding: 7px 15px !important;
+}
+.mySwiper.dateSwiperr .swiper-button-next {
+  position: absolute !important;
+  background-color: var(--primary-color) !important;
+  right: 0% !important;
+  width: 30px !important;
+  height: 30px !important;
+  color: #fff !important;
+  top: 55% !important;
+  padding: 15px !important;
+  border-radius: 50% !important;
+}
+.swiper.swiper-initialized.swiper-horizontal.mySwiper.dateSwiperr.swiper-backface-hidden {
+  padding: 0 30px;
+}
+.mySwiper.dateSwiperr .swiper-button-next::after, .mySwiper.dateSwiperr .swiper-button-prev::after {
+  font-size: 9px !important;
+}
+.row.customerdetail {
+  align-items: flex-start;
+}
+.col-sm-12.heads.poolAccodrion h3 {
+  padding-top: 0;
+}
+.row.customerdetail.prospect .col-sm-6 {
+  padding-bottom: 20px;
+}
+.selectedPlace {
+  box-shadow: none !important;
+}
+div#chartHours {
+  width: 100%;
+}
+.card-body.graphh {
+  display: flex;
+  padding: 0 !important;
+  width: 100%;
+  align-items: center;
+}
+td.notoverflow {
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.graph h4 {
+  padding: 12px 0 !important;
+}
+.graph h4 span {
+  margin-left: 5px !important;
+}
+.row.accout-setting {
+  align-items: flex-start;
+}
+.col-sm-6.loginInputs.forgetForm .main-input-css {
+  background: #bfd4f340 !important;
+}
+input#basic_password {
+  background: transparent !important;
+}
+.deleteModal .ant-modal-close {
+  top: 10px;
+  right: 10px;
+}
+.deleteModal .ant-modal-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.deleteModal .ant-modal-body p {
+  font-size: 16px;
+  margin-bottom: 25px;
+  font-weight: 600;
+}
+.deleteModal .ant-modal-content {
+  padding: 40px 70px !important;
+}
+.row.fomik.customer.customerInfo.emailFilters form#Customer {
+  margin-left: 0 !important;
+}
+.emailFilters .ant-radio-group.ant-radio-group-outline {
+  width: 100% !important;
+}
+.row.grayshade.emailBroadcast label.ant-radio-wrapper span {
+  color: black !important;
+  text-align: left !important;
+}
+.row.grayshade.emailBroadcast label.ant-radio-wrapper {
+  margin-bottom: 24px !important;
+  font-size: 14px !important;
+}
+.deleteICon {
+  color: red;
+  font-size: 75px;
+}
+.deleteModal .ant-modal-footer button {
+  width: 100px !important;
+}
+.row.grayshade .flex-column a.nav-link {
+  display: flex !important;
+  align-items: center;
+  height: 75px !important;
+  justify-content: center !important;
+  padding: 15px !important;
+}
+.imagePreview-css p {
+  text-align: center;
+  margin-top: 1rem;
+}
+.col-sm-4.forFifty.addCustomTags .ant-select-selector {
+  border-radius: 10px;
+}
+.row.customers.servicedata_header.cslocation h2 {
+  font-size: 22px !important;
+}
+.col-sm-12.checkBoxGeneral .row.cslocation .col-sm-3 label {
+  font-weight: 500;
+}
+.col-sm-6.route-filter.abc .accordion-item {
+  padding: 20px 20px;
+}
+.col-sm-6.route-filter.abc .bodyroute.row {
+  padding-top: 0 !important;
+}
+.col-sm-6.route-filter.abc button.accordion-button {
+  margin-bottom: 0 !important;
+}
+.col-sm-6.roueTabsMax .progress, .accordion-item .progress {
+  margin-bottom: 0;
+}
+.row.grayshade.workOrderListsss .accordion-item {
+  margin-top: 0px;
+}
+.row.grayshade.workOrderListsss .accordion-item .bodyroute.row {
+  padding-top: 10px;
+}
+.row.grayshade.workOrderListsss .accordion-header button.accordion-button {
+  margin-left: 0;
+}
+.col-sm-12.checkBoxxx .ant-form-item label.ant-checkbox-wrapper {
+  margin-bottom: 0 !important;
+}
+.col-sm-6.route-filter.abc .col-sm-12.roueTabsMax {
+  padding: 0 12px;
+}
+.col-sm-7.right.equipmentssss.wot.work-order-type .ant-upload.ant-upload-select button {
+  padding: 0 20px !important;
+  height: 0 !important;
+}
+.col-sm-2.routeDateee.underAddPool .ant-picker, .col-sm-3.forFifty .ant-picker, .col-sm-4.forFifty .ant-picker {
+  border-radius: 10px;
+}
+.col-sm-4.forFifty.anttPicker .react-datepicker-wrapper input{
+  width: 100% !important;
+}
+.col-sm-4.forFifty.anttPicker .ant-picker input, .col-sm-12.workTypeSection .col-sm-4.forFifty .ant-picker input{
+  padding: 0 !important;
+  height: 48px !important;
+}
+.col-sm-6.route-filter.abc .accordion-body {
+  padding-top: 12px;
+}
+.upload_css_btn button {
+  margin-right: 0 !important;
+}
+button.UploadOutlined-icon.uploadYelloww {
+  padding: 0 30px !important;
+}
+.forPAddingServiceLocation {
+  padding: 0 50px !important;
+}
+.mySwiper.servLocation .swiper-button-prev {
+  left: 16px !important;
+  top: 57% !important;
+}
+.mySwiper.servLocation {
+  position: inherit;
+}
+.mySwiper.servLocation .swiper-button-next {
+  right: 16px !important;
+  top: 57% !important;
+}
+.file-preview p {
+  font-size: 16px !important;
+  font-weight: 500;
+  padding-left: 30px !important;
+  text-align: left !important;
+}
+.row.routefilters.cslocation .col-sm-6 .ant-select {
+  width: 100% !important;
+}
+.col-sm-6.addbuttons .profServiceLocationBlue:hover, .col-sm-2.addPoolTypeBtn button:hover, .profServiceLocationBlueflex1 button:hover, .col-sm-7.right.editCustomer button:hover, .bluebtn.viewServiceLocation:hover, .bluebtn.profServiceLocationBlue:hover, .col-sm-7.right.poolHeaderr button:hover{
+  background: #f0b51b !important;
+  color: white !important;
+}
+.wbtn:hover, .AddWorkOrderTypeBtn:hover{
+  color: var(--primary-color) !important;
+}
+.profServiceLocationBlueflex1 button {
+  padding: 0 20px !important;
+}
+.col-sm-7.right.editCustomer button{
+  padding: 10px 50px !important;
+  height: 40px !important;
+}
+button.UploadOutlined-icon.uploadYelloww:hover {
+  color: white !important;
+}
+.col-sm-4.routeAssignmentOnMobile {
+  display: none !important;
+}
+.col-sm-4.routeAssignmentOnDesktop {
+  display: block !important;
+}
+button.bluebtn a {
+  color: white !important;
+}
+.row.customers.cstomer .col-sm-5.equipmentssss.woth.work-order-type {
+  flex: 0 0 41.666667%;
+  max-width: 41.666667% !important;
+  min-width: 41.666667% !important;
+}
+.col-sm-5.noPad {
+  padding-left: 0;
+}
+.row.customers.cstomer .col-sm-7.right.equipmentssss.wot.work-order-type {
+  flex: 0 0 58.333333% !important;
+  max-width: 58.333333% !important;
+  min-width: 58.333333% !important;
+}
+.row.grayshade.workFilter .ant-picker {
+  border-radius: 10px !important;
+}
+.col-sm-3.forFifty label span {
+  text-transform: capitalize !important;
+}
+.col-sm-12.inForHead p {
+  font-size: 18px !important;
+  font-weight: 600;
+  margin: 20px 0 !important;
+}
+h2.AddAnotherPoolHeader.accordion-header button.accordion-button span {
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 0;
+}
+.col-sm-2.forFour .ant-picker {
+  border-radius: 10px;
+}
+.col-sm-12.buttonsservice.prospect button.bluebtn, .col-sm-12.savebtn.emailList .yellowbtn, .col-sm-12.buttonsservice.savepoolbtn button {
+  margin-right: 0;
+}
+.yellowbtn.extraClass {
+  background: var(--primary-color) !important;
+}
+.row.fomik.customer.customerInfo.emailFilters span.ant-upload button {
+  margin-left: 40%;
+  margin-top: 0;
+}
+.row.additionalDetailsssOne .col-sm-2 label span, .row.additionalDetailsss .col-sm-2 label span {
+  text-transform: capitalize !important;
+}
+.col-sm-12.noPad .ant-form-item.forPAd {
+  padding: 0 15px !important;
+}
+.row.customers.srvieLOgHEader .col-sm-3.right.slog, .row.customers.srvieLOgHEader .col-sm-5.slog, .row.customers.cslocation.routeHeader .col-sm-5.equipmentssss, .row.customers.cslocation.routeHeader .col-sm-7.right.equipmentssss {
+  flex: 0 0 50% !important;
+  max-width: 50% !important;
+  min-width: 50% !important;
+  padding: 0 !important;
+}
+.row.customers.srvieLOgHEader .col-sm-3.slog button, .row.customers.cslocation.routeHeader .col-sm-7.right.equipmentssss button {
+  margin-right: 0;
+}
+.col-sm-12.noPad {
+  padding: 0;
+}
+.col-sm-6.route-filter.abc .row.routefilters.cslocation input {
+  margin-top: 0 !important;
+  padding: 0 !important;
+}
+.col-sm-6.route-filter.abc .row.routefilters.cslocation .ant-picker.ant-picker-outlined {
+  border-radius: 10px !important;
+}
+form#dynamic_form_nest_item .ant-picker.ant-picker-outlined {
+  border-radius: 10px !important;
+}
+.row.addWorkOrderPoolModal .ant-card .ant-card-head .ant-card-head-title {
+  text-transform: capitalize;
+}
+.row.CustomerInfo.activebody-21 a:hover{
+  color: #1a4a5b !important;
+}
+textarea {
+  border-radius: 10px !important;
+}
+.row.performance_row {
+  margin-bottom: 20px;
+}
+.col-sm-12.btns.new-margin button:hover {
+  background: transparent !important;
+}
+.col-sm-2.forFifty.new121 .ant-form-item.prospectusss.activeInactiveSwitch .ant-form-item-control-input{
+  padding: 9px 0;
+}
+.ant-form-item.prospectusss.activeInactiveSwitch .ant-col.ant-form-item-control{
+  border-radius: 10px !important;
+}
+td.aboveTD{
+  padding: 0 !important;
+}
+.ant-input-number.ant-input-number-sm.ant-input-number-outlined.ant-color-picker-steppers.ant-color-picker-alpha-input {
+ border-radius: 10px;
+} 
+.addcustomers.smsHeader.accheader {
+  padding-bottom: 25px;
+}
+.text-black-50{
+  margin-top: 10px;
+}
+
+/* laptop */
+@media only screen and (max-width: 1600px) {
+  .row.invoice-css-data.cslocation .col-sm-1, .row.new-head-invoice.cslocation .col-sm-1{
+    margin-top: 0 !important;
+  }
+  .container-fluid.wordkorder.valuesListing .row p {
+    margin-bottom: 0;
+    font-size: 14px;
+  }
+  .container-fluid.wordkorder.valuesListing .row {
+    padding: 5px 0;
+  }
+  input.invoice-customer-search {
+    width: 350px !important;
+  }
+  .col-sm-1 {
+    padding: 0 !important;
+    margin-top: 2% !important;
+  }
+  .col-sm-8.height-adjust, .col-sm-4.height-adjust {
+    padding: 0;
+  }
+  form.myfilters select {
+    padding: 9.25px;
+  }
+  .mainHeadChemical h1 {
+    font-size: 22px;
+  }
+  .mainHeadChemical p {
+    font-size: 15px;
+  }
+  .mainHeadChemical h3 {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  .wbtn.AddNewType-Btn {
+    left: 0px;
+  }
+  .routeH3 {
+    font-size: 18px;
+    margin-left: 15px;
+  }
+  .row.customers.labourInvoice .col-sm-3 h2 {
+    font-size: 22px !important;
+  }
+  .workCustomer h4 {
+    font-size: 16px !important;
+  }
+  .col-sm-10.roueTabsMax h2 {
+    font-size: 16px !important;
+  }
+  /* .row.servicedetail {
+        margin: 10px 20px;
+    } */
+  .swiper-button-prev {
+    right: 7% !important;
+  }
+  .col-sm-6.addCustomTags .ant-select-multiple .ant-select-selector {
+    height: 50px !important;
+  }
+  .card-stats .card-body {
+    padding: 3px !important;
+  }
+  .workdetail h3 {
+    font-size: 16px !important;
+    padding-bottom: 5px;
+  }
+  .col-sm-1.addReadingsssB {
+    margin-left: -60px !important;
+    margin-top: 15px !important;
+  }
+  .nav.mr-auto.name.navbar-nav {
+    width: 57% !important;
+    flex: 1 0 50%;
+  }
+  .morenoti.col-3 {
+    height: 150px;
+  }
+  .col-sm-6.addbuttons button.ant-btn.bluebtn.form {
+    width: 40% !important;
+  }
+  .filteraccordian h2 {
+    font-size: 16px !important;
+  }
+  .filteraccordian .col-sm-2 {
+    padding: 10px 0 !important;
+    margin: 0 0px !important;
+    max-width: 30% !important;
+  }
+  /* .prospectusss {
+    width: 200px !important;
+  } */
+  .repairSection .bluebtn {
+    padding: 5px 10px;
+    font-weight: 500;
+    font-size: 12px;  
+  }
+  .ant-card.ant-card-bordered p {
+    font-size: 13px;
+  }
+  .prospectusss.activeInactiveSwitch{
+    width: 100% !important;
+  }
+  .filteraccordian .col-sm-10 {
+    max-width: 70% !important;
+  }
+  .workCustomer h4 {
+    font-size: 15px !important;
+  }
+  .workSelect {
+    height: 150px;
+    margin-top: 0px;
+  }
+  .workSelect .ant-card .ant-card-body {
+    padding: 10px 24px;
+    border-radius: 0 0 8px 8px;
+  }
+  .filteraccordian .col-sm-2 {
+    padding: 10px 0 !important;
+    margin: 0 2px !important;
+    max-width: 15% !important;
+  }
+  .workorder.customer.card img {
+    width: 100% !important;
+  }
+  .switchbtn .ant-row.ant-form-item-row {
+    padding-left: 8px !important;
+  }
+  .switchbtn .ant-row.ant-form-item-row label {
+    font-size: 12px;
+    padding-left: 10px;
+    padding-top: 3px;
+  }
+  .ant-switch .ant-switch-handle {
+    width: 14px !important;
+    height: 14px !important;
+  }
+  .wordkorder .swiper-button-prev {
+    position: absolute !important;
+    right: 6% !important;
+  }
+  .ant-switch {
+    min-width: 30px !important;
+    height: 19px !important;
+  }
+  .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    width: 100%;
+    height: 50px !important;
+    padding: 0 11px;
+  }
+  .routefilters select {
+    border-radius: 6px !important;
+    font-size: 14px;
+  }
+  .col-sm-1.addReadingsssB {
+    margin-left: -60px !important;
+    margin-top: 7px !important;
+  }
+  .row.customers.chemicals .col-sm-5.chemicalDosages {
+    padding: 0px 15px !important;
+    margin-left: -5px !important;
+  }
+  .col-sm-5.chemicalDosages {
+    padding: 0px !important;
+    margin-left: -5px !important;
+  }
+  .col-sm-7.right.chemicalBtns {
+    padding: 0px !important;
+    margin-left: -20px !important;
+  }
+  h3.routeH3.newssswswsw {
+    padding-left: 0 !important;
+  }
+  .col-sm-4.customerNameeeee {
+    min-width: 32.25% !important;
+    max-width: 32.25% !important;
+  }
+  h4.sortCustHead {
+    font-size: 18px !important;
+  }
+  .theme-card .ant-ribbon-wrapper {
+    margin: 0px 5px 20px !important;
+  }
+  .row.customers.shoppingHeader.insideAdd h2.eidtShopping {
+    margin-top: 20px !important;
+  }
+  .colorGold,
+  .row.footerlinkss a,
+  .row.footerlinkss li,
+  .fotText,
+  .col-sm-12.copyrightzCOntent p {
+    font-size: 14px !important;
+  }
+  .col-sm-8.headerLinks a {
+    font-size: 13px;
+  }
+  .yellowbtn.getStartedHeader,
+  .whiteButton.login {
+    font-size: 13px;
+    padding: 10px 50px 10px 50px;
+  }
+  .monthly h3 {
+    font-size: 26px;
+  }
+  .main-h1,
+  .registerForm h3 {
+    font-size: 18px;
+  }
+  .imagesform img {
+    width: 45px;
+    height: 30px;
+  }
+  .modal-body {
+    font-size: 20px;
+  }
+  /* .row.padding-row.registerForm.paymentForm h3 {
+        font-size: 18px !important;
+    } */
+  .row.padding-row.registerForm.paymentForm h2 {
+    font-size: 16px !important;
+  }
+  .row.customers .col-sm-4 h6,
+  .col-sm-12.chemicalRight .col-sm-3 h6 {
+    font-size: 16px;
+  }
+  .row.customers .col-sm-4 h6 span,
+  .col-sm-12.chemicalRight .col-sm-3 h6 span {
+    font-size: 18px;
+  }
+  .swiper-slide .col-xs-3 div,
+  .swiper-slide .col-xs-4 div {
+    font-size: 15px;
+  }
+  .col-sm-6.roueTabsMax h2 {
+    font-size: 16px !important;
+  }
+  .workOrdertwelve.col-sm-12 h3.datefilter-h3 {
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+  .row.grayshade.workOrderListsss .accordion-item {
+    padding: 10px;
+  }
+  .bodyroute .col-sm-3.bluebox h4 {
+    font-size: 14px !important;
+    line-height: 1.3;
+  }
+  .main .col-sm-2.bluebox h3 {
+    font-size: 18px;
+  }
+  .bodyroute .col-sm-3.bluebox p,
+  .bodyroute .col-sm-2.bluebox p,
+  .bodyroute .col-sm-4.bluebox p {
+    padding-top: 3px;
+  }
+  .row.customers.servicedata_header.cslocation h2 {
+    font-size: 18px !important;
+  }
+  .container-fluid.wordkorder h3 {
+    font-size: 13px;
+    font-weight: 600;
+  }
+  a.dropdown-item {
+    font-size: 12px;
+  }
+  .col-sm-8.resetForm {
+    padding-top: 22px;
+  }
+  .graph h4 {
+    font-size: 20px;
+  }
+  .customers h2,
+  .row.customers.srvieLOgHEader .col-sm-5.slog h2 {
+    font-size: 24px !important;
+  }
+  .row.customers.shoppingHeader.insideAdd h2 {
+    font-size: 22px !important;
+    margin: 0 15px !important;
+  }
+  .col-md-8 .routedashboard.card .card-body {
+    padding: 0;
+  }
+  .col-md-4 .workorder.customer.card .card-body,
+  .col-md-4 .workorder.card .card-body {
+    border-bottom: unset !important;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    padding: 15px 0 !important;
+  }
+  .row.generalSettingHeader p {
+    font-size: 24px !important;
+  }
+  .container-fluid.modals.workOrderTypee .col-sm-12.noPad h4 {
+    padding: 0 12px !important;
+  }
+}
+
+@media only screen and (max-width: 1450px) {
+  form.dosaaaggeesss .col-sm-2 button {
+    min-width: 100% !important;
+  }
+  .row.invoice-css-data {
+    font-size: 12px;
+  }
+  .ant-input-number.ant-input-number-sm.ant-input-number-outlined.ant-color-picker-steppers.ant-color-picker-alpha-input, .ant-select.ant-select-sm.ant-select-borderless.ant-color-picker-format-select.ant-select-single.ant-select-show-arrow, .ant-color-picker-input-container, .ant-color-picker-input-container .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    height: 40px !important;
+  } 
+  .col-sm-12.profitListingg .accordion-item p {
+    font-size: 13px !important;
+  }
+  .row.newcss-1 .col-sm-2,.row.newcss-1 .col-sm-4 {
+    font-size: 14px;
+  }
+  .row.customers .col-sm-4 h6, .col-sm-12.chemicalRight .col-sm-3 h6 {
+    font-size: 14px;
+  }
+  .row.customers .col-sm-4 h6 span, .col-sm-12.chemicalRight .col-sm-3 h6 span {
+    font-size: 16px;
+  }
+  .col-sm-5.checcKlisssst .col-sm-5 input {
+    width: 100% !important;
+  } 
+  .row.customers.labourInvoice .col-sm-3 h2 {
+    font-size: 20px !important;
+  }
+  .row.cslocation.repairWorkOrderr .repairSection h6{
+    font-size: 12px;
+  }
+  .col-sm-4.forFifty.anttPicker .ant-picker input, .col-sm-12.workTypeSection .col-sm-4.forFifty .ant-picker input {
+    height: 38px !important;
+  }
+  .row.cslocation.repairWorkOrderr .workCustomer h4 {
+    font-size: 13px !important;
+    line-height: 20px;
+  }
+  a.nextbtn-redirect {
+    padding: 10px;
+    color: #fff !important;
+    font-size: 14px;
+    border-radius: 10px;
+    margin: 0;
+    width: 100% !important;
+  }
+  input.invoice-customer-search {
+    right: 33.5%;
+  }
+  .ant-tabs .ant-tabs-tab {
+    margin: 0px 20px 0px 0px;
+    padding: 12px 30px;
+  }
+  .ant-tabs .ant-tabs-tab + .ant-tabs-tab {
+    margin: 0px 20px 0px 0px;
+    padding: 12px 30px;
+  }
+  .ant-form-item.prospectusss .ant-col.ant-form-item-control {
+    padding: 0 4px;
+    margin: 0;
+  }
+
+  .col-sm-12.buttonsservice .profServiceLocationBlue {
+    height: 40px !important;
+  }
+  .routedashboard.card .card-body {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  h2.AddAnotherPoolHeader.accordion-header button.accordion-button span{
+    font-size: 18px !important;
+  }
+  .heads h3 {
+    font-size: 16px;
+  }
+  .emailButton button {
+    padding: 0px 50px;
+  }
+  .col-sm-12.emailButton h2 {
+    line-height: 30px;
+    font-size: 16px !important;
+  }
+  .filters.col-sm-4 .ant-select.ant-select-outlined .ant-select-selector {
+    height: 40px !important;
+  }
+  .week_performance h4{
+    font-size: 18px;
+  }
+  input#nest-messages_service_time1{
+    height: 38px !important;
+  }
+  .row.performance_row .col-sm-2{
+    height: 80px;
+  }
+  .row.performance_row .col-sm-2 h6 {
+    font-size: 10px;
+  }
+  span.performance_values {
+    font-size: 16px;
+}
+  .graphfilter.row.cslocation.card-footer .legend.col-sm-4 div {
+    font-size: 12px !important;
+    line-height: 20px !important;
+  }
+    .row.midsec .ant-select-selector, .row.midsec .ant-picker.ant-picker-outlined, .row.routeFilterr.cslocation .ant-picker.ant-picker-outlined, .row.midsec .col-sm-3.forFifty .ant-select-selector, .row.midsec .col-sm-3 .ant-select-selector, .col-sm-6.myselect .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+      height: 40px !important;
+      border-radius: 10px !important;
+  }
+  .col-sm-12.buttonGap button{
+      margin-bottom: 10px;
+  }
+  .col-sm-12.inForHead p {
+      font-size: 17px !important;
+      margin: 0px 0 15px !important;
+  }
+  .ant-input-affix-wrapper, .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+      height: 40px !important;
+  }
+  .row.grayshade.workFilter .ant-input-affix-wrapper, .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+      height: 50px !important;
+  }
+  input#Customer_password, input#basic_confirmPassword, input#basic_firstpassword, input#basic_password {
+      height: 38px !important;
+  }
+  .workOrdertwelve.col-sm-12 .filteraccordian .col-sm-10 {
+      max-width: 80% !important;
+  }
+  .workOrdertwelve.col-sm-12 .filteraccordian .col-sm-2 {
+      max-width: 20% !important;
+      min-width: 20% !important;
+      margin: 0 !important;
+  }
+  .ant-select-selector {
+      height: 40px !important;
+  }
+  .savebtn button {
+      height: 41px !important;
+  }
+  .ant-card.ant-card-bordered p {
+    font-size: 11px !important;
+  }
+  .savebtn .addCustomerSaveBtn {
+      width: auto !important;
+      padding: 0 30px !important;
+      height: 45px !important;
+      margin-top: 20px;
+  }
+  .arrivalTimecss p {
+      text-align: left;
+  }
+  .repairSection .bluebtn {
+    padding: 5px 10px;
+    font-size: 10px;
+  }
+  .workCustomer {
+      margin: 10px 0;
+  }
+  .ant-card .ant-card-body {
+      padding: 12px;
+  }
+  .row.editTechnicianFormAdd input, .row.editTechnicianFormAdd .ant-select-selector {
+      height: 40px !important;
+  }
+    .row.editTechnicianFormAdd .ant-color-picker-trigger {
+        padding: 10px 16px !important;
+        height: 40px !important;
+    }
+    input#nest-messages_password {
+        height: 38px !important;
+    }
+    .col-sm-5.prospectHeader {
+        flex: 0 0 70%;
+        max-width: 70%;
+    }
+    form.myfilters.tableFilters.labourReportInvoice select, form.myfilters.tableFilters.labourReportInvoice button {
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+        height: 40px !important;
+    }
+    .col-sm-2.addPoolTypeBtn.prospectt button {
+        height: 41px !important;
+        padding: 0 10px;
+    }
+    .row.cslocation.addPOOLCustomer .ant-picker {
+        height: 40px !important;
+    }
+    p.cancelSubTitle {
+        font-size: 18px !important;
+    }
+    .row.labourInvoice {
+        align-items: flex-start;
+    }
+    .row.customers.labourInvoice h2 {
+        margin: 0px;
+        padding-top: 17px;
+    }
+    button.bluebtn.taxBTNN {
+        padding: 0 !important;
+        width: 100%;
+        height: 40px;
+    }
+    .col-sm-6.generalFiltersResultText {
+        max-width: 60% !important;
+        flex: 0 0 60%;
+    }
+    .imagesform img {
+        width: 40px;
+        height: auto;
+    }
+    .fullW .cardddetail {
+        font-size: 15px !important;
+    }
+    .buttonForHead svg {
+        width: 22px;
+        height: 20px;
+    }
+    .printSvg svg {
+        width: 25px;
+        height: auto;
+    }
+    .col-sm-6.generalFiltersResultBtn {
+        max-width: 40% !important;
+        flex: 0 0 40%;
+    }
+    .col-sm-1.valuesBtnnnn .valuesBtnnnnYellow {
+        padding: 0px 20px;
+        min-height: 39px !important;
+        max-height: 40px;
+        margin: 0px !important;
+    }
+    form.myfilters.productFiltersss select {
+        padding: 0 10px;
+        height: 43px;
+    }
+   
+    .fomik .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+        height: 40px !important;
+    }
+    .col-sm-6.addbuttons .profServiceLocationBlue {
+        padding: 0px 20px !important;
+        height: 40px !important;
+    }
+    .serviceRedings .row {
+        align-items: flex-start;
+    }
+    .col-sm-2.routeDateee.underAddPool .ant-picker {
+        height: 40px !important;
+    }
+    .row.new-head-invoice.cslocation {
+        margin-right: 10px !important;
+    }
+    .col-sm-6.uploadImageeePoolAccordion span.ant-upload button {
+        margin-left: 0px !important;
+        height: 40px;
+    }
+    form.myfilters select {
+        padding: 7.75px;
+    }
+    .col-sm-3.routeFilterr .ant-select-selector {
+        height: 40px !important;
+    }
+    .row.fomik.addRoute.equipmentModaalllll .yellowbtn {
+        margin-right: 0px;
+    }
+    .row.customerInfo.emailFilters .col-sm-12 .ant-picker {
+        height: 40px !important;
+    }
+    .row.routeFilterr .ant-select-selector {
+        height: 40px !important;
+    }
+    .prospectusss {
+        width: 100% !important;
+    }
+    span.ant-input-affix-wrapper.ant-input-textarea-affix-wrapper.ant-input-textarea-show-count {
+        height: auto !important;
+    }
+    .wordkorder .swiper-button-prev {
+        position: absolute !important;
+        right: 7% !important;
+    }
+    .col-sm-3 {
+        padding: 0;
+    }
+    .ant-picker-dropdown .ant-picker-date-panel .ant-picker-body {
+        padding: 0px;
+    }
+    .miles div {
+        padding: 0px 0px;
+    }
+    form.tableFilters.invoiceFilter {
+        right: -27.5%;
+    }
+    td, th {
+        padding: 15px !important;
+    }
+    p {
+        font-size: 13px !important;
+    }
+    table {
+        border-collapse: collapse;
+        width: 900px;
+        overflow-x: scroll;
+    }
+    .routedashboard.mainpage table {
+        width: 100% !important;
+    }
+    .customertable table {
+        width: 100%;
+    }
+    .laborReporttable table {
+        width: 100% !important;
+    }
+    .card-stats .card-body {
+        height: 155px;
+    }
+    .col-sm-6.addbuttons button.ant-btn.bluebtn.form {
+        width: 40% !important;
+    }
+    .switchbtn .ant-col.ant-form-item-control {
+        text-align: end;
+        padding: 0 8px;
+    }
+    input#User_password {
+        height: 38px !important;
+    }
+    .col-sm-4.DatePicker-1 .ant-picker, .row.grayshade .flex-column a.nav-link, .row.grayshade .flex-column {
+        height: 65px !important;
+    }
+    .col-sm-6.abc.noPAdd {
+        padding: 0;
+    }
+  .savebtn button {
+    height: 45px !important;
+  }
+  .row.addDosagessForm.cslocation .row.fomik.addRoute.accccc .savebtn button, .row.fomik.addRoute.readinngForrrmmmsssMain .savebtn button, .row.fomik.addRoute.AddProductt .savebtn button {
+    margin-top: 0 !important;
+    margin-right: 0;
+  }
+  .row.new-head-invoice {
+    padding: 8px 0 !important;
+  }
+  h2.invoice-header.accordion-header {
+    margin: 18px 0 !important;
+  }
+  .bodyroute .col-sm-3.bluebox h4 {
+    font-size: 13px !important;
+  }
+  .row.grayshade.workOrderListsss .accordion-item .bodyroute.row .col-sm-3.bluebox h2, .row.grayshade.workOrderListsss .accordion-item .bodyroute.row .col-sm-4.bluebox h2 {
+    font-size: 14px !important;
+  }
+  .col-sm-10.roueTabsMax h2, .col-sm-12.roueTabsMax .row h2, .col-sm-6.roueTabsMax h2 {
+    font-size: 15px !important;
+  }
+  .col-sm-12.profitListingg .accordion-item{
+    padding-left: 0;
+  }
+  .customers h2, .row.customers.srvieLOgHEader .col-sm-5.slog h2 {
+    font-size: 22px !important;
+  }
+  .row.accout-setting .ant-card-body {
+    font-size: 14px !important;
+  }
+  .row.padding-row.registerForm.paymentForm.dashboard h3 {
+    font-size: 16px !important;
+  }
+  .addReadingsssBtn {
+    min-height: 40px !important;
+  }
+  .row.generalSettingHeader p {
+    font-size: 22px !important;
+  }
+  form#nest-messages .row .col-sm-12 h4, .col-sm-5.checcKlisssst h4, form#nest-messages .col-sm-8 h4, form#nest-messages .col-sm-4 h4 {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  .workTypeSection h6 {
+    font-size: 16px;
+    padding-top: 15px;
+  }
+  .swiper-slide .col-xs-3 div, .swiper-slide .col-xs-4 div {
+    font-size: 13px;
+  }
+  .col-xs-3 strong {
+    font-size: 15px;
+  }
+  .invoice-title h2, .invoice-title h3 {
+    font-size: 22px;
+    font-weight: 600;
+  }
+  input#User_password {
+    height: 36px !important;
+  }
+  .col-sm-12.savebtn.addProductType.taxRate button, .col-sm-12.submitbtn button {
+    height: 45px !important;
+  }
+  .row.fomik.addRoute.taxratee .col-sm-6.workOrderSettingggss .ant-form-item {
+    margin-bottom: 12px;
+  }
+  .col-sm-12.checkBoxGeneral .row.cslocation .col-sm-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 10px;
+  }
+  h4.card-title {
+    font-size: 18px;
+  }
+  .addnew-workorder-type {
+    margin-top: 13px !important;
+  }
+  td.notoverflow {
+    max-width: 150px;
+  }
+  td b {
+    font-size: 12px !important;
+  }
+  .card .card-header a {
+    font-size: 12px !important;
+  }
+  td {
+    font-size: 11px;
+  }
+  .mySwiper.dateSwiperr .swiper-button-prev {
+    right: 15% !important;
+  }
+  .graph h4 {
+    padding: 12px 0 !important;
+  }
+  .customers button {
+    padding: 10px 30px !important;
+  }
+  .row.CustomerInfo.activebody-21.prospectcss {
+    min-height: auto !important;
+  }
+  .accordion-body .savebtn button {
+    font-weight: 700;
+  }
+  button.accordion-button {
+    font-size: 18px;
+  }
+  .swiper-button-prev, .swiper-button-next {
+    padding: 20px !important;
+    border-radius: 50%;
+  }
+  .accordion-body button.ant-btn.bluebtn.form {
+    width: auto !important;
+    padding: 0 30px !important;
+    height: 40px !important;
+    border-radius: 15px !important;
+  }
+  .ant-btn-primary {
+    height: 40px;
+  }
+  h5.Customer-h5 {
+    font-size: 15px;
+  }
+  .col-sm-12.workTypeSection .ant-picker {
+    height: 40px !important;
+  }
+  .subHeadingAddProspect {
+    font-size: 16px !important;
+  }
+  button.historybtn {
+    padding: 5px 10px;
+    font-size: 11px;
+  }
+  table.ant-picker-content th,
+  table.ant-picker-content td {
+    padding: 6px 2px !important;
+  }
+  .fomik.customer .col-sm-4 {
+    height: auto;
+  }
+  .row.waterbody-sm.activebody-21 .col-sm-5,.row.waterbody-sm .col-sm-5 {
+    margin-bottom: 8px;
+  }
+  .col-sm-5.checcKlisssst .buttonCol-sm-2 .yellowbtn {
+    height: 41px !important;
+  }
+  .yellowbtn.getStartedHeader,
+  .whiteButton.login {
+    height: 40px;
+    padding: 0px 50px 0px 50px;
+  }
+  .row.padding-row1.cslocation.forgetFPage .col-sm-6.froImageBaner .bnrimgone {
+    width: 100%;
+  }
+  .row.padding-row.registerForm.paymentForm .bnrimgone {
+    width: 100%;
+  }
+  .col-sm-12.loginlogo {
+    padding: 10px 15px;
+  }
+  .AddNewType-Btn.prospect-add {
+    bottom: 20px;
+    left: 200px !important;
+  }
+  .col-sm-6.addCustomTags .ant-select-multiple .ant-select-selector,.row.fomik.addRoute.taxratee .ant-picker {
+    height: 40px !important;
+  }
+  .wbtn.AddNewType-Btn1 {
+    left: -8%;
+  }
+  .row.footers.cslocation {
+    padding: 50px 80px;
+    padding-left: 100px;
+  }
+  .col-sm-3.forFifty .ant-picker input#nest-messages_service_time {
+    height: 38px !important;
+  }
+  .row.lgoinHead {
+    padding: 10px 10px 10px 0px;
+  }
+  .yellowbtn.getStartedHeader {
+    margin-right: 32px;
+  }
+  .col-sm-12.loginlogo img,
+  .mainCOl img {
+    width: 180px !important;
+  }
+  .col-sm-12.footerLoogog img {
+    width: 160px !important;
+  }
+  .tetxright p,
+  .tetxright a {
+    font-size: 13px !important;
+  }
+  .row.fomik.customer.cslocation.shoppinfgForm .savebtn button {
+    font-size: 13px;
+    margin-top: 20px;
+    margin-right: 0;
+    width: auto !important;
+    height: 45px !important;
+    padding: 0 30px !important;
+  }
+  .row.shoppingDropDown.cslocation
+    .ant-select-single:not(.ant-select-customize-input)
+    .ant-select-selector {
+    width: 100%;
+    height: 40px !important;
+    padding: 0 11px;
+  }
+  .row.customers.shoppingHeader.insideAdd h2 {
+    font-size: 20px !important;
+  }
+  .row.addWorkOrderPoolModal .ant-card .ant-card-head {
+    padding: 0 15px;
+  }
+  .row.addWorkOrderPoolModal .ant-card .ant-card-head .ant-card-head-title {
+    word-break: break-word;
+    white-space: normal;
+  }
+  h4.custInfoh4 {
+    font-size: 18px;
+  }
+  .arrivalTimecss p {
+    font-size: 10px !important;
+  }
+  .row.grayshade.workOrderListsss
+    .accordion-collapse.collapse.show
+    .col-sm-1
+    p {
+      font-size: 9px !important;
+      margin-left: -12px;  }
+  .col-sm-4.reset-password {
+    padding: 0 15px;
+  }
+  .modals input,
+  .row.uploadImagePoOOLll input {
+    height: 40px !important;
+  }
+  .ant-radio-group.ant-radio-group-outline {
+    width: 100%;
+  }
+  .container-fluid.modals .col-sm-12.submitbtn button,
+  .container-fluid.modals
+    .col-sm-12.uploadImageeePoolAccordionBtn.submitbtn
+    button,
+  .col-sm-12.uploadImageeePoolAccordionBtn button,
+  .accordion-body button.ant-btn.bluebtn.form {
+    padding: 0px 30px !important;
+    height: 45px !important;
+  }
+  .col-sm-6.password input#nest-messages_password {
+    padding: 0 11px;
+  }
+  .col-sm-12.buttonsservice button {
+    height: 45px !important;
+    padding: 0 30px;
+    font-size: 14px !important;
+  }
+  .row.addWorkOrderPoolModal .ant-select-selector,
+  .row.midsec.addWorkOrder .ant-select-selector,
+  .row.midsec.addWorkOrder .ant-picker {
+    height: 40px !important;
+    border-radius: 10px !important;
+  }
+  input#nest-messages_form_service_date {
+    height: 38px !important;
+  }
+  .accordion-body .savebtn button {
+    height: 40px !important;
+    padding: 0 30px !important;
+  }
+  .switchbtn .ant-row.ant-form-item-row {
+    height: 40px !important;
+    padding: 0 !important;
+  }
+  .col-sm-12.loginBtn.regNextButton button.ant-btn-primary.nextbtn {
+    height: 40px;
+  }
+  .col-sm-6.loginInputs.forgetForm .main-input-css {
+    /* padding: 0px 12px !important; */
+    height: 40px;
+  }
+  .col-sm-2.addPoolTypeBtn .bluebtn {
+    padding: 0;
+    height: 40px;
+    width: 100%;
+    margin-right: 0 !important;
+  }
+  button.ant-btn-primary.gstrt.logBtn {
+    height: 40px;
+    padding: 0 30px;
+    width: auto !important;
+  }
+  .monthly h3 {
+    font-size: 24px;
+  }
+  span.ant-input-affix-wrapper.ant-input-outlined.ant-input-password {
+    height: 40px !important;
+  }
+  .col-sm-6.loginInputs.forgetForm h3.main-h1 {
+    padding: 10px 12px;
+  }
+  button.ant-btn-primary.nextbtn {
+    height: 45px;
+  }
+  .ant-upload.ant-upload-select .ant-btn {
+    height: 40px;
+    border-radius: 10px;
+  }
+  .ant-upload-wrapper
+    .ant-upload-list.ant-upload-list-picture
+    .ant-upload-list-item,
+  .ant-upload-wrapper
+    .ant-upload-list.ant-upload-list-picture-card
+    .ant-upload-list-item,
+  .ant-upload-wrapper
+    .ant-upload-list.ant-upload-list-picture-circle
+    .ant-upload-list-item {
+    height: 45px;
+  }
+  h2.carddetails {
+    font-size: 16px !important;
+    padding-top: 0px;
+  }
+  .col-sm-12.paymentBtn button,
+  .gstrt {
+    height: 40px;
+    padding: 0 30px;
+  }
+  input#basic_email {
+    height: 40px;
+  }
+  div#cardDetails {
+    margin-top: 20px;
+    padding: 10px 15px;
+  }
+  .fomik input {
+    height: 40px;
+  }
+  .yellowbtn.packBtnAdd {
+    height: 41px !important;
+    border-radius: 15px !important;
+    padding: 0px 10px !important;
+    width: 172px !important;
+  }
+  form.myfilters1.custFiltwer {
+    margin-top: 20px;
+  }
+  .custFiltwer input {
+    height: 41px !important;
+    padding: 0px 10px !important;
+    /* padding-top: 0px !important; */
+  }
+  .custFiltwer button {
+    height: 41px;
+    padding: 0px !important;
+    /* padding-top: 0px; */
+  }
+  .bluebtn.addSubscribrrr {
+    height: 41px !important;
+    padding: 0px !important;
+    width: 172px !important;
+    font-weight: 400;
+  }
+  .graph h4 {
+    font-size: 18px;
+  }
+  .graph h4 span {
+    font-weight: 500;
+    margin-left: 10px;
+    font-size: 20px;
+  }
+  .woNoti {
+    width: 18px;
+    height: 18px;
+  }
+  .workdetailNAme {
+    font-size: 14px !important;
+    margin-bottom: 0px !important;
+    font-weight: 500;
+  }
+  input#nest-messages_service_date {
+    height: 38px !important;
+  }
+
+}
+
+@media only screen and (max-width: 1370px) {
+  .yellowbtn.with_icon {
+    padding: 0px 10px !important;
+  }
+  h3.fourofouurrr{
+    bottom: 60px;
+  }
+  .ant-select-selector input {
+    height: 38px !important;
+  }
+  .ant-form label {
+    font-size: 10px !important;
+  }
+  img.mt-1 {
+    width: 100%;
+    object-fit: cover;
+  }
+  span.text-black-50.fontsize-css {
+    word-break: break-word;
+    margin-top: 10px;
+  }
+  .modals .ant-select-selector input{
+    height:38px !important;
+  }
+  .ant-select-dropdown.ant-select-dropdown-placement-bottomLeft {
+    min-width: 230px !important;
+  }
+   .ant-picker .ant-picker-input >input, .ant-select-single .ant-select-selector, .ant-select-dropdown .ant-select-item, .ant-select-multiple {
+    font-size: 12px;
+  }
+  .ant-select-multiple .ant-select-selection-overflow {
+    overflow: scroll;
+  }
+  .ant-select-multiple .ant-select-selection-overflow::-webkit-scrollbar{
+    display: none !important;
+  }
+  .yellowbtn.with_icon.immmport {
+    padding: 0 !important;
+  }
+  .routedashboard.mainpage.customertable td img {
+    width: 30px;
+  }
+  .col-sm-12.workTypeSection {
+    margin-top: 10px;
+    max-width: 100% !important;
+    padding: 10px;
+  }
+  .row.customers.labourInvoice .col-sm-3 h2 {
+    font-size: 18px !important;
+  }
+  .row.accout-setting.themeeeSettingg .col-sm-9{
+    max-width: 68%;
+    flex: 0 0 68%;
+  }
+  .row.accout-setting.themeeeSettingg .col-sm-3{
+    max-width: 32%;
+    flex: 0 0 32%;
+  }
+  input.invoice-customer-search {
+    width: 300px !important;
+    height: 42px;
+  }
+  .col-sm-12.frwquencyss {
+    padding: 12px !important;
+  }
+  span.address-tooltip {
+    padding: 0 !important;
+  }
+  .col-sm-6.monthDatePicker .ant-picker, form.myfilters.tableFilters.labourReportInvoice .ant-picker ,.col-sm-6.installedItemHeader .ant-select.ant-select-outlined .ant-select-selector {
+    height: 40px !important;
+  }
+  .col-sm-6.monthFilter .ant-select-single:not(.ant-select-customize-input) .ant-select-selector{
+    height: 40px !important;
+  }
+  .col-sm-4.customerNameeeee {
+    min-width: 32% !important;
+    max-width: 32% !important;
+  }
+  .yellowbtn.fornoHEigh {
+    padding: 0 5px;
+    height: 36px !important;
+    display: flex;
+    align-items: center;
+  }
+  .col-sm-3.com.switchbtn .ant-col.ant-form-item-label {
+    width: 75% !important;
+  }
+  .ant-select.ant-select-outlined.form-select.form-select-sm.select2.selectNext
+    .ant-select-selector {
+    height: 35px !important;
+    font-size: 13px !important;
+  }
+  .row.grayshade.emailBroadcast label.ant-radio-wrapper {
+    margin-bottom: 12px !important;
+    font-size: 13px !important;
+  }
+  .row.shoppingTab button {
+    padding: 0 30px;
+    height: 35px;
+  }
+  .bluebtn,
+  .yellowbtn,
+  .row.new-head-invoice,
+  .col-sm-12.profitListingg .accordion-item p {
+    font-size: 13px;
+  }
+  .col-sm-12.checkBoxxx label {
+    margin: 0 12px 12px 0 !important;
+  }
+  .col-sm-10.roueTabsMax h2 {
+    font-size: 14px !important;
+  }
+  .row.invoice-css-data {
+    font-size: 12px;
+  }
+  .filteraccordian h2 {
+    font-size: 14px !important;
+  }
+  h3.datefilter-h3,
+  .date-day,
+  .routeH3 {
+    font-size: 16px !important;
+  }
+  a.nav-link p {
+    font-size: 13px !important;
+  }
+  .row.padding-row.registerForm.paymentForm h2 {
+    font-size: 14px !important;
+  }
+  .colorGold,
+  .row.footerlinkss a,
+  .row.footerlinkss li,
+  .fotText,
+  .col-sm-12.copyrightzCOntent p {
+    font-size: 13px !important;
+  }
+  .swiper-slide .col-xs-3 div,
+  .swiper-slide .col-xs-4 div {
+    font-size: 14px;
+  }
+  .invoice-title h2,
+  .invoice-title h3 {
+    font-size: 22px;
+  }
+  .col-sm-6.roueTabsMax h2 {
+    font-size: 13px !important;
+    padding-left: 5px !important;
+}
+  .bodyroute .col-sm-3.bluebox p {
+    font-size: 11px !important;
+  }
+  .serviceRedings .row {
+    margin: 5px 0px;
+    padding-top: 10px;
+  }
+  .row.customers.servicedata_header.cslocation h2 {
+    font-size: 16px !important;
+  }
+  form.myfilters1.custFiltwer {
+    margin-top: 10px;
+  }
+  .yellowbtn.packBtnAdd {
+    height: 41px !important;
+    border-radius: 15px !important;
+    padding: 0px 10px !important;
+    width: 150px !important;
+  }
+  .registerForm h3 {
+    margin-top: 0;
+    padding: 10px 0;
+    /* font-size: 25px; */
+  }
+  button.accordion-button span {
+    padding-left: 15px;
+  }
+  .col-sm-2.addPoolTypeBtn .bluebtn {
+    padding: 0;
+    width: 100%;
+  }
+  .workOrdertwelve.col-sm-12 .accordion-item {
+    margin-top: 10px;
+  }
+  .customers h2,
+  .col-sm-6.generalSububHeader h2,
+  .row.customers.srvieLOgHEader .col-sm-5.slog h2,
+  .row.customers.cslocation.routeHeader .col-sm-5.equipmentssss h2 {
+    font-size: 20px !important;
+  }
+  .custFiltwer button {
+    height: 40.25px;
+  }
+  .col-sm-7.right.equipmentssss.wot.work-order-type button,
+  .col-sm-7.right.equipmentssss button,
+  .col-sm-3.right.slog button {
+    height: 35px !important;
+    padding: 0 30px !important;
+  }
+  .col-sm-4.DatePicker-1 .ant-picker {
+    height: 65px !important;
+  }
+  .col-sm-6.abc .row.cslocation .col-sm-8,
+  .row.grayshade .flex-column,
+  .row.grayshade .flex-column a.nav-link {
+    height: 65px !important;
+  }
+  .col-sm-12.equipmentssss.prospect input,
+  form.myfilters input {
+    height: 36px !important;
+    font-size: 14px;
+  }
+  form.myfilters select {
+    height: 35px !important;
+    padding: 0 5px !important;
+    font-size: 14px !important;
+  }
+  .col-sm-7.right.equipmentssss .notidrop button {
+    align-items: center !important;
+  }
+  form.myfilters button {
+    padding: 0 !important;
+    height: 35px !important;
+  }
+  .ant-form-item.forPAd label {
+    margin-left: 2% !important;
+  }
+  button.bluebtn.taxBTNN {
+    margin-right: 0;
+  }
+  p.cancelSubTitle {
+    font-size: 16px !important;
+  }
+  .row.fomik.addRoute.taxratee.paymenttt p.cancelSubTitle {
+    margin-top: 0;
+  }
+  .workOrdertwelve.col-sm-12 .repairSection {
+    margin: 0;
+  }
+  .addReadingsssBtn {
+    min-height: 40px;
+  }
+  .col-sm-5.checcKlisssst .buttonCol-sm-2 .yellowbtn {
+    height: 40px !important;
+  }
+  .row.editTechnicianFormAdd input {
+    height: 40px !important;
+  }
+  .row.editTechnicianFormAdd .col-sm-6.password input {
+    height: 38px !important;
+  }
+  .row.editTechnicianFormAdd .col-sm-6.password span.ant-input-affix-wrapper {
+    height: 40px !important;
+  }
+  .routefilters select {
+    height: 40px !important;
+  }
+  .col-sm-6.colorPicker .ant-color-picker-trigger {
+    padding: 0px 16px !important;
+    height: 40px !important;
+  }
+  button.OptimizeRouteBtn {
+    padding: 0px;
+    height: 40px !important;
+  }
+  .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    height: 40px !important;
+  }
+  .col-sm-12.inVoicingTabsss .ant-tabs > .ant-tabs-nav .ant-tabs-nav-wrap {
+    height: 40px;
+  }
+  .ant-tabs .ant-tabs-tab + .ant-tabs-tab {
+    padding: 12px 30px;
+  }
+  .ant-tabs .ant-tabs-tab {
+    padding: 12px 22px;
+  }
+  .ant-picker {
+    height: 40px !important;
+  }
+  .col-sm-6.shoppingFormDesc {
+    margin-top: 0px !important;
+  }
+  .workdetail h3 {
+    font-size: 14px !important;
+    padding-bottom: 5px;
+  }
+  .workSlider .swiper-button-prev {
+    position: absolute !important;
+    right: 20% !important;
+  }
+  .row.new-head-invoice.cslocation .col-sm-1, .row.invoice-css-data.cslocation .col-sm-1, .row.new-head-invoice.cslocation .col-sm-2, .row.invoice-css-data.cslocation .col-sm-2{
+    padding-right: 8px !important;
+    padding-left: 8px !important;
+  }
+  .miles div {
+    padding: 0px 10px;
+  }
+  .progressbar p {
+    font-size: 12px !important;
+  }
+  .col-sm-4.text-right {
+    font-size: 14px;
+  }
+  .col-sm-4.switchbtn {
+    max-width: 31% !important;
+  }
+  .col-sm-6.addbuttons button.ant-btn.bluebtn.form {
+    width: 40% !important;
+  }
+  .ant-switch {
+    min-width: 34px !important;
+    height: 22px;
+  }
+  .switchbtn .ant-col.ant-form-item-control {
+    text-align: end;
+    padding: 4px !important;
+  }
+  .ant-col.ant-form-item-label {
+    width: 99% !important;
+  }
+  .col-sm-2.forFifty.switchbtn.prospect .ant-col.ant-form-item-label {
+    width: 72% !important;
+  }
+  .switchbtn .ant-row.ant-form-item-row label {
+    margin-left: 11px !important;
+    padding-left: 0;
+  }
+  .row.grayshade.cslocation.generalSettingForms .ant-col.ant-form-item-label {
+    width: 100% !important;
+  }
+  .addcustomers.genralSteing {
+    width: 98%;
+  }
+  h4.sortCustHead {
+    font-size: 17px !important;
+  }
+  .row.grayshade {
+    background: #f0f0f0;
+    margin-top: 3%;
+    padding: 20px 0;
+    border-radius: 20px;
+  }
+  .accordion-item {
+    padding: 10px;
+  }
+  .bodyroute h4 {
+    margin: 0;
+    font-size: 16px !important;
+    color: #000;
+    font-weight: 700;
+    line-height: 18px;
+  }
+  .bodyroute.row span {
+    font-size: 10px;
+  }
+  .miles .col-sm-4 {
+    font-size: 10px !important;
+  }
+  .filteraccordian .col-sm-2 {
+    padding: 10px 0 !important;
+    margin: 0 0px !important;
+  }
+  .gray span, .yellows span, .white span {
+    font-size: 7px !important;
+  }
+  .bodyroute .col-sm-3.bluebox h4,
+  .bodyroute .col-sm-4.bluebox h2 {
+    font-size: 12px !important;
+  }
+  .filteraccordian h2 {
+    font-size: 13px !important;
+  }
+  .serviceLoggg,
+  .dragroute {
+    padding-top: 0 !important;
+  }
+  .ant-select.ant-select-outlined.form-select.form-select-sm.select2.selectNext
+    .ant-select-selector {
+    height: 34px !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+  }
+  .ant-select.ant-select-outlined.form-select.form-select-sm.select2.selectNext
+    .ant-select-selector
+    input {
+    height: 34px !important;
+  }
+  .col-sm-10.roueTabsMax h2,
+  .col-sm-12.roueTabsMax .row h2 {
+    font-size: 14px !important;
+  }
+  h5.Customer-h5 {
+    font-size: 14px;
+  }
+  .col-sm-2.roueTabs {
+    padding: 5px 0 !important;
+    margin: 0 1px !important;
+  }
+  .col-sm-6.roueTabsMax {
+    padding: 10px 0 !important;
+    margin: 0 0px !important;
+  }
+  .col-sm-4.roueTabsMaxContent {
+    font-size: 11px !important;
+  }
+  .workCustomer h4 {
+    font-size: 14px !important;
+  }
+  .ant-select-selector {
+    height: 40px !important;
+  }
+  .card .card-title {
+    font-size: 19px;
+  }
+  .col-sm-12.routeLocationMap .bluebtn {
+    padding: 10px 20px !important;
+  }
+  .customers button {
+    padding: 10px 30px !important;
+  }
+  .row.servicedetail-card, .row.CustomerInfo .col-sm-10 .row .col-sm-6, .row.waterbody-sm.activebody-21 .col-sm-5, .row.waterbody-sm .col-sm-5,.col-sm-3.newinvoicecss, .col-sm-2.newinvoicecss {
+    font-size: 11px ;
+  }
+  .addviewbtn-icon svg {
+    font-size: 18px;
+  }
+  .propsecth3{
+    font-size: 13px;
+  }
+  h5.prospect-h5.prospect {
+    font-size: 14px;
+  } 
+
+}
+
+@media only screen and (max-width: 1290px) {
+  .sameheight .card {
+    min-height: 550px !important;
+  }
+  .col-sm-4.roueTabsMaxContent {
+    font-size: 10px !important;
+    margin-top: 10px !important;
+  }
+  .gray span, .yellows span, .white span {
+    font-size: 8px !important;
+  }
+  button.accordion-button span {
+    font-weight: 600;
+    font-size: 14px;
+  } 
+  label {
+    font-weight: 600;
+    font-size: 11px !important;
+  }
+  button.historybtn {
+    /* padding: 5px; */
+    font-size: 10px;
+  }
+  .row.servicedetail .row.waterbody-sm, .row.servicedetail .row.waterbody-sm.activebody-21.newdata-css-12, .row.servicedetail .row.servicedetail-card {
+    padding: 14px 0;
+  }
+  .row.customers .col-sm-4 h6, .col-sm-12.chemicalRight .col-sm-3 h6 {
+    font-size: 14px;
+  }
+  .row.customers .col-sm-4 h6 span, .col-sm-12.chemicalRight .col-sm-3 h6 span {
+    font-size: 16px;
+  }
+  .row.newcss-1 .col-sm-4, .row.newcss-1 .col-sm-2 {
+    font-size: 14px;
+  }
+  .routedashboard.card .card-body {
+    padding: 0 !important;
+    margin: 0 15px !important;
+  }
+  /*
+  
+  .col-sm-2.forFifty.customertype.customertypesssss {
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+} */
+
+  .col-sm-2.newwwss{
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+  }
+  .row.customers.shoppingHeader.insideAdd h2 {
+    font-size: 18px !important;
+  }
+  .sideBarComp li button.accordion-button {
+    width: 260px !important;
+  }
+  .card .card-title {
+    font-size: 17px;
+  }
+  .main-panel > .content {
+    margin-left: 0px;
+    min-height: 100vh !important;
+  }
+  .addcustomers {
+    padding: 25px 15px;
+    width: 98%;
+  }
+  .profServiceLocationBlueflex1 button {
+    padding: 0 10px !important;
+  }
+  .col-sm-12.buttonsservice {
+    align-items: flex-start;
+    margin-top: 15px;
+  }
+  .col-sm-12.heads.poolAccodrion h3 {
+    margin: 0;
+  }
+  .heads h3 {
+    font-size: 16px;
+    padding-left: 0;
+  }
+  .row.addWorkOrderPoolModal h4,
+  form#nest-messages h4 {
+    font-size: 18px;
+  }
+  .yellowbtn.profServiceLocationyellow {
+    margin-top: 0 !important;
+  }
+  .sidebar,
+  body > .navbar-collapse {
+    width: 260px !important;
+  }
+  .addcustomersdetails {
+    width: 98%;
+  }
+  .sidebar .logo-img img {
+    max-width: 90% !important;
+  }
+  .dashboardHeader .btn {
+    padding: 4px 16px;
+  }
+  tr.table-head img {
+    width: 30px;
+    height: 30px;
+  }
+  .notidrop.dropdown.nav-item img {
+    width: 24px;
+    height: 24px;
+  }
+  .workOrdertwelve.col-sm-12 .workSelect .col-sm-4 {
+    padding-right: 0;
+  }
+  .accordion-body .savebtn button {
+    font-size: 14px;
+    height: 40px !important;
+    margin-top: 10px;
+    padding: 0px 20px !important;
+  }
+  .col-sm-12.uploadImageeePoolAccordionBtn button {
+    height: 40px !important;
+    padding: 0px 20px !important;
+    font-size: 14px;
+  }
+  .accordion-body button.ant-btn.bluebtn.form {
+    height: 40px !important;
+    padding: 0 30px !important;
+    font-size: 16px;
+  }
+  .subHeadingAddProspect {
+    font-size: 15px !important;
+  }
+  .row.routefilters.cslocation .col-sm-4 {
+    padding: 0 5px;
+  }
+  .routefilters select {
+    font-size: 13px;
+  }
+  .bodyroute.row .col-sm-2 .tech_color_code {
+    width: 100%;
+  }
+  .bodyroute.row .col-sm-3 {
+    word-break: break-word;
+  }
+  .col-sm-12.savebtn.emailList button {
+    width: auto;
+    height: 40px !important;
+    padding: 0 25px;
+    margin-top: 15px;
+    margin-right: 0;
+  }
+  .col-sm-12.uploadImageeePoolAccordionBtn {
+    padding-right: 0px;
+  }
+  .col-sm-12.submitbtn button {
+    padding: 0px 25px !important;
+    height: 40px !important;
+    font-size: 14px;
+  }
+  .modals input {
+    height: 40px !important;
+  }
+  textarea#nest-messages_description {
+    min-height: 150px;
+  }
+  .row.fomik.addRoute.equipmentModaalllll .col-sm-12.savebtn button {
+    height: 40px !important;
+    padding: 0px 20px;
+    margin-top: 0px;
+  }
+  .AddNewType-Btn.prospect-add {
+    font-size: 12px;
+  }
+  .customers button {
+    padding: 10px 25px !important;
+  }
+  .Toastify__toast-body div {
+    font-size: 14px;
+  }
+  .row.editTechnicianFormAdd.cslocation .ant-form-item.forPAd label {
+    margin-left: 0 !important;
+  }
+  .row.editTechnicianFormAdd.cslocation .workRadio .ant-radio-group.ant-radio-group-outline {
+    width: 100%;
+    margin-left: 0;
+  }
+  .row.editTechnicianFormAdd.cslocation {
+    margin: 0 !important;
+  }
+  .container-fluid.modals.workOrderTypee .row{
+    margin: 0 !important;
+  }
+  button.addviewbtn {
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .fomik.customer .col-sm-4 {
+    height: auto;
+  }
+  .addEquipments button {
+    padding: 0px 25px !important;
+    width: auto !important;
+    height: 40px !important;
+    margin-top: 15px !important;
+  }
+  .addDosageBtn button {
+    width: auto !important;
+    height: 40px !important;
+    padding: 0 25px;
+    margin-right: 0;
+  }
+  .modal-body .addcustomers {
+    padding: 0;
+  }
+  .col-sm-12.editShoppingFormSaveBtn button {
+    width: auto !important;
+    height: 40px !important;
+    padding: 0 25px;
+  }
+  .col-sm-12.savebtn .yellowbtn {
+    height: 40px !important;
+    padding: 0 25px !important;
+    width: auto !important;
+  }
+  .routedashboard.mainpage.customertable.gstTable button {
+    padding: 0 !important;
+  }
+  .col-sm-1.addReadingsssB {
+    margin-left: -21px !important;
+  }
+  .col-sm-12.savebtn .addReadingsssSaveBtn {
+    width: auto !important;
+    height: 40px !important;
+    margin-top: 15px;
+    margin-right: 0;
+    padding: 0 25px;
+  }
+  /* form.dosaaaggeesss .col-sm-2 button{
+        min-width: 88% !important;
+    } */
+  .wordkorder .swiper-button-prev {
+    position: absolute !important;
+    right: 8% !important;
+  }
+  .card-stats .card-body {
+    padding: 25px !important;
+    height: 160px;
+    position: relative;
+  }
+  label.ant-radio-wrapper {
+    font-size: 12px;
+  }
+  .card {
+    padding: 5px;
+  }
+  .card-body .row {
+    height: 140px;
+  }
+  .googlemap_frame {
+    height: 600px !important;
+    position: relative !important;
+  }
+  .col-md-4,
+  .col-md-8 {
+    padding: 5px !important;
+  }
+  .ant-tabs .ant-tabs-tab + .ant-tabs-tab {
+    margin: 0 16px 0 0;
+    padding: 12px 30px;
+  }
+  .ant-tabs .ant-tabs-tab {
+    margin: 0 16px 0 0;
+  }
+  .col-sm-6.addbuttons button.ant-btn.bluebtn.form {
+    width: 45% !important;
+  }
+  .workSlider .swiper-button-prev {
+    position: absolute !important;
+    right: 22.5% !important;
+  }
+  .col-sm-12.savebtn .viewServiceLocation,
+  .col-sm-12.savebtn .updateCustomer,
+  .col-sm-12.buttonsservice .profServiceLocationyellow,
+  .col-sm-12.buttonsservice .profServiceLocationBlue {
+    height: 40px !important;
+    padding: 0 25px !important;
+  }
+  .accordion-body .savebtn button {
+    margin-right: 0px !important;
+  }
+  .col-sm-12.buttonsservice .savebtn button {
+    height: 40px !important;
+    padding: 0 25px !important;
+  }
+  .col-sm-4.customerNameeeee {
+    min-width: 31% !important;
+    max-width: 31% !important;
+  }
+  .df div {
+    height: 30px;
+    width: 30px;
+  }
+  .fbb,
+  .inssta,
+  .linkkedINN {
+    font-size: 17px;
+  }
+  .col-sm-5.equipmentssss.woth.work-order-type {
+    min-width: 40% !important;
+    max-width: 40% !important;
+  }
+  .col-sm-7.right.equipmentssss.wot.work-order-type {
+    min-width: 60% !important;
+    max-width: 60% !important;
+  }
+  .col-sm-4 .ant-card .ant-card-head {
+    padding: 0 15px;
+  }
+  .row.grayshade.workOrderListsss .accordion-item {
+    margin-top: 5px;
+  }
+  .serviceImgecss {
+    height: 180px;
+  }
+  .col-sm-4.reset-password h3 {
+    font-size: 22px;
+  }
+  div#Pool_waterbody_type_id .col-sm-2.radioBtnAddPoolCustomer {
+    padding: 0px 12px !important;
+  }
+  .modal-body {
+    font-size: 20px;
+  }
+  .addcustomers h2 {
+    font-size: 18px !important;
+  }
+  .customers h2,
+  .col-sm-6.generalSububHeader h2,
+  .row.customers.srvieLOgHEader .col-sm-5.slog h2,
+  .row.customers.cslocation.routeHeader .col-sm-5.equipmentssss h2 {
+    font-size: 20px !important;
+  }
+  .col-sm-6.loginInputs.forgetForm h3.main-h1 {
+    padding: 10px 12px;
+    margin: 10px 0;
+  }
+  .col-sm-12.monthly h3 {
+    margin: 0 auto 10px;
+  }
+  .row.padding-row1.cslocation.forgetFPage .col-sm-6.froImageBaner .bnrimgone {
+    margin-top: 0;
+    width: 100%;
+  }
+  button.ant-btn-primary.gstrt {
+    height: 40px;
+    padding: 0 30px;
+  }
+  .row.customers.invoicer .col-sm-10{
+    width: 70% ;
+    flex: 0 0 70%;
+    padding-left: 0;
+  }
+  .row.customers.invoicer .col-sm-2{
+    width: 30% ;
+    text-align: right;
+    flex: 0 0 30%;
+    padding-right: 0;
+    max-width: 30%;
+  }
+  p.cancelSubTitle.subtitle a {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 1160px) {
+  .wordkorder .swiper-button-prev {
+    position: absolute !important;
+    right: 9% !important;
+  }
+  form.myfilters select {
+    padding: 7px;
+  }
+  .col-9 {
+    flex: 0 0 70% !important;
+    max-width: 70% !important;
+    padding: 0 !important;
+  }
+  .addReadingsssSaveBtn {
+    width: 30% !important;
+  }
+  .workSlider .swiper-button-prev {
+    position: absolute !important;
+    right: 25% !important;
+  }
+  .col-sm-12.routeLocationMap {
+    display: flex;
+  }
+  .icon-big.text-center.icon-warning h2 {
+    font-size: 19px;
+  }
+  .icon-big.text-center.icon-warning p {
+    font-size: 12px !important;
+  }
+  .card-stats .card-body {
+    padding: 18px !important;
+    height: 120px !important;
+    padding-right: 10px !important;
+  }
+  .card-body .row {
+    height: 100px !important;
+  }
+  .workorder h4 {
+    font-weight: 600 !important;
+    font-size: 14px;
+  }
+  .workdetail h3 {
+    font-size: 12px !important;
+    padding-bottom: 5px;
+  }
+  .workdetail p {
+    font-size: 10px !important;
+    margin-right: 12px !important;
+  }
+  .col-sm-4.text-right {
+    font-size: 10px;
+  }
+  .col-sm-6.text-right span {
+    font-size: 9px;
+    font-weight: 600;
+  }
+  .col-sm-12.progressbar .col-sm-6 {
+    display: flex;
+    align-items: center;
+  }
+  .d-flex.justify-content-center.align-items-center.ml-2.ml-lg-0 {
+    /* padding-left: 0px !important; */
+    padding-right: 0px !important;
+  }
+  .routedashboard.mainpage.customertable {
+    overflow-x: scroll;
+  }
+  .routedashboard.mainpage.laborReporttable {
+    overflow-x: scroll;
+  }
+  form.myfilters select {
+    width: 25%;
+    padding: 11px;
+    padding-right: 20px;
+    padding-left: 10px;
+    font-size: 12px;
+  }
+  form.techniciaaannnn select {
+    width: 20% !important;
+  }
+  form.myfilters input {
+    width: 40%;
+    background: transparent;
+    border: unset !important;
+    padding: 10px;
+    font-size: 14px;
+  }
+  .morenoti.col-3 {
+    height: 100px;
+  }
+  .searchform.nav-item {
+    margin-left: 30px;
+  }
+  a.m-0.nav-link {
+    padding: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .col-sm-12.inForHead p {
+    font-size: 16px !important;
+    font-weight: 600;
+    margin: 8px 0 15px !important;
+  }
+  .filteraccordian .col-sm-2 {
+    max-width: 20% !important;
+  }
+  .col-sm-2.roueTabs {
+    min-width: 30% !important;
+    max-width: 100% !important;
+  }
+  .col-sm-6.roueTabsMax {
+    min-width: 90% !important;
+    max-width: 100% !important;
+  }
+  .col-sm-1.forFifty{
+    max-width: 25%;
+    flex: 0 0 25%;
+    padding: 0 15px !important;
+  }
+  .col-sm-2.forFifty{
+    max-width: 50%;
+    flex: 0 0 50%;
+  }
+  h3.customer-name-head-css {
+    font-size: 16px;
+  }
+  .col-sm-6.roueTabsMax h2 {
+    margin-left: 10px;
+  }
+  .row .item-needed-css .col-sm-3 {
+    padding: 10px !important;
+    font-size: 12px;
+  }
+  .col-sm-3.newinvoicecss,.col-sm-2.newinvoicecss {
+    font-weight: 600;
+    font-size: 10px;
+    padding: 5px;
+  }
+  .row.grayshade.emailBroadcast.smsSetting .col-sm-6.email {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .col-sm-6.generalFiltersResultText {
+    max-width: 70% !important;
+    flex: 0 0 70%;
+    align-items: flex-start;
+  }
+  h5.Customer-h5 {
+    font-size: 13px;
+  }
+  .col-sm-6.generalFiltersResultBtn {
+    max-width: 30% !important;
+    flex: 0 0 30%;
+  }
+  .col-sm-6.generalFiltersResultBtn button {
+    margin-right: 0;
+  }
+  p.cancelSubTitle.subtitle.QuickBooks {
+    padding: 6px;
+    margin: 2px;
+    font-weight: 500;
+    font-size: 13px !important;
+  }
+  p.cancelSubtetx{
+    font-size: 12px;
+  }
+  /* .col-sm-8.fullWIdthhhh, .col-sm-8.height-adjust, .col-sm-4.height-adjust{
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+  } 
+  .col-sm-4.fullWIdthhhh{
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+    margin-top: 20px;
+  } */
+  .row.cslocation.taxGroupMainPage .row.customers.cslocation .col-sm-5.equipmentssss, .row.cslocation.taxGroupMainPage .row.customers.cslocation .col-sm-7.right.equipmentssss {
+    padding: 0px !important;
+    min-width: 50% !important;
+    max-width: 50% !important;
+  }
+  .row.accout-setting.themeeeSettingg .col-sm-9{
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+  .row.accout-setting.themeeeSettingg .col-sm-3{
+    max-width: 100%;
+    margin-top: 30px;
+    flex: 0 0 100%;
+  }
+  .shopHeader.aboveHEade h2 {
+    margin: 0 15px 15px !important;
+  }
+  .yellowbtn.fornoHEigh, .yellowbtn.with_icon {
+    padding: 0 !important;
+  }
+  .searchform.nav-item {
+    width: 250px;
+    margin-left: 30px;
+  }
+  .searchform.nav-item input {
+    width: 200px;
+  }
+  .workSlider .swiper-button-prev {
+    position: absolute !important;
+    right: 30% !important;
+  }
+  .col-sm-4.customerNameeeee {
+    min-width: 28% !important;
+    max-width: 28% !important;
+  }
+  .row.grayshade.emailBroadcast label.ant-radio-wrapper {
+    margin-bottom: 16px !important;
+    font-size: 12px !important;
+  }
+  .row.routefilters.cslocation .col-sm-7, .row.routefilters.cslocation .col-sm-5 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .deleteICon {
+    font-size: 50px;
+  }
+  .row.grayshade.cslocation.generalSettingForms .col-sm-6.fulwid {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .filteraccordian h2, .col-sm-10.roueTabsMax h2, .col-sm-12.roueTabsMax .row h2, .row.grayshade.workOrderListsss .accordion-item .bodyroute.row .col-sm-4.bluebox h2  {
+    font-size: 13px !important;
+  }
+  form#nest-messages .col-sm-8 h4, form#nest-messages .col-sm-4 h4, form#nest-messages .row .col-sm-12 h4, form#Customer h4.custInfoh4 {
+    font-size: 16px !important;
+    margin-top: 5px;
+  }
+  .workCustomer h4 {
+    font-size: 12px !important;
+  }
+  .repairSection .bluebtn {
+    font-size: 11px !important;
+  }
+  h2.invoice-header.accordion-header {
+    margin: 15px 0 !important;
+  }
+  .repairSection h6 {
+    font-size: 12px;
+  }
+  .miles div {
+    margin-top: 3%;
+  }
+  .workORdertootltyp, .workPool p, .ant-card.ant-card-bordered p {
+    font-size: 11px !important;
+  }
+  .tech_color_code {
+    height: 17px;
+    width: 40px;
+  }
+  .ant-tooltip-inner {
+    font-size: 12px;
+  }
+  .addcustomers.serviceLogRouteDetails .serviceLog {
+    padding: 0px 10px 10px 10px;
+  }
+  .addcustomers.serviceLogRouteDetails .serviceInfoInput input {
+    text-align: left;
+  }
+  .col-sm-12.profitListingg .accordion-item p, .row.cslocation.pprofitRepoort .accordion-item p {
+    font-size: 11px !important;
+  }
+  .col-sm-8.profitMaker p,.col-sm-4.totalProfitsssss p {
+    margin-bottom: 0;
+  }
+  .row.CustomerInfo.activebody-21.prospectcss .col-sm-10 .row .col-sm-6 {
+    word-break: break-word;
+  }
+  .row.customers .col-sm-4 h6 span, .col-sm-12.chemicalRight .col-sm-3 h6 span {
+    font-size: 14px;
+  }
+  .row.customers .col-sm-4 h6, .col-sm-12.chemicalRight .col-sm-3 h6 {
+    font-size: 13px;
+  }
+  /* .row.CustomerInfo.activebody-21.prospectcss .col-sm-10, .row.CustomerInfo.activebody-21.prospectcss .col-sm-2{
+    padding-left: 0;
+    padding-right: 0;
+  } */
+  /* .addcustomers.serviceLogRouteDetails .col-sm-4.ddx {
+    flex: 0 0 100%;
+    max-width: 100%;
+  } */
+  /* .addcustomers.serviceLogRouteDetails .col-sm-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  } */
+  .col-sm-6.abc .onTabletDisplay .mapRadius div:first-child {
+    height: 100% !important;
+  }
+  .routedashboard.card .ct-chart table {
+    margin: 0 0 20px !important;
+  }
+  .routedashboard.card .ct-chart table td, .routedashboard.card .ct-chart table th {
+    padding: 15px 10px !important;
+  }
+  .sameheight.row .card .card-header {
+    padding-top: 10px !important;
+  }
+  .graphfilter.row.cslocation.card-footer .legend.col-sm-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .graphfilter.row.cslocation.card-footer .filters.col-sm-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin: 10px 0;
+  }
+  .row.performance_row .col-sm-2{
+    flex: 0 0 40% !important;
+    max-width: 40% !important;
+    margin: 0 5px 5px !important;
+  }
+  .row.performance_row .col-sm-2 {
+    height: 70px;
+  }
+  .week_performance h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .row.performance_row {
+    flex-wrap: wrap;
+    justify-content: center !important;
+    gap: 0 !important;
+  }
+  .mySwiper.dateSwiperr .swiper-button-prev {
+    right: 12% !important;
+  }
+  h3.datefilter-h3, .date-day, .routeH3 {
+    font-size: 14px !important;
+  }
+  .row.servicedetail-card {
+    font-size: 11px;
+  }
+  .row.waterbody-sm .col-sm-5 {
+    font-size: 11px;
+  }
+  .row.CustomerInfo .col-sm-10 .row .col-sm-6 {
+    font-size: 11px;
+  }
+  .col-sm-8.headerLinks a {
+    margin: 0 10px;
+    padding: 13px 5px;
+  }
+  .col-sm-6.loginInputs.forgetForm label {
+    font-size: 10px !important;
+  }
+  .row.footers.cslocation {
+    padding: 50px 0px;
+    padding-left: 70px;
+  }
+  .col-sm-12.loginlogo img, .mainCOl img {
+    width: 160px !important;
+  }
+  .col-sm-12.loginlogo {
+    margin-bottom: 20px;
+  }
+  .container-fluid.footers {
+    margin-top: 20px;
+  }
+  .yellowbtn.getStartedHeader,
+  .whiteButton.login {
+    padding: 0px 30px 0px 30px;
+  }
+  .col-sm-12.footerLoogog img {
+    width: 140px !important;
+  }
+  .main-h1,
+  .registerForm h3 {
+    font-size: 16px;
+  }
+  .col-sm-2.forFifty.switchbtn.prospect .prospectusss {
+    width: 100% !important;
+  }
+  form.myfilters button {
+    padding: 8.25px;
+  }
+  button.bluebtn.taxBTNN {
+    margin-right: 0;
+  }
+  .col-sm-10.swicthbtn.radioAddPoolCustomer,
+  .col-sm-2.addPoolTypeBtn {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .col-sm-2.addPoolTypeBtn button {
+    padding: 0 30px !important;
+    height: 40px !important;
+    width: auto !important;
+  }
+  .col-sm-2.addPoolTypeBtn {
+    margin-left: 0 !important;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+  .col-sm-2.forFour {
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+  }
+  .col-sm-2.forFifty.customertype.customertypesssss,
+  .col-sm-2.forFifty.switchbtn.prospect,
+  .col-sm-4.forFifty.customerNameeeee,
+  .col-sm-3.forFifty,
+  .col-sm-3.com.switchbtn,
+  .col-sm-3.com,
+  .col-sm-12.befoer .col-sm-4, .col-sm-4.forFifty, span.row.display-flex-1 .col-sm-3{
+    width: 50%;
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+  }
+  span.row.display-flex-1 .col-sm-1.forFifty{
+    flex: 0 0 25%;
+    max-width: 25%;
+    width: 25%;
+  }
+  span.row.display-flex-1 .col-sm-2{
+    flex: 0 0 30%;
+    max-width: 30%;
+    width: 30%;
+  }
+  .taxratemodal.taxGrpModal.modal.show .modal-dialog .wbtn.AddNewType-Btn {
+    left: 50px;
+    font-size: 11px;
+  }
+  h2.AddAnotherPoolHeader.accordion-header button.accordion-button span, button.accordion-button {
+    font-size: 15px !important;
+  }
+  .col-sm-2.forFifty.switchbtn.prospect {
+    padding: 0 15px !important;
+  }
+  .row.addPoolROw .col-sm-4.forFifty {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .sameheight.row .col-md-8,
+  .sameheight.row .col-md-4 {
+    flex: 0 0 100%;
+    max-width: 100% !important;
+  }
+  .row.customers.shopHeader h2 {
+    font-weight: 800;
+    color: #1a4a5b;
+    font-size: 30px;
+    margin: 0 0 25px;
+  }
+  .checmicalCustDet h2 {
+    font-size: 16px;
+  }
+  .row.editTechnicianFormAdd .col-sm-7,
+  .row.editTechnicianFormAdd .col-sm-5.checcKlisssst {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  form.myfilters.productFiltersss select {
+    padding: 0 10px;
+    height: 41px;
+  }
+  .addTechnicianFormmmss {
+    padding: 0 25px !important;
+  }
+  .productFiltersss input {
+    width: 65% !important;
+  }
+  .row.profileReportDescription.cslocation {
+    padding: 0;
+  }
+  .col-sm-12.profitListingg .accordion-item td,  .col-sm-12.profitListingg .accordion-item th {
+    padding: 10px !important;
+}
+  .row.accout-setting {
+    align-items: flex-start;
+  }
+  .row.fomik.addRoute.taxratee {
+    width: 95% !important;
+  }
+  .col-sm-12.profitListingg .accordion-item {
+    margin-top: 0;
+    padding: 10px 5px;
+  }
+  .col-sm-12.profitListingg .accordion-item p{
+    font-size: 12px !important;
+  }
+  .panel-body {
+    padding: 5px !important;
+    overflow: scroll;
+  }
+  .panel-body td, .panel-body th{
+    padding: 5px !important;
+  }
+  .container-fluid.new-invoice .col-xs-3{
+    padding-left: 0;
+    word-break: break-word;
+    font-size: 12px;
+  }
+  h2.invoice-header.accordion-header
+    button.accordion-button.collapsed
+    .col-sm-2,
+  .row.invoice-css-data,
+  .routedashboard.mainpage.customertable.invoicingTables th {
+    font-size: 11px;
+  }
+  .propsecth3 {
+    font-size: 13px;
+  }
+  td b {
+    font-size: 11px !important;
+  }
+  .row.fomik.addRoute.addProspectService .col-sm-12.workTypeSection {
+    padding: 10px;
+  }
+  td,
+  th {
+    font-size: 10px;
+  }
+  .col-sm-12.checkBoxxx .ant-form-item {
+    margin-bottom: 0;
+  }
+  .taxratemodal.taxGrpModal.modal.show .modal-body {
+    padding: 15px 20px !important;
+  }
+  .row.new-head-invoice.cslocation .col-sm-2 {
+    font-size: 12px;
+  }
+  .invoicingTables {
+    margin-top: 60px !important;
+  }
+  .routedashboard.mainpage.customertable .accordion-body td,
+  .routedashboard.mainpage.customertable .accordion-body th {
+    padding: 15px !important;
+  }
+  form.tableFilters.invoiceFilter {
+    right: -6% !important;
+    top: 58px !important;
+  }
+  form.invoiceFilter .ant-picker {
+    width: 50% !important;
+  }
+  .col-sm-5.equipmentssss.equipMentHeader {
+    min-width: 25% !important;
+    max-width: 25% !important;
+  }
+  .col-sm-6.dateALign p {
+    text-align: left;
+  }
+  .col-sm-7.right.equipmentssss.equipMentHeader {
+    max-width: 75% !important;
+    min-width: 75% !important;
+  }
+  .row.midsec.addWorkOrder .col-sm-3.forFifty,
+  .row.midsec.addWorkOrder .col-sm-4.forFifty {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  h4.custInfoh4.three {
+    margin: 25px 0 12px;
+  }
+  .container-fluid.modals.fomik.addRoute.editWorkOrder .col-sm-8.forfulllll,
+  .container-fluid.modals.fomik.addRoute.editWorkOrder .col-sm-4.forfulllll {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .emailLSit .card-body {
+    margin: 0 !important;
+  }
+  .row.customers.invoicer {
+    margin: 0 !important;
+  }
+  .container-fluid.new-invoice {
+    padding: 0;
+  }
+
+  .row.customers.invoicer .col-sm-2 button{
+    width: 100% !important;
+  }
+  .row.new-head-invoice.cslocation .col-sm-1,.row.new-head-invoice.cslocation .col-sm-2 {
+    font-size: 11px !important;
+  }
+  input.invoice-customer-search {
+    top: 87px;
+    left: 2% !important;
+  }
+  .emailLSit .row.workdetail.emailList.cslocation .col-sm-2.widthZero{
+    width: 1% !important; 
+    flex: 0 0 1% !important;
+  }
+  .row.addWorkOrderPoolModal .col-sm-8,
+  .row.addWorkOrderPoolModal .col-sm-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .row.adrrLocation .col-sm-3.underAddPool {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .onTabletDisplay.routeMapppppp .googlemap_frame .mapRadius {
+    height: 540px !important;
+  }
+  .col-sm-6.abc .onTabletDisplay .mapRadius div {
+    border-radius: 15px;
+  }
+  .row.routefilters.routeMap {
+    margin-top: 20px !important;
+  }
+  .onTabletDisplay.workOrderrMapppppS {
+    padding: 0 15px 15px;
+  }
+  .row.adrrLocation .col-sm-2.underAddPool {
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+  }
+  .submitButtoonnn {
+    font-size: 16px !important;
+  }
+  .col-sm-2.addPoolTypeBtn {
+    padding: 0;
+    margin-left: -20px;
+  }
+  .row.grayshade.workOrderListsss .col-sm-6.abc.notDisplay {
+    display: none !important;
+  }
+  .row.grayshade.workOrderListsss .onTabletDisplay {
+    display: block !important;
+  }
+  .row.grayshade.workOrderListsss .col-sm-6.route-filter.abc,
+  .row.grayshade.workOrderListsss .col-sm-6.abc {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .row.grayshade.workOrderListsss .col-sm-6.abc .onTabletDisplay.workOrderMap {
+    margin-top: 20px;
+    padding: 0 15px;
+  }
+  .maptime-distance {
+    margin-bottom: 20px;
+  }
+  .filteraccordian .col-sm-2.roueTabs {
+    min-width: 16.6% !important;
+    max-width: 16.6% !important;
+    margin: 0 !important;
+  }
+  .row.serviceLogDetailPageCols.cslocation .col-sm-4.forFullWidth,
+  .row.serviceLogDetailPageCols.cslocation .col-sm-8.forFullWidth {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .filteraccordian .col-sm-6.roueTabsMax {
+    min-width: 50% !important;
+    max-width: 50% !important;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .col-sm-5.installedItems {
+    min-width: 100% !important;
+  }
+  nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding: 5px 5px !important;
+    background: var(--primary-color) !important;
+  }
+  .content.dasssssshhhBoarrddd .container-fluid {
+    padding-left: 0px !important;
+  }
+  .row.workaddbtn {
+    margin-top: -60px;
+  }
+  .navbar .navbar-brand {
+    font-weight: 400;
+    margin: 5px 0px;
+    font-size: 20px;
+    color: #fff !important;
+  }
+  .navbar .navbar-toggler .burger-lines {
+    background-color: #fff !important;
+  }
+  .nav.mr-auto.name.navbar-nav .nav-item {
+    display: none;
+  }
+  .searchform.nav-item {
+    display: block !important;
+    margin: auto;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+  }
+  .nav.mr-auto.name.navbar-nav {
+    width: 100% !important;
+    flex: 0 0 25%;
+    margin-top: 15px;
+  }
+  .ml-auto.hassan.navbar-nav {
+    display: flex;
+    flex-direction: inherit;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .avatardrop .dropdown-menu {
+    transform: scale(1) !important;
+    background: #f0b51b !important;
+    /* margin-top: 15px !important; */
+    /* margin: 15px 10px 0px !important; */
+  }
+  .avatardrop .dropdown-menu a {
+    color: #fff !important;
+  }
+  .notNotidrop .dropdown-menu {
+    transform: scale(1) !important;
+    background: #f0b51b !important;
+    color: white !important;
+    /* margin-top: 15px !important; */
+    margin: 15px 10px 0px !important;
+  }
+  .notidrop.notNotidrop.dropdown.nav-item {
+    padding-left: 10px;
+  }
+  .navbar .navbar-nav .notification {
+    margin-left: 10px;
+  }
+  .notNotidrop .dropdown-menu a {
+    color: #fff !important;
+  }
+  .nav.mr-auto.name.navbar-nav {
+    width: 100% !important;
+    flex: 0 0 50%;
+  }
+  .ml-auto.hassan.navbar-nav {
+    display: flex !important;
+    flex-direction: inherit;
+    justify-content: space-between;
+    margin-top: 15px;
+  }
+  .btn.btn-fill {
+    background-color: #f0b51b !important;
+    border: unset !important;
+  }
+  .name .nav-item {
+    text-align: center;
+  }
+  .navbar-nav .nav-item {
+    display: block;
+    width: 100%;
+    margin-left: 0px !important;
+  }
+  .searchform.nav-item input {
+    width: 95%;
+  }
+  .avatardrop .dropdown-menu {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+    padding-left: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  .navbar-nav .show .dropdown-menu a {
+    font-size: 12px;
+  }
+  .d-flex.justify-content-center.align-items-center.ml-2.ml-lg-0 {
+    padding-left: 0px !important;
+  }
+  .main-panel > .content {
+    margin-left: 0px !important;
+  }
+  .col-sm-12.buttonsservice .savebtn button {
+    width: 100% !important;
+  }
+  .emailFilters .savebtn button {
+    width: 40% !important;
+    margin-right: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 820px) {
+  .row.grayshade .flex-column a.nav-link {
+    padding: 0 15px !important;
+    height: 65px !important;
+    align-items: center;
+    display: flex;
+  }
+  .col-sm-12.loginlogo.innnFOur {
+    margin-bottom: 0;
+}
+  h3.fourofouurrr {
+    bottom: 30px;
+    font-size: 24px;
+}
+.col-sm-12.noPadd.innnFOur .container-fluid.footers{
+  margin-top: 0 !important;
+}
+  .text-right{
+    padding: 0;
+  }
+  .col-md-3, .col-md-9{
+    flex: 0 0 auto !important;
+    max-width: 100% !important;
+  }
+  .col-md-9 .p-3.py-5 {
+    padding: 0 !important;
+  }
+  .d-flex.text-center{
+    text-align: left !important;
+  }
+  .d-flex.align-items-center {
+    align-items: flex-start !important;
+  }
+  img.mt-1 {
+    width: 250px;
+    object-fit: cover;
+}
+  .d-flex.ddeskttop{
+    display: none !important;
+  }
+  .d-flex.mmoobbillee{
+    display: flex !important;
+    width: 100% !important;
+    text-align: left !important;
+  }
+  .container-fluid.modals.workOrderTypee .row.editTechnicianFormAdd.cslocation .col-sm-7, .container-fluid.modals.workOrderTypee .col-sm-12.forBorderrr, .container-fluid.modals.workOrderTypee .row.editTechnicianFormAdd.cslocation .col-sm-5.checcKlisssst{
+    padding: 0;
+  }
+  .col-sm-12.workRadio .col-sm-4 input {
+    border-top: 1px solid #d9d9d9 !important;
+    border-bottom: 1px solid #d9d9d9 !important;
+  }
+  .col-sm-12.workRadio .col-sm-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 10px 0;
+  }
+  .col-sm-12.workRadio label.ant-radio-wrapper.ant-radio-wrapper-in-form-item {
+    width: 100% !important;
+  }
+  span.row.display-flex-1 .col-sm-1.forFifty{
+    flex: 0 0 25%;
+    max-width: 25%;
+    width: 25%;
+  }
+  .wbtn.AddNewType-Btn {
+    left: 100px;
+  }
+  .card .card-header {
+    padding: 15px 10px 0;
+  }
+  .onTabletDisplay.routeMapppppp {
+    padding-top: 0;
+  }
+  .col-sm-2.switchbtn.radioBtnAddPoolCustomer label {
+    margin-right: 10px !important;
+  }
+  .col-sm-12.buttonsservice.prospect button {
+    width: auto !important;
+    padding: 0 30px !important;
+    margin-right: 0 !important;
+    margin-left: 30px !important;
+  }
+  .row.lgoinHead.mobile {
+    display: flex !important;
+  }
+  .row.lgoinHead.desktop {
+    display: none !important;
+  }
+  .col-sm-2.addPoolTypeBtn {
+    padding: 0 15px;
+    margin-left: 0px;
+  }
+  .col-sm-4.reset-password h3 {
+    font-size: 20px;
+  }
+  .col-sm-6.froImageBaner.notTab {
+    display: none !important;
+  }
+  .col-sm-8 .login-form {
+    width: 100%;
+  }
+  .col-sm-8 .login-form.resteScrreen{
+    width: 100% !important;
+  }
+  .col-sm-2.dogTwo {
+    padding: 0;
+  }
+  span.row.display-flex-1 .col-sm-1 {
+    margin-top: 0% !important;
+  }
+  span.row.display-flex-1 .col-sm-1 .anticon[tabindex] {
+    margin-top: 0% !important;
+  }
+  span.row.display-flex-1 .col-sm-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 0 5px;
+  }
+  .workOrderFilterShort{
+    max-width: 22% !important;
+  }
+  .workOrderFilterLarge{
+    max-width: 34% !important;
+    flex: 0 0 auto !important;
+  }
+  span.row.display-flex-1 .col-sm-5 {
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+    padding: 0 5px;
+  }
+  span.row.display-flex-1 .col-sm-1 {
+    flex: 0 0 8.333333%;
+    max-width: 8.333333%;
+    padding: 0 5px;
+  }
+  .yellowbtn.with_icon {
+    padding: 0px 0px !important;
+  }
+  .switchbtn .ant-col.ant-form-item-control {
+    text-align: end;
+    padding: 0px !important;
+    margin-left: -20%;
+  }
+  .col-sm-7.right.equipmentssss.wot.work-order-type button,
+  .col-sm-7.right.equipmentssss button,
+  .col-sm-3.right.slog button {
+    padding: 0 25px !important;
+  }
+  .d-flex.align-items-center.ml-2.ml-lg-0 {
+    height: auto !important;
+  }
+  button#navbarDropdownMenuLink {
+    color: white;
+    opacity: 1;
+  }
+  .col-sm-6.forgetForm.forgettTTForm .row.cslocation {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0;
+  }
+  .row.class-login-new.cslocation {
+    display: flex;
+    justify-content: center;
+  }
+  .row.padding-row1.cslocation.forgetFPage .col-sm-6.forgetForm {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  /* .row.cslocation.registerFOrrmmm .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    } */
+  .col-sm-6.forEifght {
+    flex: 0 0 80%;
+    max-width: 80%;
+  }
+  .notTab {
+    display: none;
+  }
+  .toTab {
+    display: block;
+  }
+  .toTab .col-sm-6.froImageBaner {
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+  .row.padding-row1.cslocation.forgetFPage.loginPage
+    .col-sm-6.loginInputs.forgetForm {
+    margin-top: 30px;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 50px;
+  }
+  .row.padding-row1.cslocation.forgetFPage.loginPage
+    .col-sm-6.loginInputs.forgetForm
+    .row.cslocation {
+    display: flex;
+    justify-content: center;
+  }
+  .login-form,
+  .formpayement.login-form {
+    width: 50% !important;
+  }
+  /* .row.padding-row1.cslocation.forgetFPage.loginPage img.bnrimgone {
+        width: 50% !important;
+    } */
+  .row.padding-row.registerForm.paymentForm .col-sm-6.stepforms.step.steps {
+    margin-top: 0;
+  }
+  .row.cslocation.paymentHistoryInvoice .col-sm-6.pi {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  .buttonForHead {
+    justify-content: flex-start;
+  }
+  .widrhSix {
+    width: 80%;
+  }
+  .col-sm-12.invoiceHistoryDet {
+    padding: 10px 0 30px;
+  }
+  .row.cslocation.paymentPage h2.carddetails {
+    margin: 30px 0 20px;
+  }
+  .serviceInfoInput input {
+    text-align: left;
+  }
+  .col-sm-6.forgetForm {
+    margin-top: 0px;
+  }
+  h2.carddetails {
+    padding-top: 0;
+  }
+  .row.padding-row.registerForm.paymentForm .bnrimgone {
+    width: 100%;
+  }
+  .col-sm-12.radioSection .col-sm-2 {
+    flex: 0 0 33%;
+    max-width: 33%;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+  }
+  .ant-radio-group.ant-radio-group-outline {
+    width: 100%;
+    justify-content: flex-start;
+  }
+  .col-sm-12.emailButton .ant-btn-primary {
+    height: 40px !important;
+    padding: 0 30px !important;
+  }
+  label.ant-radio-wrapper span {
+    text-align: left;
+  }
+  /* .col-sm-12.loginlogo img {
+        width: 25% !important;
+    } */
+  .monthly h3 {
+    font-size: 22px;
+  }
+  .col-sm-2.forFour {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  .col-sm-10.swicthbtn.radioAddPoolCustomer {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .col-sm-2.addPoolTypeBtn {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .col-sm-2.addPoolTypeBtn .bluebtn {
+    width: auto !important;
+    padding: 0 30px !important;
+    height: 40px !important;
+  }
+  button.nextbtn {
+    width: auto;
+    padding: 0 30px;
+    height: 40px;
+  }
+  .ant-col.ant-form-item-label {
+    width: 100% !important;
+    height: auto;
+  }
+  .row.shoppingTab button.yellowbtn {
+    height: 35px;
+    padding: 0 25px;
+  }
+  label {
+    font-size: 11px !important;
+  }
+  .onTabletDisplay {
+    display: block !important;
+    padding-top: 20px;
+  }
+  .row.serviceLogDetailPageCols .col-sm-4,
+  .row.serviceLogDetailPageCols .col-sm-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  input#basic_email {
+    height: 40px;
+  }
+  .gstrt.logBtn {
+    height: 40px;
+    padding: 0 30px !important;
+    width: auto !important;
+  }
+  .col-sm-6.forFullWidth,
+  .col-sm-4.forFullWidth,
+  .col-sm-8.forFullWidth {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .col-sm-4.forFullWidth .col-sm-11 p {
+    margin-bottom: 0 !important;
+  }
+  .col-sm-4.forFullWidth .serviceRedings .row {
+    align-items: center !important;
+  }
+  .row.slignc .col-sm-3.forFifty {
+    padding-bottom: 20px !important ;
+  }
+  .col-sm-6.abc.notDisplay {
+    display: none;
+  }
+  .col-sm-10.roueTabsMax .row h2 {
+    margin: 5px 10px;
+  }
+  .row.grayshade.workOrderListsss .col-sm-6.abc {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .row.grayshade.emailBroadcast .col-sm-6.email {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .row.workdetail.emailList {
+    justify-content: space-between;
+  }
+  .col-sm-6.roueTabsMax {
+    padding: 10px !important;
+    min-width: 50% !important;
+  }
+  .col-sm-6.route-filter.abc .col-sm-6.roueTabsMax {
+    min-width: 50% !important;
+    max-width: 100% !important;
+  }
+  .switchbtn .ant-row.ant-form-item-row {
+    height: 40px;
+    padding: 0 5px 0 10px !important;
+  }
+  .col-sm-6.addCustomTags .ant-select-multiple .ant-select-selector {
+    height: 40px !important;
+  }
+  .col-sm-3.forFifty,
+  .col-sm-2.forFifty,
+  .col-sm-4.forFifty {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+  }
+  .row.addWorkOrderPoolModal .col-sm-8,
+  .row.addWorkOrderPoolModal .col-sm-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .accordion-body .savebtn button {
+    margin-top: 25px;
+  }
+  .col-sm-2.radioBtnAddPoolCustomer {
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+  .wbtn {
+    text-align: center;
+  }
+  .prospectusss {
+    width: 100% !important;
+  }
+  .row.grayshade.workOrderListsss {
+    flex-direction: column-reverse;
+  }
+  .col-sm-2.roueTabs {
+    min-width: 12.5% !important;
+    max-width: 100% !important;
+  }
+  .onTabletDisplay.workOrderMap {
+    margin-top: 20px;
+    margin-bottom: 0px !important;
+  }
+  .workOrderMap {
+    padding: 0 15px;
+    margin-right: 0px !important;
+    margin-bottom: 20px !important;
+  }
+  .row.grayshade.workOrderListsss.cslocation .main h3 {
+    margin-left: 10px;
+  }
+  .row.CustomerInfo {
+    min-height: 260px;
+  }
+  .productFiltersss input {
+    width: 65% !important;
+  }
+  .col-sm-7.right.equipmentssss.wot {
+    max-width: 58.333333% !important;
+  }
+  .row.editTechnicianFormAdd .col-sm-7,
+  .row.editTechnicianFormAdd .col-sm-5.checcKlisssst,
+  .row.myselect .col-sm-6 .row.fomik.addRoute.taxratee .col-sm-6,
+  .row.customers.generalSettingSubHeader .row.grayshade .col-sm-6.fulwid {
+    max-width: 100% !important;
+    flex: 0 0 100%;
+  }
+  .col-sm-6.generalFiltersResultText {
+    align-items: flex-start;
+  }
+  .shopHeader h2 {
+    margin: 25px 12px;
+  }
+  .col-sm-5.equipmentssss.woth {
+    min-width: 40% !important;
+  }
+  .container-fluid.modals {
+    width: 95%;
+  }
+  button.bluebtn.taxBTNN {
+    margin-right: 0;
+    padding: 0 25px !important;
+    width: auto !important;
+  }
+  .col-sm-6.height-adjust {
+    height: auto;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .taxratemodal.modal.show .modal-dialog .modal-content {
+    width: 80% !important;
+  }
+  .row.routedashboard.mainpage.cslocation .col-sm-5.equipmentssss {
+    padding: 0 15px !important;
+  }
+  .row.servicedetail .col-sm-12.befoer {
+    padding: 0;
+  }
+  form.myfilters.productFiltersss select {
+    height: 41px;
+  }
+  .col-sm-12.margin-top-css.heading {
+    padding: 0;
+  }
+  .col-sm-12.margin-top-css.heading
+    .row.cslocation.profServHeading
+    .col-sm-6.servLoch2 {
+    padding-left: 0;
+  }
+  .col-sm-3.com.switchbtn .ant-picker.ant-picker-outlined {
+    margin-bottom: 24px;
+  }
+  .col-sm-12.margin-top-css.heading
+    .row.cslocation.profServHeading
+    .col-sm-6.addbuttons {
+    padding-right: 0;
+  }
+  .theme-card {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .theme-card .ant-ribbon-wrapper {
+    margin: 20px 10px !important;
+    width: 46%;
+  }
+  .row.accout-setting .col-sm-9 {
+    margin: 20px 0;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .border-right {
+    overflow: hidden;
+  }
+  .row.accout-setting .col-sm-3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  .row.waterbody-sm {
+    padding: 10px 0;
+  }
+  .row.CustomerInfo .col-sm-10 .row {
+    margin: 10px 0;
+    word-break: break-word;
+  }
+  .row.routeFilterr.pool .col-sm-2 {
+    max-width: 33% !important;
+    min-width: 33%;
+  }
+  .row.servicedetail .col-sm-12 .row .col-sm-4 {
+    min-width: 50% !important;
+    max-width: 50% !important;
+    max-height: 596px;
+    overflow: scroll;
+  }
+  .col-sm-12.forBorderrr .row.cslocation .col-sm-6 {
+    max-width: 100% !important;
+    flex: 0 0 100%;
+  }
+  .col-sm-12.forBorderrr .col-sm-6.pd {
+    margin-top: 0;
+  }
+  .col-sm-12.forBorderrr .row.cslocation .valueForm2.pd {
+    margin-top: 0 !important;
+  }
+  .row.routeFilterr.pool .col-sm-1 {
+    max-width: 16.66667% !important;
+    min-width: 16.66667%;
+  }
+  .navbar .navbar-nav .nav-item .dropdown-menu {
+    position: absolute;
+    width: 100%;
+  }
+  .swiper-button-prev {
+    right: 10% !important;
+  }
+  h5.Customer-h5 {
+    font-size: 14px;
+  }
+  .shoppingHeader h2 {
+    font-size: 18px !important;
+  }
+  .invoicingTables {
+    margin-top: 60px !important;
+  }
+  .addcustomers h2 {
+    font-size: 18px !important;
+  }
+  .col-sm-7.right.equipmentssss button.bluebtn.taxBTNN {
+    height: 35px !important;
+    padding: 0px 20px !important;
+  }
+  .filteraccordian h3 {
+    font-size: 20px;
+  }
+  .row.cslocation.taxGroupMainPage {
+    gap: 20px;
+  }
+  .row.customerdetail.prospect .waterBodySwiper .swiper-button-prev {
+    right: 20% !important;
+  }
+  .df {
+    gap: 10px;
+  }
+  .tetxright p,
+  .tetxright a {
+    font-size: 11px !important;
+  }
+  .colorGold,
+  .row.footerlinkss a,
+  .row.footerlinkss li,
+  .fotText,
+  .col-sm-12.copyrightzCOntent p {
+    font-size: 12px !important;
+  }
+  .col-sm-6.forEifght .login-form,
+  .col-sm-6.forEifght .formpayement.login-form {
+    width: 100% !important;
+  }
+  form.myfilters select {
+    width: 25%;
+  }
+  .customers button {
+    padding: 10px 20px !important;
+  }
+  .col-sm-5.equipmentssss h2 {
+    margin: 15px 0px;
+  }
+  form.myfilters1.custFiltwer {
+    margin-top: 17px;
+  }
+  .yellowbtn.packBtnAdd {
+    width: 120px !important;
+  }
+  .wordkorder .swiper-button-prev {
+    position: absolute !important;
+    right: 10% !important;
+  }
+  html,
+  body {
+    overflow-x: hidden;
+  }
+  .addReadingsssSaveBtn {
+    width: 40% !important;
+  }
+  .row.newrow h4 {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  /* .ant-tabs .ant-tabs-tab + .ant-tabs-tab,
+  .ant-tabs .ant-tabs-tab {
+    padding: 12px 50px;
+  } */
+  .col-sm-9.chemicalRight .col-sm-4 {
+    padding: 0 8px;
+  }
+  .col-sm-9.chemicalRight {
+    padding: 17px 0 0;
+  }
+  .col-sm-2.customertype {
+    margin-top: 0px !important;
+  }
+  .savebtn .button {
+    width: 50%;
+  }
+  .savebtn button {
+    width: 40%;
+  }
+  .col-md-8,
+  .col-md-4 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+  .nav.mr-auto.name.navbar-nav {
+    width: 100% !important;
+    padding-left: 10px;
+    flex: 0 0 50%;
+    padding-right: 10px;
+  }
+  .ml-auto.hassan.navbar-nav {
+    display: flex !important;
+    flex-direction: inherit;
+    justify-content: space-between;
+    margin-top: 15px;
+  }
+  .name .nav-item {
+    text-align: center;
+  }
+  .navbar-nav .nav-item {
+    display: block;
+    width: 100%;
+    margin-left: 0px !important;
+  }
+  .searchform.nav-item input {
+    width: 95%;
+  }
+  .avatardrop .dropdown-menu {
+    position: absolute;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+    padding-left: 2%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  .navbar-nav .show .dropdown-menu a {
+    font-size: 12px;
+  }
+  .name span {
+    color: #000 !important;
+    font-size: 20px;
+  }
+  .sameheight .card {
+    height: auto !important;
+  }
+  .workSlider .swiper-button-prev {
+    position: absolute !important;
+    right: 40% !important;
+  }
+  .routedashboard.mainpage.laborReporttable {
+    margin-top: 65px !important;
+  }
+  form.tableFilters.invoiceFilter {
+    right: -1.25%;
+    top: 58px;
+  }
+  .routedashboard.mainpage.customertable td,
+  th {
+    padding: 15px !important;
+  }
+  .workdetail .col-sm-9 {
+    padding-left: 15px;
+  }
+  .row.workdetail.cslocation .col-sm-12.progressbar {
+    padding-top: 0 !important;
+  }
+  .workorderheight {
+    height: auto;
+  }
+  .profile-name {
+    font-size: 12px;
+  }
+  span.no-icon.profile-name img {
+    width: 40px;
+  }
+  .col-sm-12.progressbar .col-sm-8 {
+    padding-left: 0px;
+  }
+  .col-sm-12.progressbar .col-sm-6 {
+    padding-left: 0px;
+  }
+  .row.workdetail .col-sm-2 {
+    padding-right: 0px;
+  }
+  form.myfilters.custFiltwer button {
+    height: 40.5px;
+  }
+  .routeDashboardTable b {
+    margin-left: 10px;
+  }
+  .dashboardHeader {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+  }
+  .graph h4 {
+    padding: 12px 0 !important;
+  }
+  .progress {
+    margin-bottom: 0;
+  }
+  .progressbar {
+    padding-top: 15px;
+  }
+  .emailLSit .card-body {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .fomik .generalFilters input {
+    min-width: 90% !important;
+    border: 1px solid #c9c8c8 !important;
+  }
+  .col-sm-6.roueTabsMax h2 {
+    padding-left: 10px;
+  }
+  .navbar-collapse.collapse {
+    display: flex !important;
+  }
+  .col-sm-3.com.switchbtn,
+  .col-sm-3.underAddPool {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .col-sm-6.addbuttons .profServiceLocationBlue {
+    padding: 0px 30px !important;
+    height: 35px !important;
+  }
+  .row.cslocation.addPOOLCustomer .col-sm-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .col-sm-2.underAddPool {
+    flex: 0 0 33.3333%;
+    max-width: 33.33333%;
+  }
+  .row.routefilterssomebody .col-sm-3 {
+    min-width: 50% !important;
+    max-width: 50% !important;
+  }
+  .accordion-body button.ant-btn.bluebtn.form {
+    width: 20% !important;
+    padding: 0px !important;
+  }
+  .routefilters select {
+    border-radius: 7px !important;
+    height: 40px !important;
+    font-size: 14px;
+  }
+  .bodyroute.row .col-sm-2 .tech_color_code {
+    height: 20px;
+    width: auto;
+    margin: 0;
+  }
+  .row.routefilters.cslocation .col-sm-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 10px;
+    padding: 0;
+  }
+  .fomik.customer .col-sm-4 {
+    height: auto;
+  }
+  .row.fomik.customer.cslocation {
+    padding: 20px 0px 20px 20px !important;
+  }
+  .row.fomik.customer.cslocation.generalFilters.customerInfo {
+    padding-left: 0 !important;
+  }
+  h4.sortCustHead {
+    font-size: 16px !important;
+  }
+  .container-fluid.modals .col-sm-8 h4, .container-fluid.modals .col-sm-4 h4, .container-fluid.modals .col-sm-12 h4 {
+    font-size: 18px;
+  }
+  .row.fomik.addRoute.equipmentModaalllll .row {
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .col-sm-4.poolWaterBody {
+    padding: 0px !important;
+  }
+  .col-sm-4.routeAssignmentOnMobile {
+    display: block !important;
+  }
+  .col-sm-7.right.equipmentssss button, .col-sm-7.right.equipmentssss.wot.work-order-type button, .col-sm-7.right.equipmentssss a, .col-sm-7.right.equipmentssss.wot.work-order-type a {
+    width: 49% !important;
+  }
+  .col-sm-7.right.equipmentssss.wot.work-order-type, .col-sm-7.right.equipmentssss {
+    justify-content: space-between !important;
+  }
+  .col-sm-7.right.equipmentssss a button, .col-sm-7.right.equipmentssss.wot.work-order-type a button {
+    width: 100% !important;
+  }
+  .col-sm-4.routeAssignmentOnDesktop {
+    display: none !important;
+  }
+  .col-sm-12.buttonsservice.prospect button {
+    width: auto !important;
+    padding: 0 30px !important;
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-top: 10px !important;
+  }
+  .generalSetting.container-fluid {
+    padding: 0;
+  }
+  .row.CustomerInfo {
+    min-height: auto !important;
+  }
+  .addcustomers.genralSteing {
+    width: 100%;
+    padding: 0;
+    background: transparent !important;
+  }
+  .row.grayshade.cslocation.generalSettingForms {
+    padding: 0;
+  }
+  .row.grayshade.cslocation.generalSettingForms .col-sm-6.generalFiltersResultText, .row.grayshade.cslocation.generalSettingForms .col-sm-6.generalFiltersResultBtn {
+    max-width: 100% !important;
+    flex: 0 0 100%;
+    margin-bottom: 0 !important;
+    justify-content: flex-start !important;
+  }
+  .row.grayshade.cslocation.generalSettingForms .col-sm-12.submitbtn {
+    padding-right: 15px !important;
+  }
+  h4.sortCustHead {
+    font-size: 14px !important;
+  }
+  .col-sm-12.checkBoxGeneral .row.cslocation .col-sm-3 {
+    padding: 3px 0;
+  }
+  .col-sm-5.checcKlisssst .buttonCol-sm-2 {
+    margin-top: 10px !important;
+  }
+  .container-fluid.wordkorder.valuesListing .row .col-sm-5 p {
+    font-size: 11px !important;
+  }
+  .container-fluid.wordkorder.valuesListing .row .col-sm-5 {
+    padding-right: 0px !important;
+    flex: 0 0 40%;
+    max-width: 40% !important;
+  }
+  .row.customers .col-sm-5 h2, .col-sm-6.servLoch2 h2 {
+    font-size: 18px !important;
+  }
+  .profServiceLocationBlue.inner1 span {
+    margin: 0 !important;
+    padding-right: 0 !important;
+    font-size: 12px !important;
+  }
+  .row.servicedetail-card.actice-service-1 .col-sm-3 {
+    max-width: 25%;
+    flex: 0 0 25%;
+  }
+  .row.servicedetail-card.actice-service-1 .col-sm-7 {
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+  }
+  .row.servicedetail-card.actice-service-1 .col-sm-2 {
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+  }
+  .col-sm-4.reset-password {
+    padding: 25px 15px 0;
+  }
+  .card .graphfilter {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .row.routeFilterr.pool .col-sm-1 {
+    max-width: 50% !important;
+    min-width: 50%;
+  }
+  .accordion-body.abosys {
+    padding: 0 15px;
+  }
+  .accordion-body.abosys .row.headwork .col-sm-8 {
+    padding-left: 0;
+  }
+  .accordion-body.abosys .row.slignc .col-sm-4, .accordion-body.abosys .row.slignc .col-sm-3 {
+    padding-bottom: 10px;
+  }
+  .row.waterbody-sm .col-sm-5 {
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+  }
+  .row.CustomerInfo.activebody-21 .col-sm-10 .row .col-sm-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .row.grayshade.emailBroadcast.smsSetting .ant-btn-primary.yellowbtn {
+    margin-right: 15px !important;
+  }
+  .workOrderMap .mapRadius {
+    margin-top: 15px;
+  }
+  .col-sm-3.right.slog {
+    justify-content: flex-start;
+  }
+  .row.customers .col-sm-5.slog h2 {
+    padding-left: 15px;
+    padding-bottom: 10px;
+  }
+  .routedashboard.mainpage.customertable.invoicingTables .row.new-head-invoice.cslocation .col-sm-2, .routedashboard.mainpage.customertable.invoicingTables .row.invoice-css-data .col-sm-2 {
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+  }
+  .routedashboard.mainpage.customertable.invoicingTables div#chartActivity {
+    width: 200%;
+  }
+  .modal-body {
+    font-size: 18px;
+  }
+  button.accordion-button span {
+    padding-left: 0;
+  }
+  .col-sm-3.com.switchbtn
+    .ant-form:not(.ant-form-inline)
+    .ant-form-item
+    .ant-form-item-label:not([class*=" ant-col-xs"]),
+  .ant-form:not(.ant-form-inline)
+    .ant-form-item
+    .ant-form-item-control:not([class*=" ant-col-xs"]) {
+    flex: 0 0 auto;
+    max-width: auto;
+  }
+  .col-sm-2.dogTwo {
+    padding: 0 15px 20px;
+  }
+  .row.fomik.customer.editCustomer.editedit.cslocation .savebtn button {
+    height: 40px !important;
+    margin-top: 20px;
+    margin-right: 0;
+  }
+  .switchbtn .ant-row.ant-form-item-row {
+    height: 40px;
+    /* padding: 7px 5px 0 10px !important; */
+  }
+  .col-sm-6.forEifght {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+  .registerForm h3.main-h1 {
+    font-size: 15px !important;
+  }
+  .monthly h3 {
+    font-size: 17px;
+  }
+  .ant-form-item .ant-form-item-label {
+    padding: 0 0 0px;
+  }
+  .row.padding-row.registerForm.paymentForm.loginnx .row.fomik.addRoute {
+    padding: 0;
+  }
+  .col-sm-6.loginInputs.forgetForm h3.main-h1 {
+    font-size: 15px;
+  }
+  .login-form {
+    width: 100%;
+  }
+  .row.grayshade.workOrderListsss .col-sm-6.abc {
+    padding: 0 10px;
+  }
+  .col-sm-6.route-filter.abc .col-sm-6.roueTabsMax,
+  .col-sm-6.roueTabsMax h2 {
+    padding-left: 0px !important;
+  }
+  .equipmentssssblue {
+    margin: 0 !important;
+  }
+  .col-sm-2.switchbtn.radioBtnAddPoolCustomer {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 12px 0 !important;
+  }
+  .row.routeFilterr.pool .col-sm-2 {
+    max-width: 100% !important;
+    min-width: 100%;
+  }
+  .row.padding-row.registerForm.paymentForm .col-sm-12.paymentBtn button {
+    margin-bottom: 20px !important;
+    width: 100% !important;
+  }
+  form .ant-input,
+  form .ant-input::placeholder {
+    font-size: 13px !important;
+  }
+  .row.padding-row.registerForm.paymentForm h3 {
+    font-size: 15px !important;
+  }
+  .row.padding-row.registerForm.paymentForm h2 {
+    font-size: 13px !important;
+  }
+  .row.fomik.addRoute.taxratee.paymenttt {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .addcustomers .paymentForm h4 {
+    font-size: 18px !important;
+    margin: 10px 0;
+  }
+  .col-sm-12.equipmentssss.prospect form.myfilters button {
+    height: 36px !important;
+  }
+  .col-sm-5.prospectHeader.widthEight,
+  .col-sm-7.right.prospectHeader {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+    padding-left: 15px !important;
+  }
+  form#ConvertPrsopect .col-sm-12.savebtn button {
+    width: 100% !important;
+    margin-top: 10px !important;
+  }
+  .taxratemodal.cancelSubscription.modal.show .modal-dialog {
+    max-width: 96% !important;
+  }
+  .taxratemodal.cancelSubscription.modal.show .modal-body {
+    padding: 10px !important;
+  }
+  .paymentHistoryButtons svg {
+    width: 25px;
+    height: 25px;
+  }
+  .printSvg svg {
+    width: 20px;
+    height: 20px;
+  }
+  .paymentHistoryButtons {
+    gap: 5px;
+  }
+  .buttonForHead {
+    flex-direction: column;
+  }
+  .buttonForHead button {
+    justify-content: center;
+  }
+  .fullW .privce {
+    font-size: 18px !important;
+    margin-top: 20px;
+  }
+  .col-sm-12.radipoCancel label.ant-radio-wrapper span {
+    font-size: 11px;
+  }
+  .row.fomik.addRoute.taxratee.paymenttt form#Customer {
+    margin-left: 0px !important;
+  }
+  .row.slignc .col-sm-5 {
+    margin-bottom: 16px;
+  }
+  .row.slignc .col-sm-1 {
+    width: 50%;
+  }
+  .row.CustomerInfo.activebody-21 .col-sm-2 {
+    width: 10%;
+    padding: 10px 0;
+  }
+  .row.CustomerInfo.activebody-21 .col-sm-10 {
+    width: 90%;
+    padding-left: 0;
+  }
+  .row.customerdetail .col-sm-6,
+  .row.servicedetail .col-sm-12 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .row.waterbody-sm.activebody-21 .col-sm-2 {
+    width: 10%;
+    padding: 0;
+  }
+  .row.waterbody-sm.activebody-21 .col-sm-5 {
+    width: 45%;
+  }
+  .row.cslocation.addPOOLCustomer .col-sm-3,
+  .col-sm-2.forFour {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .registerForm h3 {
+    font-size: 20px;
+  }
+  h2.carddetails {
+    margin-top: 15px;
+  }
+  div#cardDetails {
+    margin-top: 20px;
+    padding: 10px 15px;
+  }
+  button.ant-btn-primary.nextbtn {
+    height: 40px !important;
+  }
+  .row.padding-row.registerForm.paymentForm .row.fomik.addRoute {
+    margin: 20px 0;
+  }
+  td b {
+    font-size: 11px !important;
+  }
+  .col-sm-12.monthly h3 {
+    margin: 20px auto;
+  }
+  td {
+    font-size: 11px !important;
+  }
+  td, th {
+    padding: 15px 8px !important;
+  }
+  td img {
+    width: 25px;
+  }
+  .col-sm-3.com.switchbtn {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .col-sm-12.buttonsservice {
+    flex-wrap: wrap;
+    margin-top: 20px;
+    gap: 20px;
+  }
+  .col-sm-12.buttonsservice .profServiceLocationBlue {
+    width: 100% !important;
+  }
+  .col-sm-12.buttonsservice .ant-form-item.savebtn {
+    width: 100%;
+  }
+  .fomik .ant-select-single .ant-select-selector {
+    font-size: 13px !important;
+  }
+  .row.fomik.custServLocagtion {
+    padding: 10px 0px 0px;
+  }
+  .col-sm-12.prospectButton, .row.fomik.addRoute.addProspectService .col-sm-12, .row.fomik.addRoute.addProspectService .col-sm-3.forFifty, .col-sm-12.frwquencyss .row.cslocation.frequencyDetail .col-sm-2 {
+    padding: 0;
+  }
+  .col-sm-12.buttonsservice.prospect {
+    padding: 0 15px !important;
+  }
+  .col-sm-12.frwquencyss .row.cslocation.frequencyDetail .col-sm-2 .bluebtn.handleAddRow {
+    margin-top: 10px;
+  }
+  .col-sm-12.prospectButton a, .col-sm-12.prospectButton button {
+    width: 100% !important;
+  }
+  .col-sm-12.heads.poolAccodrion h3 {
+    margin: 15px 0 0;
+  }
+  .row.fomik.addRoute.addProspectService .col-sm-12.heads {
+    padding-left: 15px;
+  }
+  .propsecth3 {
+    margin-left: 0;
+  }
+  .row.fomik.custServLocagtion form .row .col-sm-6 h2, .col-sm-12.prospectHeader h2 {
+    font-size: 18px !important;
+    text-transform: capitalize;
+  }
+  .col-sm-12.margin-top-css {
+    margin-top: -15px;
+    padding-left: 0px;
+  }
+  .swiper-button-prev {
+    right: 18% !important;
+    padding: 20px !important;
+  }
+  .row.customers .col-sm-7.right .bluebtn {
+    padding: 0px 30px !important;
+    height: 36px;
+  }
+  button.yellowbtn {
+    height: 36px !important;
+    padding: 0 30px !important;
+    font-size: 12px !important;
+  }
+  .row.customers .col-sm-7.right {
+    margin-bottom: 10px;
+    margin-top: 15px;
+    justify-content: flex-start;
+    padding-left: 0px;
+  }
+  .customers h2, .col-sm-12.equipmentssss h2, .row.customers.addTechnicianFormmmss .col-sm-12 h2, .row.cslocation.customers .col-sm-12 h2, .col-sm-6.generalSububHeader h2, .col-sm-12.margin-top-css .row .col-sm-6 h2, .row.customers.srvieLOgHEader .col-sm-5.slog h2, .row.customers.cslocation.routeHeader .col-sm-5.equipmentssss h2 {
+    font-size: 18px !important;
+  }
+  form .ant-form-item {
+    margin-bottom: 12px;
+  }
+  .row.customers .col-sm-5 {
+    padding-left: 0px;
+  }
+  .col-sm-12.margin-top-css .row .col-sm-6 {
+    padding-left: 0px;
+    text-align: left;
+  }
+  .addcustomers .accordion-header button.accordion-button {
+    margin: 10px 0 !important;
+  }
+  .addcustomers .accordion-header {
+    margin: 0 10px !important;
+  }
+  .row.grayshade.workOrderListsss .accordion-header {
+    margin: 0 0px !important;
+  }
+  .row.grayshade.workOrderListsss button.accordion-button {
+    padding: 0;
+  }
+  .row.routefilterssomebody .col-sm-3 {
+    min-width: 100% !important;
+    max-width: 100% !important;
+  }
+  .addRouteAssignmentModal.modal.show .modal-dialog {
+    max-width: 80% !important;
+    width: 80% !important;
+  }
+  .addRouteAssignmentModal.modal.show {
+    display: flex !important;
+    justify-content: center !important;
+  }
+  .addRouteAssignmentModal.modal.show .modal-body {
+    padding: 10px 8px 0px 14px !important;
+  }
+  .addRouteAssignmentModal .modals input {
+    background-color: #fff !important;
+    border: none;
+    height: 38px !important;
+  }
+  .row.fomik.addRoute.equipmentModaalllll .yellowbtn {
+    margin-right: 0px;
+    width: 65%;
+  }
+  .row.cslocation.taxGroupMainPage
+    .row.routedashboard.mainpage.cslocation
+    .col-sm-5.equipmentssss {
+    padding: 0 0 !important;
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+    min-width: 50% !important;
+  }
+  .row.fomik.addRoute.taxratee form#Customer {
+    width: 100%;
+    margin-left: 0px !important;
+  }
+  .row.cslocation.taxGroupMainPage .col-sm-6.height-adjust {
+    padding: 0;
+  }
+  .theme-card .ant-ribbon-wrapper {
+    margin: 10px !important;
+    width: 100%;
+  }
+  .col-sm-12.paymentBtn {
+    margin-top: 30px;
+  }
+  p.cancelSubTitle {
+    padding: 0 15px;
+    font-size: 14px !important;
+    margin-top: 20px !important;
+  }
+  .cancelSubtetx {
+    font-size: 11px !important;
+    padding: 0 15px;
+  }
+  .col-sm-12.paymentBtn button {
+    font-size: 12px;
+    padding: 0 !important;
+  }
+  .ElementsApp, .ElementsApp .InputElement {
+    font-size: 13px;
+  }
+  .row.padding-row.registerForm.paymentForm .formpayement .card-element h2.carddetails {
+    font-size: 14px !important;
+    text-align: left !important;
+    padding-left: 15px;
+  }
+  .row.fomik.addRoute.taxratee form#Customer .row.cslocation {
+    margin-top: 20px;
+  }
+  .row.cslocation.taxGroupMainPage .row.routedashboard.mainpage.cslocation .col-sm-7.right.equipmentssss {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+    justify-content: flex-end !important;
+    padding-right: 0 !important;
+  }
+  form.myfilters.tableFilters.grayFilters.equipment button {
+    width: 20% !important;
+    margin-top: 0px !important;
+  }
+  .row.customers.labourInvoice .col-sm-3 h2, .row.customers .col-sm-4 h6 span, .col-sm-12.chemicalRight .col-sm-3 h6 span {
+    font-size: 14px !important;
+  }
+  .container-fluid.modals.addTechnicianFormmmss form#nest-messages, .container-fluid.modals.addTechnicianFormmmss form#User, .checkForm.fomik.addRoute.checklst form {
+    margin-top: 15px;
+  }
+  .checkForm.fomik.addRoute.checklst form .row .col-sm-12.submitbtn {
+    padding-right: 15px !important;
+    padding-top: 10px !important;
+  }
+  .select2.selectNext {
+    width: 100% !important;
+  }
+  .select2.selectNext .ant-select-selector {
+    background-color: #bfbfbf !important;
+    margin-bottom: 5px;
+  }
+  .col-sm-12 form.myfilters.userFilter {
+    margin-left: 0 !important;
+  }
+  .row.fomik.addRoute.taxratee.equipped form#Customer {
+    margin-top: 20px;
+    margin-left: 0 !important;
+  }
+  .row .item-needed-css .col-sm-3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+    padding: 5px !important;
+    font-size: 11px !important;
+  }
+  .taxratemodal.modal.show .modal-dialog .modal-content {
+    width: 90% !important;
+  }
+  .modal-dialog {
+    max-width: 100% !important;
+    margin: 0;
+  }
+  .row.customers .col-sm-4 h6, .col-sm-12.chemicalRight .col-sm-3 h6 {
+    font-size: 12px;
+  }
+  div.ct-chart.finishedOrder td img {
+    width: 15px;
+    margin-left: 0;
+  }
+  .col-sm-9.chemicalRight, .row.customers.labourInvoice .col-sm-3 {
+    padding-left: 0;
+  }
+  form.myfilters.tableFilters.labourReportInvoice .col-sm-6, .col-sm-12.chemicalRight .row .col-sm-3, .row.customers .col-sm-12.chemicalRight {
+    padding: 0;
+  }
+  .row.fomik.addRoute.equipmentModaalllll .row {
+    margin-left: 15px !important;
+  }
+  .col-sm-12.submitbtn {
+    padding-right: 0px;
+  }
+  .accordion-body button.ant-btn.bluebtn.form {
+    width: 45% !important;
+  }
+  .swiper.swiper-initialized.swiper-horizontal.swiper-ios.mySwiper.swiperImage .swiper-slide {
+    display: flex;
+    justify-content: center;
+    padding: 30px 0 0;
+  }
+  .row.routefilters.cslocation .col-sm-6, .row.routefilters.cslocation .col-sm-5 {
+    padding: 0;
+  }
+  .col-sm-2.radioBtnAddPoolCustomer {
+    padding: 0px !important;
+  }
+  .swiper-button-next {
+    padding: 20px !important;
+  }
+  .row.servicedetail .col-sm-12 .row .col-sm-4 {
+    min-width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin-bottom: 20px;
+  }
+  .col-sm-2.switchbtn.prospect .inside {
+    padding: 0 15px;
+  }
+  .col-sm-6.route-filter {
+    height: auto;
+    overflow: auto;
+  }
+  form.myfilters button {
+    padding: 7px;
+  }
+  .col-sm-2.switchbtn {
+    margin: 0 0px;
+    padding: 12px 30px;
+    border-radius: 10px;
+    max-width: 100%;
+  }
+  .row.class-login-new {
+    margin-right: 30px;
+  }
+  h3.main-h1 {
+    font-size: 20px;
+  }
+  .fomik {
+    padding: 0px;
+  }
+  .col-sm-5.equipmentssss h2 {
+    margin: 0px 0px 6px;
+  }
+  form.myfilters {
+    margin-top: 6px;
+  }
+  .ant-picker-dropdown .ant-picker-panel-container .ant-picker-panels {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    direction: ltr;
+    width: 288px !important;
+    overflow: scroll;
+  }
+  .row.grayshade.workOrderListsss .accordion-collapse.collapse.show .col-sm-1 p {
+    font-size: 8px !important;
+  }
+  .col-sm-3.forFifty, .col-sm-2.forFifty, .col-sm-4.forFifty {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+  .addcustomers {
+    padding: 25px 10px;
+  }
+  .col-sm-2.roueTabs {
+    min-width: 12.5% !important;
+    max-width: 33% !important;
+  }
+  .col-sm-10.roueTabsMax .row h2, .workCustomer h4 {
+    margin: 5px;
+    font-size: 12px !important;
+  }
+  .col-sm-6.abc .row.cslocation .col-sm-8 {
+    height: auto !important;
+  }
+  .filteraccordian h3 {
+    font-size: 18px;
+  }
+  .repairSection {
+    margin: 17px 0px 0;
+  }
+  .workSelect {
+    margin-top: 10px;
+    height: auto !important;
+  }
+  .row.shoppingTab {
+    margin-top: 0;
+  }
+  .ant-form-item .ant-form-item-label > label {
+    max-width: 100%;
+    min-width: 100%;
+    height: auto;
+  }
+  .col-sm-12.loginlogo img {
+    width: 140px !important;
+  }
+  .col-sm-12.loginlogo {
+    margin-bottom: 0;
+  }
+  .workCustomer, .workPool {
+    margin: 10px 0;
+  }
+  .ant-card-body {
+    padding: 20px 10px !important;
+  }
+  .workCustomer h4, .workCustomer p, .workPool p {
+    margin: 5px 0;
+  }
+  .col-sm-5.equipmentssss.equipMentHeader, .col-sm-7.right.equipmentssss.equipMentHeader {
+    min-width: 100% !important;
+    max-width: 100% !important;
+  }
+  .col-sm-4.roueTabsMaxContent {
+    font-size: 9px !important;
+    min-width: 12.5% !important;
+    max-width: 33% !important;
+  }
+  .col-sm-12.savebtn.editShoppingFormSaveBtn {
+    padding-right: 15px;
+  }
+  .col-sm-8 h4.custInfoh4 {
+    font-size: 14px !important;
+  }
+  .emailLSit .row.workdetail.emailList.cslocation .col-sm-8 {
+    flex: 0 0 66%;
+    max-width: 66%;
+  }
+  .emailLSit .row.workdetail.emailList.cslocation .col-sm-2 {
+    flex: 0 0 32%;
+    max-width: 32%;
+  }
+  .content.invoiccee .row.customers .col-sm-12, .content.invoiccee .col-sm-12.inVoicingTabsss {
+    padding: 0;
+  }
+  .col-sm-12.inVoicingTabsss {
+    margin-top: 10px;
+  }
+  .row.workdetail.emailList.cslocation .col-sm-2.widthZero {
+    flex: 0 0 0%;
+    max-width: 0%;
+  }
+  .row.customers.workorderspage .col-sm-12 h2, .row.customers.shopHeader.aboveHEade h2 {
+    font-size: 18px !important;
+  }
+  .row.customers.shoppingHeader.insideAdd h2 {
+    font-size: 14px !important;
+  }
+  .shopHeader.aboveHEade h2 {
+    margin: 0 5px 10px !important;
+  }
+  .row.fomik.customer.cslocation.shoppinfgForm {
+    padding: 20px 0px 20px 0px !important;
+  }
+  .row.midsec.addWorkOrder .col-sm-12.submitbtn {
+    padding-right: 15px;
+  }
+  .col-sm-4 h4.custInfoh4, h4.custInfoh4.three {
+    font-size: 14px !important;
+    margin: 0 !important;
+  }
+  .heads h3 {
+    font-size: 14px;
+  }
+  .col-sm-6.halfff {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .col-sm-6.dateALign.halfff p {
+    text-align: right;
+  }
+  .container-fluid.wordkorder h3 {
+    font-size: 12px;
+  }
+  .onTabletDisplay.workOrderrMapppppS {
+    padding: 0 0px 15px;
+  }
+  .col-sm-6.roueTabsMax h2 {
+    font-size: 12px !important;
+  }
+  .col-sm-3.bluebox h2, .col-sm-2.white.roueTabs, .col-sm-2.gray.roueTabs, .col-sm-2.yellows.roueTabs {
+    font-size: 12px !important;
+  }
+  .main .col-sm-2.bluebox h3 {
+    font-size: 12px;
+    padding: 10px;
+  }
+  .bodyroute .col-sm-3.bluebox h4, .col-sm-4.bluebox h2, .col-sm-12.roueTabsMax h2, .col-sm-12.roueTabsMax .row h2, .bodyroute .col-sm-4.bluebox h2 {
+    font-size: 12px !important;
+  }
+  .progress .progress-bar {
+    font-size: 10px;
+  }
+  .row.profitreportTableesssss .col-sm-3 {
+    padding-left: 0px !important;
+  }
+  .yellows span, .gray span, .white span {
+    font-size: 8px !important;
+  }
+  .col-sm-4.totalProfitsssss {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .row.profitreportTableesssss .col-sm-9 {
+    padding-left: 0px !important;
+  }
+  .col-sm-6.generalFiltersResultText p {
+    font-size: 16px !important;
+  }
+  form.dosaaaggeesss .col-sm-2 button {
+    min-width: 97% !important;
+  }
+  .col-sm-6.monthFilter {
+    padding: 0px 15px !important;
+  }
+  .col-sm-6.monthDatePicker .ant-picker {
+    width: 100% !important;
+    height: 50px !important;
+  }
+  .col-sm-6.totalProfits {
+    padding: 0px !important;
+  }
+  .col-sm-12.profitListingTable {
+    padding-left: 0px !important;
+  }
+  form.dosaaaggeesss .col-sm-5 {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    padding-bottom: 5px !important;
+    width: 100% !important;
+  }
+  form.myfilters.productFiltersss {
+    background: transparent !important;
+  }
+  form.myfilters.productFiltersss input {
+    border-top-right-radius: 12px !important;
+    border-bottom-right-radius: 12px !important;
+  }
+  .wordkorder .swiper-button-prev {
+    position: absolute !important;
+    right: 12% !important;
+    top: -4% !important;
+  }
+  .invoicingReport .col-sm-10 {
+    max-width: 100% !important;
+    min-width: 100% !important;
+  }
+  .invoicingReport .col-sm-2 {
+    max-width: 100% !important;
+    min-width: 100% !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: -25px !important;
+  }
+  .wordkorder .swiper-button-next {
+    top: -4% !important;
+  }
+  .valueForm {
+    margin-left: 0;
+  }
+  .col-sm-5.checcKlisssst .deltIcon {
+    width: 10% !important;
+    margin-top: 7px !important;
+  }
+  .col-sm-5.checcKlisssst .col-sm-10 {
+    width: 85% !important;
+  }
+  .workRadio .ant-radio-group.ant-radio-group-outline {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 98%;
+    border: 1px solid rgb(203, 203, 203);
+    margin-left: 0;
+    border-radius: 5px;
+  }
+  .valueForm1 {
+    margin-left: 0px !important;
+    width: 100% !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 15px !important;
+    margin-top: -69px !important;
+  }
+  .workTypeSection h6 {
+    font-size: 12px;
+  }
+  .workTypeSection p {
+    opacity: 0.6;
+    font-size: 10px !important;
+  }
+  .col-sm-12.workTypeSection {
+    padding: 10px 20px;
+  }
+  .col-sm-12.savebtn.addProductType.taxRate button {
+    width: 100% !important;
+  }
+  form.myfilters.workOrderType button {
+    width: 20% !important;
+    margin-top: 0 !important;
+  }
+  form.myfilters.workOrderType input {
+    width: 80% !important;
+  }
+  form#nest-messages .row .col-sm-12 h4, form#nest-messages h4 {
+    margin-top: 0px;
+    font-size: 16px;
+  }
+  .col-sm-12.addWorkOrderTypw h2 {
+    margin-left: 0px !important;
+  }
+  .col-sm-0.valueForm2.pd {
+    margin-top: 3px !important;
+  }
+  .row.editTechnicianFormAdd .col-sm-7 {
+    padding: 0;
+  }
+  .col-sm-12.workRadio .col-sm-4 input {
+    border-top: 1px solid #d9d9d9 !important;
+    border-bottom: 1px solid #d9d9d9 !important;
+  }
+  .col-sm-12.forBorderrr .col-sm-6.pd {
+    margin-top: 0px;
+  }
+  .valueForm2 {
+    margin-top: 30px !important;
+    margin-left: -20px !important;
+    margin-right: 0 !important;
+  }
+  .col-sm-12.workRadio .col-sm-4 {
+    margin: 10px 0;
+  }
+  .valuesForm1Checkbox {
+    width: 100% !important;
+  }
+  .readinngForrrmmmsssMain {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start !important;
+  }
+  .shoppingTab {
+    margin-left: 0px !important;
+  }
+  .col-sm-4.DatePicker-1 .ant-picker {
+    margin-top: 16px;
+    height: 59px !important;
+  }
+  .gm-style-mtc button {
+    font-size: 14px !important;
+    padding: 0 15px !important;
+  }
+  .row.grayshade .flex-column, .row.grayshade .flex-column a.nav-link {
+    height: 59px !important;
+  }
+  .bodyroute.row .col-sm-1 {
+    width: 5% !important;
+  }
+  .bodyroute.row .col-sm-3 {
+    width: 75% !important;
+  }
+  .bodyroute.row .col-sm-2 {
+    width: 20% !important;
+  }
+  .serviceRedings .row .col-sm-2 {
+    width: 30%;
+  }
+  .serviceRedings .row .col-sm-4 {
+    max-width: 20% !important;
+    flex: 0 0 20%;
+  }
+  .serviceRedings .row .col-sm-1 {
+    width: 10% !important;
+  }
+  .row.fomik.emailForm {
+    padding-top: 20px;
+  }
+  .col-sm-12.emailButton {
+    flex-direction: column;
+    max-width: 100% !important;
+    flex: 0 0 100%;
+  }
+  .emailFilters p {
+    padding-top: 13px;
+  }
+  .col-sm-12.radioSection .col-sm-2 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .serviceRedings .row .col-sm-11 {
+    width: 89% !important;
+  }
+  .serviceRedings .row .col-sm-6 {
+    width: 50%;
+  }
+  .routedashboard.mainpage.customertable td, th {
+    padding: 15px 8px !important;
+  }
+  .routefilters select {
+    margin-bottom: 0px;
+    margin-left: 0px;
+  }
+  .col-sm-3.com.switchbtn, .col-sm-3.underAddPool, .col-sm-2.underAddPool, .col-sm-3.com {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+  .col-sm-12.buttonsservice .yellowbtn.submitButtoonnn {
+    margin-top: 0;
+    font-size: 16px !important;
+    height: 36px !important;
+  }
+  .row.grayshade.workFilter .col-sm-3 {
+    margin-bottom: 10px;
+  }
+  .row.grayshade.workOrderListsss.cslocation .workOrderMap, .col-sm-12.workOrdertwelve, .col-sm-10.roueTabsMax {
+    padding: 0 !important;
+  }
+  .col-sm-2.yellows.roueTabs {
+    max-width: 30% !important;
+  }
+  .col-sm-4.bluebox {
+    max-width: 80% !important;
+  }
+  .col-sm-3.bluebox {
+    max-width: 75%;
+    padding-right: 0;
+  }
+  .col-sm-1.bluebox {
+    max-width: 5%;
+  }
+  .col-sm-1.bluebox .anticon[tabindex] {
+    padding: 0;
+  }
+  .col-sm-2.bluebox {
+    margin-left: 0;
+  }
+  form.tableFilters.invoiceFilter {
+    right: 0% !important;
+    top: 28px;
+  }
+  .col-sm-6.profitMaker {
+    width: 50%;
+  }
+  .col-sm-6.totalProfits {
+    width: 50%;
+  }
+  form.myfilters.tableFilters.labourReportInvoice .ant-picker {
+    margin-top: 10px !important;
+  }
+  .row.labourInvoice .col-sm-4 {
+    padding-left: 0;
+  }
+  .avatardrop button {
+    width: 100% !important;
+  }
+  .container-fluid > .navbar-collapse {
+    margin-right: 0 !important;
+  }
+  .col-sm-12 form.userFilter, form.dosaaaggeesss {
+    background-color: transparent;
+  }
+  select.form-select.form-select-sm.select2.selectNext {
+    width: 100% !important;
+    margin-bottom: 4px !important;
+  }
+  .row.cslocation.addreadingform form#Customer {
+    margin-left: 0 !important;
+  }
+  .container-fluid.wordkorder.valuesListing .row .col-sm-10 {
+    width: 80% !important;
+    flex: 0 0 80% !important;
+  }
+  .container-fluid.wordkorder.valuesListing .row .col-sm-2 {
+    width: 20% !important;
+    flex: 0 0 20% !important;
+  }
+  .productFiltersss input {
+    width: 100% !important;
+  }
+  .container-fluid.wordkorder.valuesListing .row .col-sm-2 .anticon[tabindex] {
+    margin: 0 !important;
+  }
+  form.myfilters input {
+    width: 100%;
+  }
+  .col-sm-12.profitFilters .row.cslocation .col-sm-6.monthFilter, .col-sm-12.profitFilters .row.cslocation .col-sm-6.monthDatePicker {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .col-sm-6.monthDatePicker .ant-picker {
+    height: 40px !important;
+  }
+  form.tableFilters .ant-picker {
+    width: 100% !important;
+    border-radius: 8px;
+    margin: 0px 0px !important;
+    margin-top: 10px !important;
+    margin-right: 4px !important;
+  }
+  .custFiltwer .select1 {
+    width: 100% !important;
+  }
+  .addReadingsssSaveBtn {
+    width: 60% !important;
+  }
+  .custFiltwer .select2 {
+    width: 100% !important;
+  }
+  form.custFiltwer button {
+    width: 100% !important;
+    padding: 8px !important;
+    margin-top: 5px !important;
+    border-radius: 12px !important;
+  }
+  .ant-tabs .ant-tabs-tab + .ant-tabs-tab, .ant-tabs .ant-tabs-tab {
+    padding: 12px 20px;
+    font-size: 12px;
+  }
+  .workSlider .swiper-button-prev {
+    position: absolute !important;
+    right: 25% !important;
+  }
+  .row.workFilter .col-sm-2 {
+    padding-bottom: 20px !important;
+  }
+  .custFiltwer input {
+    height: 38px !important;
+  }
+  .custFiltwer button {
+    height: 39px;
+  }
+  .col-sm-5.workHeaderrrr {
+    width: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .col-sm-7.workHeaderrrr {
+    width: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: end !important;
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .workTabbssssss {
+    margin-top: 0px;
+    margin-left: -15px;
+    margin-bottom: 20px;
+  }
+  html, body {
+    overflow-x: hidden !important;
+  }
+  nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding: 10px 5px !important;
+    background: var(--primary-color) !important;
+  }
+  .navbar .navbar-brand {
+    font-weight: 400;
+    margin: 5px 0px;
+    font-size: 20px;
+    color: #fff !important;
+  }
+  .navbar .navbar-toggler .burger-lines {
+    background-color: #fff !important;
+  }
+  .searchform.nav-item {
+    display: block !important;
+    margin: auto;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+  }
+  .ml-auto.hassan.navbar-nav {
+    display: flex;
+    flex-direction: inherit;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .avatardrop .dropdown-menu {
+    transform: scale(1) !important;
+    background: #f0b51b !important;
+    margin-top: 15px !important;
+  }
+  .notNotidrop .dropdown-menu {
+    transform: scale(1) !important;
+    background: #f0b51b !important;
+    margin-top: 15px !important;
+  }
+  .row.owner .col-sm-5.equipmentssss {
+    max-width: 49% !important;
+    min-width: 49% !important;
+  }
+  .row.owner .col-sm-5.equipmentssss h2 {
+    margin-bottom: 0px;
+  }
+  .row.owner .col-sm-7.equipmentssss {
+    max-width: 50% !important;
+    justify-content: flex-end !important;
+  }
+  .row.owner {
+    display: flex !important;
+    flex-direction: row !important;
+  }
+  .notNotidrop .dropdown-menu a {
+    color: #fff !important;
+  }
+  .dropdown .btn {
+    color: #fff !important;
+  }
+  .bluebtn.addSubscribrrr {
+    height: 39px !important;
+    width: 145px !important;
+  }
+  .yellowbtn.packBtnAdd {
+    width: 110px !important;
+    height: 39px !important;
+  }
+  form.myfilters1 input {
+    width: 80%;
+  }
+  .col-sm-5.equipmentssss.woth.work-order-type, .col-sm-7.right.equipmentssss.wot.work-order-type {
+    min-width: 100% !important;
+    max-width: 100% !important;
+  }
+  .col-sm-12.equipmentssss.prospect button {
+    width: 20%;
+    margin-top: 0 !important;
+  }
+  .workorder h4 {
+    font-weight: 600 !important;
+    /* font-size: 20px !important; */
+  }
+  .card .card-title {
+    font-size: 15px;
+  }
+  .graph h4 span {
+    font-size: 18px;
+  } /* col css */
+  .workdetail .col-sm-1 {
+    width: 10% !important;
+  }
+  .workdetail .col-sm-9 {
+    width: 75% !important;
+  }
+  .workdetail .col-sm-2 {
+    width: 15% !important;
+  }
+  .workdetail .col-sm-12.progressbar {
+    width: 100% !important;
+  }
+  .workdetail .col-sm-8 {
+    width: 50% !important;
+  }
+  .workdetail .col-sm-4 {
+    width: 50% !important;
+  }
+  .workdetail .col-sm-6 {
+    width: 50% !important;
+  }
+  .workdetail .text-right {
+    text-align: right !important;
+    justify-content: end !important;
+  }
+  .workdetail .col-sm-10 {
+    width: 80% !important;
+  }
+  .icon-big.text-center.icon-warning h2 {
+    font-size: 28px;
+  }
+  .row.grayshade.emailBroadcast label.ant-radio-wrapper {
+    font-size: 11px !important;
+  }
+  .fomik ::placeholder {
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .sameheight .card {
+    height: auto !important;
+  }
+  .col-sm-12.customertypes {
+    margin-top: 20px;
+  }
+  .d-flex.justify-content-center.align-items-center.ml-2.ml-lg-0 {
+    padding-left: 0px !important;
+  }
+  .row.shoppingTab button {
+    width: 46%;
+    margin-bottom: 5px;
+  }
+  .bluebtn {
+    font-size: 12px;
+  }
+  .workOrdertwelve.col-sm-12 .filteraccordian .col-sm-2 {
+    max-width: 25% !important;
+  }
+  .workOrdertwelve.col-sm-12 .filteraccordian .col-sm-10 {
+    max-width: 75% !important;
+  }
+  .col-sm-7.right {
+    margin-top: 25px;
+  }
+  .col-sm-7.right.chemicalBtns {
+    padding: 0px !important;
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+    margin-left: 0px !important;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  form.myfilters input {
+    font-size: 12px;
+    text-align: center;
+    border-radius: 12px !important;
+  }
+  form.myfilters select {
+    width: 100% !important;
+    border-radius: 15px !important;
+    margin-top: 5px !important;
+    font-size: 12px !important;
+    margin-right: 5px !important;
+  }
+  .maptime-distance p {
+    margin-bottom: 4px;
+    font-size: 11px !important;
+  }
+  form.myfilters button {
+    width: 100%;
+    margin-top: 4px !important;
+  }
+  .grayFilters input {
+    width: 80% !important  ;
+  }
+  .row.fomik.addRoute.AddProductt form#Customer {
+    margin-left: 0 !important;
+  }
+  form.myfilters {
+    padding: 0px;
+  }
+  .routedashboard.invoiceTable {
+    overflow-x: scroll;
+  }
+  .col-sm-5.equipmentssss {
+    display: flex;
+    align-items: flex-start;
+  }
+  .col-sm-7.equipmentssss {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 5px !important;
+    margin-left: 0px !important;
+    justify-content: flex-start;
+    padding: 0px !important;
+    max-width: 100% !important;
+  }
+  .col-sm-12 form.userFilter input {
+    width: 48.5% !important;
+    margin-right: 5px !important;
+  }
+  .col-sm-5.equipmentssss h2 {
+    font-size: 18px !important;
+  }
+  .col-sm-12 form.userFilter select {
+    width: 75% !important;
+    margin-right: 5px !important;
+    border-radius: 15px !important;
+    margin-top: 5px !important;
+  }
+  .filteraccordian .col-sm-6.roueTabsMax {
+    min-width: 100% !important;
+    max-width: 100% !important;
+  }
+  .col-sm-5.slog {
+    display: flex;
+    align-items: flex-start;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .addcustomers h2 {
+    font-size: 14px !important;
+  }
+  .row.grayshade.workOrderListsss .col-sm-6.route-filter.abc .row.routefilters.cslocation .col-sm-5 {
+    padding-top: 10px !important;
+  }
+  .row.grayshade.workOrderListsss .col-sm-6.route-filter.abc .row.routefilters.cslocation .col-sm-7 {
+    padding: 0px !important;
+  }
+  .row.customers.srvieLOgHEader .col-sm-3.right.slog {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .filteraccordian .col-sm-2.roueTabs {
+    min-width: 30% !important;
+    max-width: 30% !important;
+  }
+  .col-sm-7.slog {
+    display: flex;
+    align-items: flex-start !important;
+    width: auto;
+  }
+  .col-sm-12.laborReport {
+    display: flex;
+    align-items: flex-start !important;
+  }
+  .col-sm-5.installedItems {
+    display: flex;
+    align-items: flex-start !important;
+  }
+  form.tableFilters select {
+    width: 48% !important;
+  }
+  .valuesBtnnnnY input {
+    min-width: 100%;
+  }
+  .col-sm-1.valuesBtnnnn {
+    margin-left: 15px;
+    margin-top: 7px;
+  }
+  .adddDosagesss {
+    min-height: auto;
+  }
+  .col-sm-6.edddittDosaaaggeess {
+    margin-left: 0 !important;
+  }
+  .row.addDosagessForm.cslocation form .row.accccc, .row.fomik.addRoute.AddProductt form .row {
+    padding-top: 20px;
+  }
+  .customertypesssss {
+    margin-top: 10px !important ;
+  }
+  .prospectusss {
+    width: 90% !important;
+    margin-left: 13px !important;
+    margin-top: 0px !important;
+  }
+  .prospectusss .ant-switch {
+    margin-top: -71px !important;
+  }
+  .row.grayshade .col-sm-6 {
+    margin-bottom: 20px !important;
+  }
+  .row.grayshade .col-sm-6.roueTabsMax {
+    margin-bottom: 0 !important;
+  }
+  .row.grayshade .col-sm-6.seleROute {
+    padding: 0;
+    margin-bottom: 10px !important;
+  }
+  .onTabletDisplay.routeMapppppp .googlemap_frame .mapRadius {
+    height: 485px !important;
+  }
+  .col-sm-1.addReadingsssB {
+    margin-left: 7px !important;
+    margin-top: 15px !important;
+  }
+  form#Customer {
+    width: 100%;
+  }
+  .col-sm-4.customerNameeeee {
+    min-width: 100% !important;
+    max-width: 100% !important;
+  }
+  .col-sm-12 form.userFilter button {
+    width: 100% !important;
+    margin-top: 0px !important;
+    padding: 7px !important;
+  }
+  .Toastify__toast {
+    font-size: 14px;
+  }
+  .Toastify__toast-icon {
+    width: 16px;
+  }
+  .routeH3 {
+    margin-left: 5px;
+  }
+  .row.grayshade.emailBroadcast.smsSetting .row.fomik.customer.customerInfo.emailFilters {
+    padding-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .login-form,
+  .formpayement.login-form {
+    width: 100% !important;
+  }
+  .col-sm-12.loginlogo img {
+    width: 140px !important;
+  }
+  .row.lgoinHead.mobile .col-sm-4 {
+    flex: 0 0 35%;
+    padding-left: 0;
+    max-width: 35% !important;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .row.lgoinHead.mobile .col-sm-8 {
+    flex: 0 0 65%;
+    max-width: 65% !important;
+    padding-right: 0;
+  }
+  .row.footers.cslocation {
+    padding-left: 10px;
+  }
+  .row.cslocation.footerlinkss .col-sm-4 {
+    padding-left: 0;
+    padding-top: 20px;
+  }
+  .colorGold {
+    margin-bottom: 20px;
+  }
+  .row.footerlinkss li {
+    margin-bottom: 12px;
+  }
+  .row.lgoinHead.mobile {
+    align-items: center;
+  }
+  .row.class-login-new {
+    margin-right: 30px;
+  }
+  h3.main-h1 {
+    font-size: 20px;
+  }
+  .wordkorder .swiper-button-prev {
+    position: absolute !important;
+    right: 20% !important;
+  }
+  .modal-body {
+    padding: 5px !important;
+  }
+  .addReadingsssSaveBtn {
+    width: 100% !important;
+  }
+  .col-sm-1.editWO_iconnn1 {
+    width: 50% !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+  .col-sm-12.submitbtn .saaavvveeeBtnnn {
+    width: 45% !important;
+    padding: 10px 20px !important;
+  }
+  .editWorkHeader.row .col-sm-7 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .col-sm-1.editWO_iconnn2 {
+    width: 50% !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .addCustomersButtonnnn {
+    flex-direction: column !important;
+    gap: 10px !important;
+    align-items: flex-start !important;
+  }
+  .accordion-item {
+    padding: 0px;
+  }
+  .accordion-item {
+    background: #f0f0f0;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  .datefilter {
+    padding-left: 10px;
+    padding-top: 0px;
+  }
+  .emailFilters .savebtn button {
+    width: 50% !important;
+    margin-right: 0px !important;
+  }
+  .col-sm-7.right.chemicalBtns {
+    flex-wrap: wrap;
+    gap: 10px !important;
+  }
+  .col-sm-12 form.userFilter input {
+    width: 100% !important;
+    margin-right: 0px !important;
+    margin-bottom: 5px !important;
+  }
+  .col-sm-12 form.userFilter select {
+    width: 75% !important;
+    margin-right: 5px !important;
+    border-radius: 15px !important;
+    margin-top: 0px !important;
+  }
+}
