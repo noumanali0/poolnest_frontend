@@ -503,6 +503,22 @@ function Sidebar({ routes }) {
                                 <p>SMS Setting</p>
                               </NavLink>
                             </li>
+                            <li
+                              className={
+                                prop.upgrade
+                                  ? "active active-pro"
+                                  : activeRoute(prop.layout + prop.path)
+                              }
+                              key={key}
+                            >
+                              <NavLink
+                                to={"/invoice-setting"}
+                                className="nav-link"
+                              >
+                                <i className={prop.icon} />
+                                <p>Invoice</p>
+                              </NavLink>
+                            </li>
 
                             <li
                               className={

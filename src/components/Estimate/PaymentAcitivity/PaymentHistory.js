@@ -1,8 +1,10 @@
 import React from "react";
+import { useState } from "react";
 import { Table, Button } from "antd";
 import { MailOutlined, EditOutlined, DeleteOutlined } from "@ant-design/icons";
-
+import SendEmail from "../CustomerBillingSchedules/Modal/SendEmail";
 const PaymentHitory = ({ data }) => {
+  const [isModalVisible, setModalVisible] = useState(false);
   // Color-coded badge for status
   const renderStatus = (status) => {
     // Match your color codes from the screenshot
@@ -150,7 +152,10 @@ const PaymentHitory = ({ data }) => {
       render: (_, record) => (
         <div className="d-flex align-items-center" style={{ gap: 8 }}>
           {/* Email icon */}
-          <MailOutlined style={{ cursor: "pointer", fontSize: 16 }} />
+          <MailOutlined
+            onClick={() => setModalVisible(true)}
+            style={{ cursor: "pointer", fontSize: 16 }}
+          />
           {/* Edit icon */}
           <EditOutlined style={{ cursor: "pointer", fontSize: 16 }} />
           {/* Delete icon */}
@@ -163,6 +168,13 @@ const PaymentHitory = ({ data }) => {
   return (
     <div className="row p-3">
       <div className="col-sm-12">
+        <SendEmail
+          title="Email - Receipt"
+          visible={isModalVisible}
+          onClose={() => {
+            setModalVisible(false);
+          }}
+        />
         <div className="d-flex justify-content-end align-items-center mb-2 w-100">
           <Button
             type="primary"

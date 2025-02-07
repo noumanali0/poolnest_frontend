@@ -49,7 +49,7 @@ const InvoiceForm = ({ title, customer }) => {
     <Fragment>
       <div
         style={{
-          margin: "20px 0",
+          margin: "0px 0",
           backgroundColor: "#fff",
           borderRadius: "12px",
           padding: "10px 10px 10px 10px",

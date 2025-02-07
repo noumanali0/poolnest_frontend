@@ -9,7 +9,7 @@ function EstimateHeader() {
   return (
     <Fragment>
       <div className="row customers">
-        <div className="col d-flex justify-content-end">
+        <div className="col d-flex justify-content-start justify-content-sm-end">
           <EstimateStatusHeader />
         </div>
         <div className="col-sm-12">

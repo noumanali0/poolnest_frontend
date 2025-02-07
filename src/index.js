@@ -120,7 +120,7 @@ import EstimateInvoicing from "./views/EstimateInvoicing.js";
 import InvoiceBuilder from "./views/InvoiceBuilder.js";
 import PaymentAcitivity from "./views/PaymentAcitivity.js";
 import CustomerBillingSchedules from "./views/CustomerBillingSchedules.js";
-
+import InvoiceSettings from "./views/InvoiceSettings.js";
 console.log(
   "process.env.REACT_APP_GOOGLE_STRIPE_API_KEY",
   process.env.REACT_APP_GOOGLE_STRIPE_API_KEY
@@ -379,6 +379,11 @@ root.render(
                 element={<InvoicingDetail />}
               />
               <Route exact path="/General" element={<GeneralSetting />} />
+              <Route
+                exact
+                path="/invoice-setting"
+                element={<InvoiceSettings />}
+              />
               <Route
                 exact
                 path="/edit-shopping/:id"

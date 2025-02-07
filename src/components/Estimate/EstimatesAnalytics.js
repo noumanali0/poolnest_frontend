@@ -77,7 +77,11 @@ const EstimatesAnalytics = () => {
     <>
       <div
         className="row position-relative"
-        style={{ backgroundColor: "#fff", borderRadius: "12px" }}
+        style={{
+          backgroundColor: "#fff",
+          borderRadius: "12px",
+          marginTop: "12px",
+        }}
       >
         <div className="full-screen-preview__header">
           <img src={full_screen_preview} alt="not found" />
@@ -153,7 +157,7 @@ const EstimatesAnalytics = () => {
         <div className="col-sm-12">
           <div className="col-sm-6"></div>
           <div className="row col-sm-6">
-            <div className="w-100 d-flex justify-content-end ">
+            <div className="w-100 d-flex justify-content-start justify-content-sm-end">
               <button className="yellowbtn text-dark ">
                 <PlusOutlined className="font-weight-bold" />{" "}
                 <strong>Create Estimate</strong>
@@ -162,7 +166,7 @@ const EstimatesAnalytics = () => {
           </div>
         </div>
 
-        <div className="col-sm-12 pt-4">
+        <div className="col-12 py-4">
           <EstimateTable initialData={initialData} />
         </div>
       </div>

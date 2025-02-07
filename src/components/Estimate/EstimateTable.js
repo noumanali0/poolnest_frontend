@@ -129,21 +129,23 @@ const EstimateTable = ({ initialData }) => {
   };
 
   return (
-    <Table
-      columns={columns}
-      dataSource={data}
-      //   pagination={{
-      //     ...tableParams.pagination,
-      //     style: {
-      //       display: "flex",
-      //       justifyContent: "end",
-      //       alignItems: "baseline",
-      //     },
-      //   }}
-      pagination={false}
-      onChange={handleTableChange}
-      rowKey="key"
-    />
+    <div
+      style={{
+        overflowX: "auto",
+        border: "1px solid #d9d9d9",
+        borderRadius: "20px",
+      }}
+    >
+      <div style={{ minWidth: "830px" }}>
+        <Table
+          columns={columns}
+          dataSource={data}
+          pagination={false}
+          onChange={handleTableChange}
+          rowKey="key"
+        />
+      </div>
+    </div>
   );
 };
 

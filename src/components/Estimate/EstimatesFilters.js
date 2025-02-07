@@ -33,18 +33,31 @@ const Months = [
 
 const EstimatesFilters = () => {
   return (
-    <div className="row formik">
+    <div className="formik w-100">
       <Form
         name="dynamic_form_estimates_item"
         autoComplete="off"
         className="w-100"
       >
-        {/* Single row containing 5 columns of Selects */}
-        <div className="row">
+        <div
+          className="d-flex flex-wrap gap-3"
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "12px", // Adjust gap as needed
+          }}
+        >
           {/* 1st Select */}
-          <div className="col">
-            <Form.Item name="estimatesStatus">
-              <Select placeholder="Status">
+          <div
+            className="flex-grow-1"
+            style={{ flex: "1 1 180px", minWidth: "180px", maxWidth: "20%" }}
+          >
+            <Form.Item
+              name="estimatesStatus"
+              className="no-margin"
+              style={{ margin: "0px" }}
+            >
+              <Select placeholder="Status" className="w-100">
                 {AllStatus?.map((item) => (
                   <Option key={item._id} value={item._id}>
                     {item.label}
@@ -55,9 +68,12 @@ const EstimatesFilters = () => {
           </div>
 
           {/* 2nd Select */}
-          <div className="col">
-            <Form.Item name="estimatesType">
-              <Select placeholder="Type">
+          <div
+            className="flex-grow-1"
+            style={{ flex: "1 1 180px", minWidth: "180px", maxWidth: "20%" }}
+          >
+            <Form.Item name="estimatesType" style={{ margin: "0px" }}>
+              <Select placeholder="Type" className="w-100">
                 {Types?.map((item) => (
                   <Option key={item._id} value={item._id}>
                     {item.label}
@@ -68,9 +84,12 @@ const EstimatesFilters = () => {
           </div>
 
           {/* 3rd Select */}
-          <div className="col">
-            <Form.Item name="estimatesCustomer">
-              <Select placeholder="Status">
+          <div
+            className="flex-grow-1"
+            style={{ flex: "1 1 180px", minWidth: "180px", maxWidth: "20%" }}
+          >
+            <Form.Item name="estimatesCustomer" style={{ margin: "0px" }}>
+              <Select placeholder="Customer" className="w-100">
                 {AllCustomer?.map((item) => (
                   <Option key={item._id} value={item._id}>
                     {item.label}
@@ -81,9 +100,12 @@ const EstimatesFilters = () => {
           </div>
 
           {/* 4th Select */}
-          <div className="col">
-            <Form.Item name="eatimatesMonths">
-              <Select placeholder="Time">
+          <div
+            className="flex-grow-1"
+            style={{ flex: "1 1 180px", minWidth: "180px", maxWidth: "20%" }}
+          >
+            <Form.Item name="eatimatesMonths" style={{ margin: "0px" }}>
+              <Select placeholder="Time" className="w-100">
                 {Months?.map((item) => (
                   <Option key={item._id} value={item._id}>
                     {item.label}
@@ -93,20 +115,23 @@ const EstimatesFilters = () => {
             </Form.Item>
           </div>
 
-          {/* 5th Select */}
-          <div className="col-sm-4">
-            <div className="row">
-              <div className="col">
-                <Form.Item name={[name, "start_date"]}>
-                  <DatePicker placeholder="Date To" />
-                </Form.Item>
-              </div>
-              <div className="col">
-                <Form.Item name={[name, "start_date"]}>
-                  <DatePicker placeholder="Date From" />
-                </Form.Item>
-              </div>
-            </div>
+          {/* Date Fields */}
+          <div
+            className="flex-grow-1"
+            style={{ flex: "1 1 180px", minWidth: "180px", maxWidth: "20%" }}
+          >
+            <Form.Item name={[name, "start_date"]} style={{ margin: "0px" }}>
+              <DatePicker placeholder="Date To" className="w-100" />
+            </Form.Item>
+          </div>
+
+          <div
+            className="flex-grow-1"
+            style={{ flex: "1 1 180px", minWidth: "180px", maxWidth: "20%" }}
+          >
+            <Form.Item name={[name, "end_date"]} style={{ margin: "0px" }}>
+              <DatePicker placeholder="Date From" className="w-100" />
+            </Form.Item>
           </div>
         </div>
       </Form>

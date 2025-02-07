@@ -3,6 +3,15 @@ import { useState } from "react";
 import EstimateStatusHeader from "../EstimateStatusHeader";
 import InvoiceForm from "./InvoiceForm";
 import CustomerInfo from "./CustomerInfo";
+import ViewIcon from "../../../../src/assets/Icons/View.svg";
+
+import SendEmail from "../CustomerBillingSchedules/Modal/SendEmail";
+import {
+  MailOutlined,
+  EditOutlined,
+  DeleteOutlined,
+  EyeOutlined,
+} from "@ant-design/icons";
 
 export const customerData = {
   // Basic "customer" info
@@ -152,6 +161,7 @@ export const customerData = {
 };
 
 const InvoiceBuilderMain = () => {
+  const [isModalVisible, setModalVisible] = useState(false);
   const [customer, setCustomer] = useState({
     id: 0,
     name: "John Doe",
@@ -167,9 +177,30 @@ const InvoiceBuilderMain = () => {
       <div className="col d-flex justify-content-end">
         <EstimateStatusHeader />
       </div>
-
+      <SendEmail
+        notify={true}
+        title="Email - Invoice"
+        visible={isModalVisible}
+        onClose={() => {
+          setModalVisible(false);
+        }}
+      />
       <div className="col-sm-12 estimate-builder-main ">
         <div className="col-sm-8 estimate-builder-left">
+          <div className="d-flex justify-content-end row-gap-3">
+            <MailOutlined
+              onClick={() => setModalVisible(true)}
+              style={{ cursor: "pointer", fontSize: 16 }}
+            />
+            <EyeOutlined style={{ cursor: "pointer", fontSize: 16 }} />
+            <EditOutlined
+              style={{ cursor: "pointer", fontSize: 16, paddingLeft: "5px" }}
+            />
+
+            <DeleteOutlined
+              style={{ cursor: "pointer", fontSize: 16, paddingLeft: "5px" }}
+            />
+          </div>
           <InvoiceForm title={"Estimate"} customer={customer} />
         </div>
         <div className="col-sm-4 estimate-builder-right ">
