@@ -1,5 +1,5 @@
 import React, { Fragment, useState, useEffect } from "react";
-import { Input, Select, Checkbox, Row, Col } from "antd";
+import { Card, Form, Input, Select, Radio, Checkbox, Row, Col } from "antd";
 
 const { Option } = Select;
 import { Typography } from "antd";
@@ -139,7 +139,7 @@ const InvoiceSettingBilling = ({ data = [] }) => {
       <div className="col-sm-12 pt-3">
         <div className="col pt-4">
           <RowItem
-            title="Down Payment"
+            title="Discount:"
             value={row1Value}
             onChange={(e) => setRow1Value(e.target.value)}
             isEnabled={isRow1Enabled}
@@ -147,8 +147,11 @@ const InvoiceSettingBilling = ({ data = [] }) => {
             dropdownValue={row1Dropdown}
             onDropdownChange={setRow1Dropdown}
           />
+          <h5 className="fw-semibold" style={{ fontWeight: "700" }}>
+            Late Payment Fees:
+          </h5>
           <RowItem
-            title="Discount"
+            title="Automatically add a late payment fee"
             value={row2Value}
             onChange={(e) => setRow2Value(e.target.value)}
             isEnabled={isRow2Enabled}
@@ -156,7 +159,14 @@ const InvoiceSettingBilling = ({ data = [] }) => {
             dropdownValue={row2Dropdown}
             onDropdownChange={setRow2Dropdown}
           />
-          <RowItem
+          <div className="d-flex">
+            {" "}
+            <h5 className="fw-semibold" style={{ fontWeight: "700" }}>
+              Enable Gratuity
+            </h5>
+            <Checkbox></Checkbox>
+          </div>
+          {/* <RowItem
             title="Fee"
             value={row3Value}
             onChange={(e) => setRow3Value(e.target.value)}
@@ -164,10 +174,10 @@ const InvoiceSettingBilling = ({ data = [] }) => {
             handleCheckboxChange={(e) => setIsRow3Enabled(e.target.checked)}
             dropdownValue={row3Dropdown}
             onDropdownChange={setRow3Dropdown}
-          />
+          /> */}
         </div>
 
-        <div className="col d-flex flex-column align-items-start pt-4">
+        {/* <div className="col d-flex flex-column align-items-start pt-4">
           <div className="d-flex justify-content-between w-100">
             <Title
               className="p-0 m-0"
@@ -198,7 +208,7 @@ const InvoiceSettingBilling = ({ data = [] }) => {
             </Title>
             <Text className="p-0 m-0 pl-2">${amountDue}</Text>
           </div>
-        </div>
+        </div> */}
       </div>
     </Fragment>
   );

@@ -12,6 +12,7 @@ const { Text, Title } = Typography;
 const InvoiceBuilderForm = ({ title, customer }) => {
   const [localNotes, setLocalNotes] = useState("");
   const [isEditingNotes, setIsEditingNotes] = useState(false);
+
   const [data, setData] = useState([
     {
       key: 1,
