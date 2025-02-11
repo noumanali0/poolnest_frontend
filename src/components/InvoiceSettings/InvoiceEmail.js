@@ -1,290 +1,582 @@
-import React, { Fragment, useEffect, useState } from "react";
-import { Container } from "react-bootstrap";
-import Sidebar from "../Sidebar/Sidebar";
-import dashboardRoutes from "../../routes";
-import { Switch } from "antd";
-import {
-  DatePicker,
-  Select,
-  Input,
-  Typography,
-  Card,
-  Button,
-  Form,
-  Radio,
-  Checkbox,
-  Row,
-  Col,
-  Tabs,
-  InputNumber,
-} from "antd";
-const { TabPane } = Tabs;
-const { TextArea } = Input;
-const { Title, Text } = Typography;
-export default function InvoiceEmail() {
-  const [isEditingNotes, setIsEditingNotes] = useState(true);
-  const [autoInvoicing, setAutoInvoicing] = useState(true);
-  const [invoiceDay, setInvoiceDay] = useState(1);
-  const [data, setData] = useState([
-    {
-      key: 1,
-      name: "Customer 1 First & Last",
-      location: "St. Address Only",
-      frequency: 7,
-      date: 1,
-      add: "minus",
-    },
-    {
-      key: 2,
-      name: "Customer 2 First & Last",
-      location: "St. Address Only",
-      frequency: 14,
-      date: 1,
-      add: "minus",
-    },
-    {
-      key: 3,
-      name: "Customer 3 First & Last",
-      location: "St. Address Only",
-      frequency: 30,
-      date: 5,
-      add: "plus",
-    },
-    {
-      key: 4,
-      name: "Customer 4 First & Last",
-      location: "St. Address Only",
-      frequency: 30,
-      date: 1,
-      add: "plus",
-    },
-    {
-      key: 5,
-      name: "Customer 5 First & Last",
-      location: "St. Address Only",
-      frequency: 30,
-      date: 15,
-      add: "plus",
-    },
-  ]);
-  const [dataUpfront, setDataUpfront] = useState([
-    {
-      key: 1,
-      name: "Customer 1 First & Last",
-      location: "St. Address Only",
-      frequency: 7,
-      date: 1,
-    },
-    {
-      key: 2,
-      name: "Customer 2 First & Last",
-      location: "St. Address Only",
-      frequency: 14,
-      date: 1,
-    },
-    {
-      key: 3,
-      name: "Customer 3 First & Last",
-      location: "St. Address Only",
-      frequency: 30,
-      date: 5,
-    },
-    {
-      key: 4,
-      name: "Customer 4 First & Last",
-      location: "St. Address Only",
-      frequency: 30,
-      date: 1,
-    },
-    {
-      key: 5,
-      name: "Customer 5 First & Last",
-      location: "St. Address Only",
-      frequency: 30,
-      date: 15,
-    },
-  ]);
-  const handleSave = () => {
-    console.log("Save clicked");
+// import React from "react";
+// import { Input, Checkbox } from "antd";
+// import "bootstrap/dist/css/bootstrap.min.css";
+
+// const InvoiceEmail = () => {
+//   // 1) Header (Title + Preview Email)
+//   const EmailSettingsHeader = () => {
+//     return (
+//       <div className="row mb-3">
+//         <div className="col">
+//           <h4>Email Settings:</h4>
+//         </div>
+//         {/* "Preview Email" on the right */}
+//         <div className="col text-end align-self-center">
+//           <button className="bluebtn">Preview Email</button>
+//         </div>
+//       </div>
+//     );
+//   };
+
+//   // 2) Sender Section
+//   const SenderSection = () => {
+//     return (
+//       <div
+//         className="mb-3"
+//         style={{
+//           gap: "5px",
+//           backgroundColor: "white",
+//           borderRadius: "12px",
+//           marginTop: "12px",
+//           padding: "10px",
+//         }}
+//       >
+//         <h6>Sender:</h6>
+//         <div className="p-3">
+//           <div className="row mb-2">
+//             <div className="col-sm-2">Name:</div>
+//             <div className="col-sm-4">
+//               <Input />
+//             </div>
+//             <div className="col-sm-2">Email:</div>
+//             <div className="col-sm-4">
+//               <Input />
+//             </div>
+//           </div>
+//           <div className="row mb-2">
+//             <div className="col-sm-2">From:</div>
+//             <div className="col-sm-4">
+//               <Input />
+//             </div>
+//             <div className="col-sm-2">CC:</div>
+//             <div className="col-sm-4">
+//               <Input />
+//             </div>
+//           </div>
+//           <div className="row">
+//             <div className="col-sm-2">BCC:</div>
+//             <div className="col-sm-4">
+//               <Input />
+//             </div>
+//           </div>
+//         </div>
+//       </div>
+//     );
+//   };
+
+//   // 3) Company Info Section
+//   const CompanyInfoSection = () => {
+//     return (
+//       <div
+//         className="mb-3"
+//         style={{
+//           gap: "5px",
+//           backgroundColor: "white",
+//           borderRadius: "12px",
+//           marginTop: "12px",
+//           padding: "10px",
+//         }}
+//       >
+//         <h6>Company Info:</h6>
+//         <div className="p-3">
+//           {/* Row 1: Company Name + Phone */}
+//           <div className="row mb-2">
+//             <div className="col-sm-6">
+//               <strong>Company Name:</strong> XYZ Pool Service
+//             </div>
+//             <div className="col-sm-6">
+//               <strong>Phone Number:</strong> 623-999-9999
+//             </div>
+//           </div>
+//           {/* Row 2: Billing Address + Email/Website */}
+//           <div className="row mb-2">
+//             <div className="col-sm-6">
+//               <strong>Billing Address:</strong>
+//               <br />
+//               123 Main St.
+//               <br />
+//               Phoenix, AZ 85014
+//             </div>
+//             <div className="col-sm-6">
+//               <strong>Email:</strong> email@email.com
+//               <br />
+//               <strong>Website:</strong> www.poolco.com
+//             </div>
+//           </div>
+//           {/* Checkbox: Include Company Logo */}
+//           <div className="row">
+//             <div className="col">
+//               <Checkbox>Include Company Logo</Checkbox>
+//             </div>
+//           </div>
+//         </div>
+//       </div>
+//     );
+//   };
+
+//   // 4) Email Template Settings Section
+//   const EmailTemplateSettings = () => {
+//     return (
+//       <div
+//         className="mb-3"
+//         style={{
+//           gap: "5px",
+//           backgroundColor: "white",
+//           borderRadius: "12px",
+//           marginTop: "12px",
+//           padding: "10px",
+//         }}
+//       >
+//         <h6>Email Template Settings</h6>
+//         <div className="p-3">
+//           <div className="row mb-2">
+//             <div className="col-sm-3">Subject Line:</div>
+//             <div className="col-sm-9">
+//               <Input />
+//             </div>
+//           </div>
+//           <div className="row mb-2">
+//             <div className="col-sm-3">Header:</div>
+//             <div className="col-sm-9">
+//               <Input />
+//             </div>
+//           </div>
+//           <div className="row">
+//             <div className="col-sm-3">Email Message:</div>
+//             <div className="col-sm-9">
+//               <Input.TextArea rows={4} />
+//             </div>
+//           </div>
+//         </div>
+//       </div>
+//     );
+//   };
+
+//   // 5) Overdue Reminder Settings Section
+//   const OverdueReminderSettings = () => {
+//     return (
+//       <div
+//         className="mb-3"
+//         style={{
+//           gap: "5px",
+//           backgroundColor: "white",
+//           borderRadius: "12px",
+//           marginTop: "12px",
+//           padding: "10px",
+//         }}
+//       >
+//         <h6>Overdue Reminder Settings:</h6>
+//         <div className="p-3">
+//           <div className="mb-3">
+//             <Checkbox>
+//               Set the number of days before the invoice is due:
+//             </Checkbox>
+//             <div className="d-flex align-items-center mt-2">
+//               <Input style={{ width: "60px", marginRight: "8px" }} />
+//               <span>Day(s)</span>
+//             </div>
+//           </div>
+//           <div className="mb-3">
+//             <Checkbox>
+//               Set the number of days after the invoice is due:
+//             </Checkbox>
+//             <div className="d-flex align-items-center mt-2">
+//               <Input style={{ width: "60px", marginRight: "8px" }} />
+//               <span>Day(s)</span>
+//             </div>
+//           </div>
+//           <div className="mb-3">
+//             <Checkbox>
+//               Set the interval for sending reminder emails until the invoice is
+//               paid:
+//             </Checkbox>
+//             <div className="d-flex align-items-center mt-2">
+//               <Input style={{ width: "60px", marginRight: "8px" }} />
+//               <span>Day(s)</span>
+//             </div>
+//           </div>
+//         </div>
+//       </div>
+//     );
+//   };
+
+//   // 6) Default Attachments Section
+//   const DefaultAttachments = () => {
+//     return (
+//       <div
+//         className="mb-3"
+//         style={{
+//           gap: "5px",
+//           backgroundColor: "white",
+//           borderRadius: "12px",
+//           marginTop: "12px",
+//           padding: "10px",
+//         }}
+//       >
+//         <h6>Default Attachments:</h6>
+//         <div className="row mb-2">
+//           <div className="col-auto">
+//             <Checkbox defaultChecked />
+//           </div>
+//           <div className="col">Include a PDF copy of the invoice</div>
+//         </div>
+//         <div className="row">
+//           <div className="col-auto">
+//             <Checkbox />
+//           </div>
+//           <div className="col d-flex align-items-center">
+//             Additional Attachments
+//             <i className="ms-2 bi bi-paperclip" />
+//           </div>
+//         </div>
+//       </div>
+//     );
+//   };
+
+//   // 7) Footer Buttons (Cancel / Save)
+//   const ActionButtons = () => {
+//     return (
+//       <div className="pt-2 d-flex justify-content-end" style={{ gap: "15px" }}>
+//         <button
+//           // onClick={handleCancel}
+//           className="esimate-build-form-cancelbtn"
+//         >
+//           Cancel
+//         </button>
+//         <button
+//           // onClick={handleSave}
+//           className="esimate-build-form-savebtn"
+//         >
+//           Save
+//         </button>
+//       </div>
+//     );
+//   };
+
+//   // The single component's main return
+//   return (
+//     <div className=" my-4">
+//       <EmailSettingsHeader />
+
+//       {/* Row 1: Sender (8 columns) + Company Info (4 columns) */}
+//       <div className="row ">
+//         <div className="col-md-8">
+//           <SenderSection />
+//         </div>
+//         <div className="col-md-4">
+//           <CompanyInfoSection />
+//         </div>
+//       </div>
+
+//       {/* Row 2: Email Template (8 columns) + Overdue Reminder (4 columns) */}
+//       <div className="row ">
+//         <div className="col-md-8">
+//           <EmailTemplateSettings />
+//         </div>
+//         <div className="col-md-4">
+//           <OverdueReminderSettings />
+//         </div>
+//       </div>
+
+//       {/* Default Attachments (full width) */}
+//       <div className="row">
+//         <div className="col-md-8">
+//           <DefaultAttachments />
+//         </div>
+//       </div>
+
+//       {/* Bottom Action Buttons */}
+//       <ActionButtons />
+//     </div>
+//   );
+// };
+
+// export default InvoiceEmail;
+
+import React from "react";
+import { Input, Checkbox } from "antd";
+import "bootstrap/dist/css/bootstrap.min.css";
+
+const InvoiceEmail = () => {
+  // 1) Header (Title + Preview Email)
+  const EmailSettingsHeader = () => {
+    return (
+      <div className="row mb-3">
+        <div className="col">
+          <h4>Email Settings:</h4>
+        </div>
+        {/* "Preview Email" on the right */}
+        <div className="col text-end align-self-center">
+          <button className="bluebtn">Preview Email</button>
+        </div>
+      </div>
+    );
   };
 
-  const handleCancel = () => {
-    console.log("Cancel clicked");
+  // 2) Sender Section
+  const SenderSection = () => {
+    return (
+      <div
+        className="mb-3"
+        style={{
+          gap: "5px",
+          backgroundColor: "white",
+          borderRadius: "12px",
+          marginTop: "12px",
+          padding: "10px",
+        }}
+      >
+        <h6>Sender:</h6>
+        <div className="p-3">
+          <div className="row mb-2">
+            <div className="col-sm-2">Name:</div>
+            <div className="col-sm-4">
+              <Input />
+            </div>
+            <div className="col-sm-2">Email:</div>
+            <div className="col-sm-4">
+              <Input />
+            </div>
+          </div>
+          <div className="row mb-2">
+            <div className="col-sm-2">From:</div>
+            <div className="col-sm-4">
+              <Input />
+            </div>
+            <div className="col-sm-2">CC:</div>
+            <div className="col-sm-4">
+              <Input />
+            </div>
+          </div>
+          {/* Aligned BCC row with 4 columns to match the rows above */}
+          <div className="row">
+            <div className="col-sm-2">BCC:</div>
+            <div className="col-sm-4">
+              <Input />
+            </div>
+            <div className="col-sm-2"></div>
+            <div className="col-sm-4"></div>
+          </div>
+        </div>
+      </div>
+    );
   };
 
+  // 3) Company Info Section
+  const CompanyInfoSection = () => {
+    return (
+      <div
+        className="mb-3"
+        style={{
+          gap: "5px",
+          backgroundColor: "white",
+          borderRadius: "12px",
+          marginTop: "12px",
+          padding: "10px",
+        }}
+      >
+        <h6>Company Info:</h6>
+        <div className="p-3">
+          {/* Row 1: Company Name + Phone */}
+          <div className="row mb-2">
+            <div className="col-sm-6">
+              <strong>Company Name:</strong> XYZ Pool Service
+            </div>
+            <div className="col-sm-6">
+              <strong>Phone Number:</strong> 623-999-9999
+            </div>
+          </div>
+          {/* Row 2: Billing Address + Email/Website */}
+          <div className="row mb-2">
+            <div className="col-sm-6">
+              <strong>Billing Address:</strong>
+              <br />
+              123 Main St.
+              <br />
+              Phoenix, AZ 85014
+            </div>
+            <div className="col-sm-6">
+              <strong>Email:</strong> email@email.com
+              <br />
+              <strong>Website:</strong> www.poolco.com
+            </div>
+          </div>
+          {/* Checkbox: Include Company Logo */}
+          <div className="row">
+            <div className="col">
+              <Checkbox>Include Company Logo</Checkbox>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
+  // 4) Email Template Settings Section
+  const EmailTemplateSettings = () => {
+    return (
+      <div
+        className="mb-3"
+        style={{
+          gap: "5px",
+          backgroundColor: "white",
+          borderRadius: "12px",
+          marginTop: "12px",
+          padding: "10px",
+        }}
+      >
+        <h6>Email Template Settings</h6>
+        <div className="p-3">
+          <div className="row mb-2">
+            <div className="col-sm-3">Subject Line:</div>
+            <div className="col-sm-9">
+              <Input />
+            </div>
+          </div>
+          <div className="row mb-2">
+            <div className="col-sm-3">Header:</div>
+            <div className="col-sm-9">
+              <Input />
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-sm-3">Email Message:</div>
+            <div className="col-sm-9">
+              <Input.TextArea rows={4} />
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
+  // 5) Overdue Reminder Settings Section
+  const OverdueReminderSettings = () => {
+    return (
+      <div
+        className="mb-3"
+        style={{
+          gap: "5px",
+          backgroundColor: "white",
+          borderRadius: "12px",
+          marginTop: "12px",
+          padding: "10px",
+        }}
+      >
+        <h6>Overdue Reminder Settings:</h6>
+        <div className="p-3">
+          <div className="mb-3">
+            <Checkbox>
+              Set the number of days before the invoice is due:
+            </Checkbox>
+            <div className="d-flex align-items-center mt-2">
+              <Input style={{ width: "60px", marginRight: "8px" }} />
+              <span>Day(s)</span>
+            </div>
+          </div>
+          <div className="mb-3">
+            <Checkbox>
+              Set the number of days after the invoice is due:
+            </Checkbox>
+            <div className="d-flex align-items-center mt-2">
+              <Input style={{ width: "60px", marginRight: "8px" }} />
+              <span>Day(s)</span>
+            </div>
+          </div>
+          <div className="mb-3">
+            <Checkbox>
+              Set the interval for sending reminder emails until the invoice is
+              paid:
+            </Checkbox>
+            <div className="d-flex align-items-center mt-2">
+              <Input style={{ width: "60px", marginRight: "8px" }} />
+              <span>Day(s)</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
+  // 6) Default Attachments Section
+  const DefaultAttachments = () => {
+    return (
+      <div
+        className="mb-3"
+        style={{
+          gap: "5px",
+          backgroundColor: "white",
+          borderRadius: "12px",
+          marginTop: "12px",
+          padding: "10px",
+        }}
+      >
+        <h6>Default Attachments:</h6>
+        <div className="row mb-2">
+          <div className="col-auto">
+            <Checkbox defaultChecked />
+          </div>
+          <div className="col">Include a PDF copy of the invoice</div>
+        </div>
+        <div className="row">
+          <div className="col-auto">
+            <Checkbox />
+          </div>
+          <div className="col d-flex align-items-center">
+            Additional Attachments
+            <i className="ms-2 bi bi-paperclip" />
+          </div>
+        </div>
+      </div>
+    );
+  };
+
+  // 7) Footer Buttons (Cancel / Save)
+  const ActionButtons = () => {
+    return (
+      <div className="pt-2 d-flex justify-content-end" style={{ gap: "15px" }}>
+        <button className="esimate-build-form-cancelbtn">Cancel</button>
+        <button className="esimate-build-form-savebtn">Save</button>
+      </div>
+    );
+  };
+
+  // The single component's main return
   return (
-    <div className="container mt-4">
-      <Card bordered>
-        <Form layout="vertical">
-          <div className="d-flex w-100">
-            <Row gutter={16} align="stretch" className="w-100">
-              <Col span={12}>
-                <Form.Item className="fw-bold">
-                  <Input placeholder="Enter something..." />
-                </Form.Item>
-              </Col>
+    <div className=" my-4">
+      <EmailSettingsHeader />
 
-              <Col span={12}>
-                <Form.Item label="From:" className="fw-bold">
-                  <Input placeholder="Enter sender email" />
-                </Form.Item>
-                <Form.Item label="Email:" className="fw-bold">
-                  <Input placeholder="Enter recipient email" />
-                </Form.Item>
-                <Form.Item label="CC:" className="fw-bold">
-                  <Input placeholder="Enter CC email" />
-                </Form.Item>
-                <Form.Item label="BCC:" className="fw-bold">
-                  <Input placeholder="Enter BCC email" />
-                </Form.Item>
-              </Col>
-            </Row>
+      {/* Row 1: Sender (8 columns) + Company Info (4 columns) */}
+      <div className="row ">
+        <div className="col-md-8">
+          <SenderSection />
+        </div>
+        <div className="col-md-4">
+          <CompanyInfoSection />
+        </div>
+      </div>
 
-            <Row gutter={16} className="mt-3 w-100 ml-3">
-              <Col span={24}>
-                <Card size="small" title="Company Info:" bordered>
-                  <Row gutter={16}>
-                    <Col span={12}>
-                      <Row gutter={[16, 8]}>
-                        <Col span={24}>
-                          <p className="fw-bold">Company Name:</p>
-                          <p>XYZ Pool Service</p>
-                        </Col>
+      {/* Row 2: Email Template (8 columns) + Overdue Reminder (4 columns) */}
+      <div className="row ">
+        <div className="col-md-8">
+          <EmailTemplateSettings />
+        </div>
+        <div className="col-md-4">
+          <OverdueReminderSettings />
+        </div>
+      </div>
 
-                        <Col span={24}>
-                          <p className="fw-bold">Billing Address:</p>
-                          <p>123 Main St, Phoenix, AZ 85014</p>
-                        </Col>
+      {/* Default Attachments (full width) */}
+      <div className="row">
+        <div className="col-md-8">
+          <DefaultAttachments />
+        </div>
+      </div>
 
-                        <Col span={24}>
-                          <Checkbox>Include Company Logo</Checkbox>
-                        </Col>
-                      </Row>
-                    </Col>
-
-                    <Col span={12}>
-                      <Row gutter={[16, 8]}>
-                        <Col span={24}>
-                          <p className="fw-bold">Phone Number:</p>
-                          <p>623-999-9999</p>
-                        </Col>
-
-                        <Col span={24}>
-                          <p className="fw-bold">Email:</p>
-                          <p>email@example.com</p>
-                        </Col>
-
-                        <Col span={24}>
-                          <p className="fw-bold">Website:</p>
-                          <p>www.poolco.com</p>
-                        </Col>
-                      </Row>
-                    </Col>
-                  </Row>
-                </Card>
-              </Col>
-            </Row>
-          </div>
-          <div className="d-flex w-100">
-            <Row gutter={16} align="stretch" className="w-100">
-              <Col span={24}>
-                <Form.Item
-                  label="Email Template Settings:"
-                  className="fw-bold mt-3"
-                >
-                  <Input.TextArea
-                    rows={3}
-                    placeholder="Enter email template..."
-                  />
-                </Form.Item>
-              </Col>
-            </Row>
-
-            <Row gutter={16} className="mt-3 w-100 ml-3">
-              <Col span={24}>
-                <Card size="small" title="Overdue Reminder Settings:" bordered>
-                  <Row gutter={16}>
-                    <Col span={24}>
-                      <Form.Item>
-                        <Checkbox>
-                          Set the number of days before the invoice is due:
-                        </Checkbox>
-                        <Input
-                          type="number"
-                          placeholder="Enter days"
-                          className="mt-2"
-                        />
-                      </Form.Item>
-                    </Col>
-                    <Col span={24}>
-                      <Form.Item>
-                        <Checkbox>
-                          Set the number of days after the invoice is due:
-                        </Checkbox>
-                        <Input
-                          type="number"
-                          placeholder="Enter days"
-                          className="mt-2"
-                        />
-                      </Form.Item>
-                    </Col>
-                    <Col span={24}>
-                      <Form.Item>
-                        <Checkbox>
-                          Set the interval for sending reminder emails until the
-                          invoice is paid:
-                        </Checkbox>
-                        <Input
-                          type="number"
-                          placeholder="Enter days"
-                          className="mt-2"
-                        />
-                      </Form.Item>
-                    </Col>
-                  </Row>
-                </Card>
-              </Col>
-            </Row>
-          </div>
-
-          <Form.Item>
-            <Checkbox>Include a PDF copy of the invoice</Checkbox>
-          </Form.Item>
-          <Form.Item>
-            <Checkbox>Additional Attachments</Checkbox>
-          </Form.Item>
-
-          <div className="d-flex justify-content-end mt-3 gap-2">
-            <Button
-              key="cancel"
-              className="estimate-builder-greybtn mr-2"
-              style={{
-                fontWeight: "700",
-                height: "40px",
-                boxSizing: "border-box",
-                borderRadius: "15px",
-                backgroundColor: "#C3C1B9",
-              }}
-            >
-              Cancel
-            </Button>
-            <Button
-              key="send"
-              type="primary"
-              style={{
-                color: "black",
-                fontWeight: "700",
-                textTransform: "none",
-                backgroundColor: "#F1C40F",
-                borderRadius: "12px",
-                height: "40px",
-              }}
-            >
-              Save
-            </Button>
-          </div>
-        </Form>
-      </Card>
+      {/* Bottom Action Buttons */}
+      <ActionButtons />
     </div>
   );
-}
+};
+
+export default InvoiceEmail;
